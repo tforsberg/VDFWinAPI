@@ -48,72 +48,51 @@ Object oKernel32_VW is a View
                  
           Move (WINAPI_GlobalMemoryStatus (AddressOf (MyMemory))) to iVoid    
           
-          Showln MyMemory.dwMemoryLoad          // fires when the button is clicked
-          Showln MyMemory.dwTotalPhys      
-          Showln MyMemory.dwAvailPhys              
-          Showln MyMemory.dwTotalPageFile          
-          Showln MyMemory.dwAvailPageFile      
-          Showln MyMemory.dwTotalVirtual     
-          Showln MyMemory.dwAvailVirtual
-          
-            
+          Set Value of oFormMemoryLoad    to MyMemory.dwMemoryLoad          // fires when the button is clicked
+          Set Value of oFormTotalPhys     to MyMemory.dwTotalPhys      
+          Set Value of oFormAvailPhys     to MyMemory.dwAvailPhys              
+          Set Value of oFormTotalPageFile to MyMemory.dwTotalPageFile          
+          Set Value of oFormAvailPageFile to MyMemory.dwAvailPageFile      
+          Set Value of oFormTotalVirtual  to MyMemory.dwTotalVirtual     
+          Set Value of oFormAvailVirtual  to MyMemory.dwAvailVirtual
+
         End_Procedure
       
       End_Object
 
-      Object oForm1 is a Form
+      Object oFormMemoryLoad is a Form
         Set Size to 13 100
         Set Location to 16 65
-      
-          //OnChange is called on every changed character
-      
-          //Procedure OnChange
-          //    String sValue
-          //
-          //    Get Value to sValue
-          //End_Procedure
-      
       End_Object
 
-      Object oForm1 is a Form
+      Object oFormTotalPhys is a Form
         Set Size to 13 100
-        Set Location to 35 65
-      
-          //OnChange is called on every changed character
-      
-          //Procedure OnChange
-          //    String sValue
-          //
-          //    Get Value to sValue
-          //End_Procedure
-      
+        Set Location to 33 65
       End_Object
 
-      Object oForm1 is a Form
+      Object oFormAvailPhys is a Form
         Set Size to 13 100
-        Set Location to 54 66
-      
-          //OnChange is called on every changed character
-      
-          //Procedure OnChange
-          //    String sValue
-          //
-          //    Get Value to sValue
-          //End_Procedure
-      
+        Set Location to 50 65
       End_Object
-      Object oForm1 is a Form
+      
+      Object oFormTotalPageFile is a Form
         Set Size to 13 100
-        Set Location to 72 66
-      
-          //OnChange is called on every changed character
-      
-          //Procedure OnChange
-          //    String sValue
-          //
-          //    Get Value to sValue
-          //End_Procedure
-      
+        Set Location to 67 65
+      End_Object
+
+      Object oFormAvailPageFile is a Form
+        Set Size to 13 100
+        Set Location to 84 65
+      End_Object
+
+      Object oFormTotalVirtual is a Form
+        Set Size to 13 100
+        Set Location to 101 65
+      End_Object
+
+      Object oFormAvailVirtual is a Form
+        Set Size to 13 100
+        Set Location to 118 65
       End_Object
       
       
