@@ -1,20 +1,8 @@
 Use Windows.pkg
 Use DFClient.pkg
 
-Struct tWINAPI_MEMORYSTATUS
-  DWord dwLength         // sizeof(MEMORYSTATUS)
-  DWord dwMemoryLoad     // percent Of memory in use
-  DWord dwTotalPhys      // bytes Of physical memory
-  DWord dwAvailPhys      // free physical memory bytes
-  DWord dwTotalPageFile  // bytes Of paging file
-  DWord dwAvailPageFile  // free bytes Of paging file
-  DWord dwTotalVirtual   // user bytes Of address space
-  DWord dwAvailVirtual   // free user bytes
-End_Struct // tWINAPI_MEMORYSTATUS
 
-External_Function WINAPI_GlobalMemoryStatus "GlobalMemoryStatus" Kernel32.Dll ;
-                  Pointer lpsMemoryStatus Returns Integer
-
+Use cWinAPI_Kernel32_GlobalMemoryStatus.pkg
 
 Deferred_View Activate_oKernel32_VW for ;
 Object oKernel32_VW is a View
@@ -39,14 +27,13 @@ Object oKernel32_VW is a View
         // fires when the button is clicked
         Procedure OnClick
           Integer iVoid
+          Handle hMem
           DWord dwMemoryLoad dwTotalPhys dwAvailPhys dwTotalPageFile       
           DWord dwAvailPageFile dwTotalVirtual dwAvailVirtual      
           tWINAPI_MEMORYSTATUS MyMemory
-          
-          //ZeroType WINAPI_MEMORYSTATUS to sMemoryStatus      
-          
-                 
-          Move (WINAPI_GlobalMemoryStatus (AddressOf (MyMemory))) to iVoid    
+
+          Get Create (RefClass(cWinAPI_Kernel32_GlobalMemoryStatus)) to hMem
+          Get ptGlobalMemoryStatus of hMem to MyMemory
           
           Set Value of oFormMemoryLoad    to MyMemory.dwMemoryLoad          // fires when the button is clicked
           Set Value of oFormTotalPhys     to MyMemory.dwTotalPhys      
@@ -56,6 +43,8 @@ Object oKernel32_VW is a View
           Set Value of oFormTotalVirtual  to MyMemory.dwTotalVirtual     
           Set Value of oFormAvailVirtual  to MyMemory.dwAvailVirtual
 
+          Send Destroy of hMem
+          
         End_Procedure
       
       End_Object
@@ -63,41 +52,45 @@ Object oKernel32_VW is a View
       Object oFormMemoryLoad is a Form
         Set Size to 13 100
         Set Location to 16 65
+        Set Label to "MemoryLoad"
       End_Object
 
       Object oFormTotalPhys is a Form
         Set Size to 13 100
         Set Location to 33 65
+        Set Label to "TotalPhys"
       End_Object
 
       Object oFormAvailPhys is a Form
         Set Size to 13 100
         Set Location to 50 65
+        Set Label to "AvailPhys"
       End_Object
       
       Object oFormTotalPageFile is a Form
         Set Size to 13 100
         Set Location to 67 65
+        Set Label to "TotalPageFile"
       End_Object
 
       Object oFormAvailPageFile is a Form
         Set Size to 13 100
         Set Location to 84 65
+        Set Label to "AvailPageFile"
       End_Object
 
       Object oFormTotalVirtual is a Form
         Set Size to 13 100
         Set Location to 101 65
+        Set Label to "TotalVirtual"
       End_Object
 
       Object oFormAvailVirtual is a Form
         Set Size to 13 100
         Set Location to 118 65
+        Set Label to "AvailVirtual"
       End_Object
-      
-      
-      
-      
+
     End_Object
 
     Object oTabPageGlobalMemoryStatusEx is a TabPage
@@ -106,6 +99,7 @@ Object oKernel32_VW is a View
       Object oButton2 is a Button
         Set Location to 4 232
         Set Label to "Test"
+        Set Enabled_State to False
       
         // fires when the button is clicked
         Procedure OnClick
@@ -130,6 +124,42 @@ Object oKernel32_VW is a View
             
         End_Procedure
       
+      End_Object
+
+      Object oFormMemoryLoad is a Form
+        Set Size to 13 100
+        Set Location to 16 65
+        Set Label to "MemoryLoad"
+      End_Object
+      Object oFormTotalPhys is a Form
+        Set Size to 13 100
+        Set Location to 33 65
+        Set Label to "TotalPhys"
+      End_Object
+      Object oFormAvailPhys is a Form
+        Set Size to 13 100
+        Set Location to 50 65
+        Set Label to "AvailPhys"
+      End_Object
+      Object oFormTotalPageFile is a Form
+        Set Size to 13 100
+        Set Location to 67 65
+        Set Label to "TotalPageFile"
+      End_Object
+      Object oFormAvailPageFile is a Form
+        Set Size to 13 100
+        Set Location to 84 65
+        Set Label to "AvailPageFile"
+      End_Object
+      Object oFormTotalVirtual is a Form
+        Set Size to 13 100
+        Set Location to 101 65
+        Set Label to "TotalVirtual"
+      End_Object
+      Object oFormAvailVirtual is a Form
+        Set Size to 13 100
+        Set Location to 118 65
+        Set Label to "AvailVirtual"
       End_Object
     End_Object
 

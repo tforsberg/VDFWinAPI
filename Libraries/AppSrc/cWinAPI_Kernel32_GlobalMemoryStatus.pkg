@@ -1,0 +1,57 @@
+//==============================================================================
+// Project      : VDF WinAPI - VDF Classes for the Windows API
+// File         : cWinAPI_Kernel32_GlobalMemoryStatus.pkg
+// Description  : VDF Class for GlobalMemoryStatus
+//
+// Revision     : 1.0 
+//               
+// 
+// Requirements : Visual DataFlex 15.0
+//                
+//
+// Copyright    : (c) 2010 www.VisualDataFlexDeveloper.org (Todd Forsberg)
+//                Putting The Pieces Together
+//                http://www.www.VisualDataFlexDeveloper.org
+//                todd@vdfd.com
+//                tforsberg@gmail.com
+//
+//                This file is part of VDF WinAPI Library.
+//
+//                VDF WinAPI Library is free software: you can redistribute it and/or 
+//                modify it under the terms of the GNU Lesser General Public License 
+//                as published by the Free Software Foundation, either version 
+//                2.1 of the License, or (at your option) any later version.
+//
+//                VDF WinAPI is distributed in the hope that it will be useful, but 
+//                WITHOUT ANY WARRANTY; without even the implied warranty of
+//                MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+//                GNU Lesser General Public License for more details.
+//
+// Contributors:  Todd Forsberg (todd@vdfd.com)
+//
+//==============================================================================
+
+Use UI
+Use tWinAPI_MemoryStatus.h
+Use WinAPI_Kernel.h
+
+Class cWinAPI_Kernel32_GlobalMemoryStatus is a cObject
+    
+  Procedure Construct_Object
+    Forward Send Construct_Object
+    Property tWINAPI_MEMORYSTATUS ptGlobalMemoryStatus
+    tWINAPI_MEMORYSTATUS MemoryStatus
+    Integer iVoid
+        
+    Move (WINAPI_GlobalMemoryStatus (AddressOf (MemoryStatus))) to iVoid    
+    Set ptGlobalMemoryStatus to MemoryStatus
+
+  End_Procedure
+
+  Procedure End_Construct_Object
+    Forward Send End_Construct_Object
+  End_Procedure
+
+End_Class
+
+// End of File: cWinAPI_Kernel32_GlobalMemoryStatus.pkg
