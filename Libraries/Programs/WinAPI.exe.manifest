@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+	<assemblyIdentity version="1.0.0.0" processorArchitecture="X86" name="DAW.VisualDataFlex.WinAPI.src" type="win32"/>
+	<description>Program Description</description>
+	<dependency>
+		<dependentAssembly>
+			<assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" processorArchitecture="X86" publicKeyToken="6595b64144ccf1df" language="*"/>
+		</dependentAssembly>
+	</dependency>
+	<v3:trustInfo xmlns:v3="urn:schemas-microsoft-com:asm.v3">
+		<v3:security>
+			<v3:requestedPrivileges>
+				<v3:requestedExecutionLevel level="asInvoker"/>
+			</v3:requestedPrivileges>
+		</v3:security>
+	</v3:trustInfo>
+	<description xmlns="">WinAPI.src</description></assembly>
