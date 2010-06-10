@@ -1,0 +1,25 @@
+Windows API Library for Visual DataFlex
+=======================================
+
+Every DLL in used in the Windows API will have a separate class.
+
+Many individual calls will have a child class of the the DLL class in which they belong.
+
+For Example:
+
+Kernel32.dll
+	GlobalMemoryStatus
+	GlobalMemoryStatusEx
+
+
+=======================================
+
+To: Any and all other developers
+
+	This is an open source project, and as such, I am
+	Open to any and all ideas as to the direction of this
+	project.  Initially, I will try to guide and steer the project
+	as I see it, but I will always take community direction over mine.
+
+=======================================
+

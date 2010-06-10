@@ -165,6 +165,47 @@ Object oKernel32_VW is a View
 
     Object oTabPage3 is a TabPage
       Set Label to 'oTabPage3'
+
+      Object oButton3 is a Button
+        Set Location to 26 42
+        Set Label to 'oButton3'
+      
+        // fires when the button is clicked
+        Function VDFRootDir Returns String
+          Handle hoRegistry
+          Boolean bKeyOpened
+          String sRegKey sRootDir
+          UInteger iAccessRights
+          
+          Get Create U_cRegistry to hoRegistry
+          If (hoRegistry > 0) Begin
+            Get pfAccessRights of hoRegistry to iAccessRights
+            Set pfAccessRights of hoRegistry to KEY_ALL_ACCESS
+            Set phRootKey of hoRegistry to HKEY_LOCAL_MACHINE
+            Move ("Software\Data Access Worldwide\Visual DataFlex\" + Sysconf (SYSCONF_DATAFLEX_REV) + "\Defaults") to sRegKey
+            Get OpenKey of hoRegistry sRegKey to bKeyOpened
+            If (bKeyOpened) Begin
+              Get ReadString of hoRegistry "VDFRootDir" to sRootDir
+              If (sRootDir <> "") Begin
+                If (Right (sRootDir, 1) <> SysConf (SYSCONF_DIR_SEPARATOR)) Begin
+                  Move (sRootDir + SysConf (SYSCONF_DIR_SEPARATOR)) to sRootDir
+                End
+                Move (sRootDir + "Bin") to sRootDir
+              End
+            End
+            Set pfAccessRights of hoRegistry to iAccessRights
+            Send Destroy of hoRegistry
+          End
+          Function_Return sRootDir
+        End_Function
+
+        Procedure OnClick
+          //04/17/2010 GAF changed to use cRegistry Class
+          
+          Showln (VDFRootDir(Self))
+        End_Procedure
+      
+      End_Object
     End_Object
 
     Object oTabPage4 is a TabPage
