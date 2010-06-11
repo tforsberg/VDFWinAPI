@@ -2,15 +2,18 @@ Use Windows.pkg
 Use DFClient.pkg
 
 
-Use cWinAPI_Kernel32_GlobalMemoryStatus.pkg
+Use cWinAPI_Kernel32.pkg
 
 Deferred_View Activate_oKernel32_VW for ;
 Object oKernel32_VW is a View
 
   Set Border_Style to Border_Thick
   Set Size to 223 300
-  Set Location to 2 2
+  Set Location to 9 11
   Set Label to "Kernel32.dll"
+  
+  Object oKernel32 is a cWinAPI_Kernel32
+  End_Object
 
   Object oTabDialog1 is a TabDialog
     Set Size to 200 292
@@ -31,9 +34,10 @@ Object oKernel32_VW is a View
           DWord dwMemoryLoad dwTotalPhys dwAvailPhys dwTotalPageFile       
           DWord dwAvailPageFile dwTotalVirtual dwAvailVirtual      
           tWINAPI_MEMORYSTATUS MyMemory
-
-          Get Create (RefClass(cWinAPI_Kernel32_GlobalMemoryStatus)) to hMem
-          Get ptGlobalMemoryStatus of hMem to MyMemory
+          Get GlobalMemoryStatus of oKernel32 to MyMemory
+          
+//          Get Create (RefClass(cWinAPI_Kernel32_GlobalMemoryStatus)) to hMem
+//          Get ptGlobalMemoryStatus of hMem to MyMemory
           
           Set Value of oFormMemoryLoad    to MyMemory.dwMemoryLoad          // fires when the button is clicked
           Set Value of oFormTotalPhys     to MyMemory.dwTotalPhys      
@@ -43,7 +47,7 @@ Object oKernel32_VW is a View
           Set Value of oFormTotalVirtual  to MyMemory.dwTotalVirtual     
           Set Value of oFormAvailVirtual  to MyMemory.dwAvailVirtual
 
-          Send Destroy of hMem
+//          Send Destroy of hMem
           
         End_Procedure
       
