@@ -1,0 +1,233 @@
+ Function Name                                       Address          Relative AddressOrdinal          Filename            Full Path                                 Type
+   CtfImmAppCompatEnableIMEonProtectedCode           0x7d9353ec       0x000253ec      1 (0x1)          imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   CtfImmCoUninitialize                              0x7d923081       0x00013081      2 (0x2)          imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   CtfImmDispatchDefImeMessage                       0x7d921611       0x00011611      3 (0x3)          imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   CtfImmEnterCoInitCountSkipMode                    0x7d923ea2       0x00013ea2      4 (0x4)          imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   CtfImmGenerateMessage                             0x7d92b41d       0x0001b41d      5 (0x5)          imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   CtfImmGetCompatibleKeyboardLayout                 0x7d9353dc       0x000253dc      6 (0x6)          imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   CtfImmGetGuidAtom                                 0x7d9351a8       0x000251a8      7 (0x7)          imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   CtfImmGetIMEFileName                              0x7d935412       0x00025412      8 (0x8)          imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   CtfImmGetTMAEFlags                                0x7d92230d       0x0001230d      9 (0x9)          imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   CtfImmHideToolbarWnd                              0x7d93514b       0x0002514b      10 (0xa)         imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   CtfImmIsCiceroEnabled                             0x7d9353a2       0x000253a2      11 (0xb)         imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   CtfImmIsCiceroStartedInThread                     0x7d923a35       0x00013a35      12 (0xc)         imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   CtfImmIsGuidMapEnable                             0x7d935227       0x00025227      13 (0xd)         imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   CtfImmIsTextFrameServiceDisabled                  0x7d923019       0x00013019      14 (0xe)         imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   CtfImmLastEnabledWndDestroy                       0x7d9233ba       0x000133ba      15 (0xf)         imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   CtfImmLeaveCoInitCountSkipMode                    0x7d923ebb       0x00013ebb      16 (0x10)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   CtfImmNotify                                      0x7d921346       0x00011346      17 (0x11)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   CtfImmRestoreToolbarWnd                           0x7d935114       0x00025114      18 (0x12)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   CtfImmSetAppCompatFlags                           0x7d923674       0x00013674      19 (0x13)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   CtfImmSetCiceroStartInThread                      0x7d92214d       0x0001214d      20 (0x14)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   CtfImmSetDefaultRemoteKeyboardLayout              0x7d9353cc       0x000253cc      21 (0x15)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   CtfImmTIMActivate                                 0x7d921807       0x00011807      22 (0x16)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   GetKeyboardLayoutCP                               0x7d92b123       0x0001b123      23 (0x17)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   ImmActivateLayout                                 0x7d928df5       0x00018df5      24 (0x18)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmAssociateContext                               0x7d923691       0x00013691      25 (0x19)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   ImmAssociateContextEx                             0x7d92608f       0x0001608f      26 (0x1a)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmCallImeConsoleIME                              0x7d934326       0x00024326      27 (0x1b)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmConfigureIMEA                                  0x7d928f67       0x00018f67      28 (0x1c)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmConfigureIMEW                                  0x7d92913f       0x0001913f      29 (0x1d)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmCreateContext                                  0x7d923d4d       0x00013d4d      30 (0x1e)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmCreateIMCC                                     0x7d922821       0x00012821      31 (0x1f)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmCreateSoftKeyboard                             0x7d92ef46       0x0001ef46      32 (0x20)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmDestroyContext                                 0x7d923ccf       0x00013ccf      33 (0x21)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmDestroyIMCC                                    0x7d923066       0x00013066      34 (0x22)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmDestroySoftKeyboard                            0x7d92f0d6       0x0001f0d6      35 (0x23)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmDisableIME                                     0x7d92382e       0x0001382e      36 (0x24)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmDisableIme                                     0x7d92382e       0x0001382e      37 (0x25)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmDisableTextFrameService                        0x7d9353c2       0x000253c2      38 (0x26)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmEnumInputContext                               0x7d92320a       0x0001320a      39 (0x27)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmEnumRegisterWordA                              0x7d92bef9       0x0001bef9      40 (0x28)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmEnumRegisterWordW                              0x7d92c057       0x0001c057      41 (0x29)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmEscapeA                                        0x7d929327       0x00019327      42 (0x2a)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmEscapeW                                        0x7d9295a9       0x000195a9      43 (0x2b)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmFreeLayout                                     0x7d9297ef       0x000197ef      44 (0x2c)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGenerateMessage                                0x7d92b2a7       0x0001b2a7      45 (0x2d)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetAppCompatFlags                              0x7d922cea       0x00012cea      46 (0x2e)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetCandidateListA                              0x7d928320       0x00018320      47 (0x2f)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetCandidateListCountA                         0x7d9282ea       0x000182ea      48 (0x30)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetCandidateListCountW                         0x7d928305       0x00018305      49 (0x31)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetCandidateListW                              0x7d928341       0x00018341      50 (0x32)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetCandidateWindow                             0x7d922e3c       0x00012e3c      51 (0x33)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetCompositionFontA                            0x7d92682c       0x0001682c      52 (0x34)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetCompositionFontW                            0x7d9268c8       0x000168c8      53 (0x35)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetCompositionStringA                          0x7d927a37       0x00017a37      54 (0x36)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetCompositionStringW                          0x7d92420d       0x0001420d      55 (0x37)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetCompositionWindow                           0x7d922df9       0x00012df9      56 (0x38)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetContext                                     0x7d922004       0x00012004      57 (0x39)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetConversionListA                             0x7d927214       0x00017214      58 (0x3a)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetConversionListW                             0x7d927364       0x00017364      59 (0x3b)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetConversionStatus                            0x7d922469       0x00012469      60 (0x3c)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetDefaultIMEWnd                               0x7d921f1d       0x00011f1d      61 (0x3d)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetDescriptionA                                0x7d92a031       0x0001a031      62 (0x3e)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetDescriptionW                                0x7d92a467       0x0001a467      63 (0x3f)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetGuideLineA                                  0x7d928362       0x00018362      64 (0x40)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetGuideLineW                                  0x7d928383       0x00018383      65 (0x41)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetHotKey                                      0x7d928410       0x00018410      66 (0x42)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetIMCCLockCount                               0x7d92b0ba       0x0001b0ba      67 (0x43)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetIMCCSize                                    0x7d92b106       0x0001b106      68 (0x44)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetIMCLockCount                                0x7d92b268       0x0001b268      69 (0x45)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetIMEFileNameA                                0x7d92a659       0x0001a659      70 (0x46)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetIMEFileNameW                                0x7d92a50a       0x0001a50a      71 (0x47)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetImeInfoEx                                   0x7d9214f0       0x000114f0      72 (0x48)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetImeMenuItemsA                               0x7d934e48       0x00024e48      73 (0x49)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetImeMenuItemsW                               0x7d934e6f       0x00024e6f      74 (0x4a)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetOpenStatus                                  0x7d923dd0       0x00013dd0      75 (0x4b)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetProperty                                    0x7d923c1b       0x00013c1b      76 (0x4c)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetRegisterWordStyleA                          0x7d92bcf3       0x0001bcf3      77 (0x4d)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetRegisterWordStyleW                          0x7d92bdfa       0x0001bdfa      78 (0x4e)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetStatusWindowPos                             0x7d9263be       0x000163be      79 (0x4f)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmGetVirtualKey                                  0x7d92b553       0x0001b553      80 (0x50)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmIMPGetIMEA                                     0x7d92fb99       0x0001fb99      81 (0x51)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmIMPGetIMEW                                     0x7d92fb65       0x0001fb65      82 (0x52)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmIMPQueryIMEA                                   0x7d92fad6       0x0001fad6      83 (0x53)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmIMPQueryIMEW                                   0x7d92f9ca       0x0001f9ca      84 (0x54)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmIMPSetIMEA                                     0x7d92f86e       0x0001f86e      85 (0x55)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmIMPSetIMEW                                     0x7d92f746       0x0001f746      86 (0x56)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmInstallIMEA                                    0x7d92af74       0x0001af74      87 (0x57)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmInstallIMEW                                    0x7d92ac89       0x0001ac89      88 (0x58)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmIsIME                                          0x7d922fc8       0x00012fc8      89 (0x59)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmIsUIMessageA                                   0x7d92b226       0x0001b226      90 (0x5a)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmIsUIMessageW                                   0x7d92b247       0x0001b247      91 (0x5b)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmLoadIME                                        0x7d9218f9       0x000118f9      92 (0x5c)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmLoadLayout                                     0x7d929e79       0x00019e79      93 (0x5d)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmLockClientImc                                  0x7d921ce0       0x00011ce0      94 (0x5e)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmLockIMC                                        0x7d921ddd       0x00011ddd      95 (0x5f)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmLockIMCC                                       0x7d921ee7       0x00011ee7      96 (0x60)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmLockImeDpi                                     0x7d921fa5       0x00011fa5      97 (0x61)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmNotifyIME                                      0x7d923bb9       0x00013bb9      98 (0x62)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmProcessKey                                     0x7d923a6a       0x00013a6a      99 (0x63)        imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmPutImeMenuItemsIntoMappedFile                  0x7d934e96       0x00024e96      100 (0x64)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmRegisterClient                                 0x7d92135e       0x0001135e      102 (0x66)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmRegisterWordA                                  0x7d92b59e       0x0001b59e      103 (0x67)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmRegisterWordW                                  0x7d92b6db       0x0001b6db      104 (0x68)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmReleaseContext                                 0x7d922122       0x00012122      105 (0x69)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmRequestMessageA                                0x7d9283a4       0x000183a4      106 (0x6a)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmRequestMessageW                                0x7d92407a       0x0001407a      107 (0x6b)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmReSizeIMCC                                     0x7d92b0e0       0x0001b0e0      101 (0x65)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmSendIMEMessageExA                              0x7d92f907       0x0001f907      108 (0x6c)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmSendIMEMessageExW                              0x7d92f8ec       0x0001f8ec      109 (0x6d)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   ImmSetActiveContext                               0x7d9221d1       0x000121d1      110 (0x6e)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmSetActiveContextConsoleIME                     0x7d934487       0x00024487      111 (0x6f)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   ImmSetCandidateWindow                             0x7d923e03       0x00013e03      112 (0x70)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   ImmSetCompositionFontA                            0x7d926964       0x00016964      113 (0x71)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmSetCompositionFontW                            0x7d923966       0x00013966      114 (0x72)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   ImmSetCompositionStringA                          0x7d9283c2       0x000183c2      115 (0x73)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   ImmSetCompositionStringW                          0x7d9283e9       0x000183e9      116 (0x74)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   ImmSetCompositionWindow                           0x7d9238d8       0x000138d8      117 (0x75)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmSetConversionStatus                            0x7d923ee7       0x00013ee7      118 (0x76)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   ImmSetHotKey                                      0x7d92132a       0x0001132a      119 (0x77)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   ImmSetOpenStatus                                  0x7d923ff4       0x00013ff4      120 (0x78)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   ImmSetStatusWindowPos                             0x7d926a7c       0x00016a7c      121 (0x79)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmShowSoftKeyboard                               0x7d92f0e7       0x0001f0e7      122 (0x7a)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   ImmSimulateHotKey                                 0x7d9288a8       0x000188a8      123 (0x7b)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   ImmSystemHandler                                  0x7d92b1cf       0x0001b1cf      124 (0x7c)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   ImmTranslateMessage                               0x7d92f27f       0x0001f27f      125 (0x7d)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmUnlockClientImc                                0x7d921cb0       0x00011cb0      126 (0x7e)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   ImmUnlockIMC                                      0x7d921d89       0x00011d89      127 (0x7f)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   ImmUnlockIMCC                                     0x7d921f02       0x00011f02      128 (0x80)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmUnlockImeDpi                                   0x7d921f58       0x00011f58      129 (0x81)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   ImmUnregisterWordA                                0x7d92b82a       0x0001b82a      130 (0x82)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   ImmUnregisterWordW                                0x7d92b967       0x0001b967      131 (0x83)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   ImmWINNLSEnableIME                                0x7d92f637       0x0001f637      132 (0x84)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+
+   ImmWINNLSGetEnableStatus                          0x7d92f65e       0x0001f65e      133 (0x85)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+   ImmWINNLSGetIMEHotkey                             0x7d9353c2       0x000253c2      134 (0x86)       imm32.dll           C:\Windows\System32\imm32.dll             Exported Function
+

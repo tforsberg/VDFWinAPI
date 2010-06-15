@@ -1,0 +1,1575 @@
+ Function Name                          Address         Relative Address Ordinal          Filename            Full Path                                Type
+   A_SHAFinal                           0x77c82482      0x00022482       1002 (0x3ea)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   A_SHAInit                            0x77c82493      0x00022493       1003 (0x3eb)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   A_SHAUpdate                          0x77c824a3      0x000224a3       1004 (0x3ec)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   AbortSystemShutdownA                 0x77cbc4a4      0x0005c4a4       1005 (0x3ed)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   AbortSystemShutdownW                 0x77cbc450      0x0005c450       1006 (0x3ee)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AccessCheck                          0x77c6d15b      0x0000d15b       1007 (0x3ef)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   AccessCheckAndAuditAlarmA            0x77ca0101      0x00040101       1008 (0x3f0)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   AccessCheckAndAuditAlarmW            0x77ca1fc0      0x00041fc0       1009 (0x3f1)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   AccessCheckByType                    0x77c6afc9      0x0000afc9       1010 (0x3f2)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AccessCheckByTypeAndAuditAlarmA      0x77ca01eb      0x000401eb       1011 (0x3f3)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   AccessCheckByTypeAndAuditAlarmW      0x77ca1fd0      0x00041fd0       1012 (0x3f4)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   AccessCheckByTypeResultList          0x77ca1fe0      0x00041fe0       1013 (0x3f5)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AccessCheckByTypeResultListAndAu...  0x77ca02e4      0x000402e4       1014 (0x3f6)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   AccessCheckByTypeResultListAndAu...  0x77ca03dd      0x000403dd       1015 (0x3f7)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   AccessCheckByTypeResultListAndAu...  0x77ca1ff0      0x00041ff0       1016 (0x3f8)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   AccessCheckByTypeResultListAndAu...  0x77ca2000      0x00042000       1017 (0x3f9)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AddAccessAllowedAce                  0x77c7b95e      0x0001b95e       1018 (0x3fa)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   AddAccessAllowedAceEx                0x77c7bb2a      0x0001bb2a       1019 (0x3fb)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   AddAccessAllowedObjectAce            0x77ca2010      0x00042010       1020 (0x3fc)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   AddAccessDeniedAce                   0x77c8dcf3      0x0002dcf3       1021 (0x3fd)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AddAccessDeniedAceEx                 0x77ca2020      0x00042020       1022 (0x3fe)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   AddAccessDeniedObjectAce             0x77ca2030      0x00042030       1023 (0x3ff)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   AddAce                               0x77c6b6ac      0x0000b6ac       1024 (0x400)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   AddAuditAccessAce                    0x77c619eb      0x000019eb       1025 (0x401)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AddAuditAccessAceEx                  0x77ca2040      0x00042040       1026 (0x402)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   AddAuditAccessObjectAce              0x77ca2050      0x00042050       1027 (0x403)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AddConditionalAce                    0x77cc0ea5      0x00060ea5       1028 (0x404)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AddMandatoryAce                      0x77c824b5      0x000224b5       1029 (0x405)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AddUsersToEncryptedFile              0x77ca19df      0x000419df       1030 (0x406)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AddUsersToEncryptedFileEx            0x77ca1a22      0x00041a22       1031 (0x407)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AdjustTokenGroups                    0x77ca2060      0x00042060       1032 (0x408)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AdjustTokenPrivileges                0x77c7b656      0x0001b656       1033 (0x409)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AllocateAndInitializeSid             0x77c7b7dc      0x0001b7dc       1034 (0x40a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AllocateLocallyUniqueId              0x77c619d3      0x000019d3       1035 (0x40b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AreAllAccessesGranted                0x77ca2070      0x00042070       1036 (0x40c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AreAnyAccessesGranted                0x77ca2080      0x00042080       1037 (0x40d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AuditComputeEffectivePolicyBySid     0x77c6b494      0x0000b494       1038 (0x40e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AuditComputeEffectivePolicyByToken   0x77ca4cf9      0x00044cf9       1039 (0x40f)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AuditEnumerateCategories             0x77ca4de5      0x00044de5       1040 (0x410)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AuditEnumeratePerUserPolicy          0x77ca4c79      0x00044c79       1041 (0x411)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AuditEnumerateSubCategories          0x77c6b151      0x0000b151       1042 (0x412)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AuditFree                            0x77c6b26c      0x0000b26c       1043 (0x413)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AuditLookupCategoryGuidFromCate...   0x77ca511b      0x0004511b       1044 (0x414)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AuditLookupCategoryIdFromCategor...  0x77ca50b9      0x000450b9       1045 (0x415)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AuditLookupCategoryNameA             0x77ca4fe9      0x00044fe9       1046 (0x416)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AuditLookupCategoryNameW             0x77ca4ee9      0x00044ee9       1047 (0x417)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AuditLookupSubCategoryNameA          0x77ca5051      0x00045051       1048 (0x418)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AuditLookupSubCategoryNameW          0x77c6b551      0x0000b551       1049 (0x419)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AuditQueryGlobalSaclA                0x77ca54c7      0x000454c7       1050 (0x41a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AuditQueryGlobalSaclW                0x77ca5479      0x00045479       1051 (0x41b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AuditQueryPerUserPolicy              0x77ca4bd1      0x00044bd1       1052 (0x41c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AuditQuerySecurity                   0x77ca5251      0x00045251       1053 (0x41d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AuditQuerySystemPolicy               0x77c6b30c      0x0000b30c       1054 (0x41e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AuditSetGlobalSaclA                  0x77ca5309      0x00045309       1055 (0x41f)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AuditSetGlobalSaclW                  0x77c6b3ac      0x0000b3ac       1056 (0x420)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AuditSetPerUserPolicy                0x77ca4b3d      0x00044b3d       1057 (0x421)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AuditSetSecurity                     0x77ca5157      0x00045157       1058 (0x422)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   AuditSetSystemPolicy                 0x77c6b27c      0x0000b27c       1059 (0x423)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   BackupEventLogA                      0x77c9fd62      0x0003fd62       1060 (0x424)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   BackupEventLogW                      0x77c9f7f5      0x0003f7f5       1061 (0x425)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   BuildExplicitAccessWithNameA         0x77c63639      0x00003639       1062 (0x426)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   BuildExplicitAccessWithNameW         0x77c63639      0x00003639       1063 (0x427)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   BuildImpersonateExplicitAccessWithN..0x77cb1085      0x00051085       1064 (0x428)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   BuildImpersonateExplicitAccessWithN..0x77cb1085      0x00051085       1065 (0x429)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   BuildImpersonateTrusteeA             0x77cb1250      0x00051250       1066 (0x42a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   BuildImpersonateTrusteeW             0x77cb1250      0x00051250       1067 (0x42b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   BuildSecurityDescriptorA             0x77cb0bed      0x00050bed       1068 (0x42c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   BuildSecurityDescriptorW             0x77c62bd5      0x00002bd5       1069 (0x42d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   BuildTrusteeWithNameA                0x77c63669      0x00003669       1070 (0x42e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   BuildTrusteeWithNameW                0x77c63669      0x00003669       1071 (0x42f)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   BuildTrusteeWithObjectsAndNameA      0x77cb130c      0x0005130c       1072 (0x430)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   BuildTrusteeWithObjectsAndNameW      0x77cb130c      0x0005130c       1073 (0x431)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   BuildTrusteeWithObjectsAndSidA       0x77cb126d      0x0005126d       1074 (0x432)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   BuildTrusteeWithObjectsAndSidW       0x77cb126d      0x0005126d       1075 (0x433)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   BuildTrusteeWithSidA                 0x77c8dda3      0x0002dda3       1076 (0x434)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   BuildTrusteeWithSidW                 0x77c8dda3      0x0002dda3       1077 (0x435)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CancelOverlappedAccess               0x77cb22d1      0x000522d1       1078 (0x436)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ChangeServiceConfig2A                0x77ca2090      0x00042090       1079 (0x437)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ChangeServiceConfig2W                0x77ca20a0      0x000420a0       1080 (0x438)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ChangeServiceConfigA                 0x77ca20b0      0x000420b0       1081 (0x439)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ChangeServiceConfigW                 0x77ca20c0      0x000420c0       1082 (0x43a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CheckTokenMembership                 0x77c6e4f4      0x0000e4f4       1083 (0x43b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ClearEventLogA                       0x77c9fcf9      0x0003fcf9       1084 (0x43c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ClearEventLogW                       0x77c9f6c9      0x0003f6c9       1085 (0x43d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CloseCodeAuthzLevel                  0x77c8b2ea      0x0002b2ea       1086 (0x43e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CloseEncryptedFileRaw                0x77ca18e0      0x000418e0       1087 (0x43f)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CloseEventLog                        0x77c680e3      0x000080e3       1088 (0x440)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CloseServiceHandle                   0x77c79a61      0x00019a61       1089 (0x441)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CloseThreadWaitChainSession          0x77cc5e9d      0x00065e9d       1090 (0x442)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CloseTrace                           0x77c7102d      0x0001102d       1091 (0x443)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CommandLineFromMsiDescriptor         0x77c8fd54      0x0002fd54       1092 (0x444)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ComputeAccessTokenFromCodeAut...     0x77c8b390      0x0002b390       1093 (0x445)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ControlService                       0x77c8dc74      0x0002dc74       1094 (0x446)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ControlServiceExA                    0x77ca20d0      0x000420d0       1095 (0x447)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ControlServiceExW                    0x77ca20e0      0x000420e0       1096 (0x448)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ControlTraceA                        0x77cb77dc      0x000577dc       1097 (0x449)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ControlTraceW                        0x77c7072e      0x0001072e       1098 (0x44a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ConvertAccessToSecurityDescriptorA   0x77cb2f79      0x00052f79       1099 (0x44b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ConvertAccessToSecurityDescriptorW   0x77cb1bfc      0x00051bfc       1100 (0x44c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ConvertSDToStringSDRootDomainA       0x77cc1fb2      0x00061fb2       1101 (0x44d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ConvertSDToStringSDRootDomainW       0x77cc1dca      0x00061dca       1102 (0x44e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ConvertSecurityDescriptorToAccessA   0x77cb1e29      0x00051e29       1103 (0x44f)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ConvertSecurityDescriptorToAccessN...0x77cb1e29      0x00051e29       1104 (0x450)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ConvertSecurityDescriptorToAccessN...0x77cb1e04      0x00051e04       1105 (0x451)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ConvertSecurityDescriptorToAccessW   0x77cb1e04      0x00051e04       1106 (0x452)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ConvertSecurityDescriptorToStringSe..0x77cc213f      0x0006213f       1107 (0x453)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ConvertSecurityDescriptorToStringSe..0x77cc1e99      0x00061e99       1108 (0x454)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ConvertSidToStringSidA               0x77c90c22      0x00030c22       1109 (0x455)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ConvertSidToStringSidW               0x77c7b83c      0x0001b83c       1110 (0x456)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ConvertStringSDToSDDomainA           0x77cc2095      0x00062095       1111 (0x457)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ConvertStringSDToSDDomainW           0x77cc1e22      0x00061e22       1112 (0x458)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ConvertStringSDToSDRootDomainA       0x77cc1f32      0x00061f32       1113 (0x459)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ConvertStringSDToSDRootDomainW       0x77cc1d77      0x00061d77       1114 (0x45a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ConvertStringSecurityDescriptorToSe..0x77c6d183      0x0000d183       1115 (0x45b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ConvertStringSecurityDescriptorToSe..0x77c72b9b      0x00012b9b       1116 (0x45c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ConvertStringSidToSidA               0x77c89a92      0x00029a92       1117 (0x45d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ConvertStringSidToSidW               0x77c82c32      0x00022c32       1118 (0x45e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ConvertToAutoInheritPrivateObjectSe..0x77ca20f0      0x000420f0       1119 (0x45f)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CopySid                              0x77c7ba61      0x0001ba61       1120 (0x460)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CreateCodeAuthzLevel                 0x77cacd50      0x0004cd50       1121 (0x461)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CreatePrivateObjectSecurity          0x77c8f1b5      0x0002f1b5       1122 (0x462)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CreatePrivateObjectSecurityEx        0x77c6fc9a      0x0000fc9a       1123 (0x463)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CreatePrivateObjectSecurityWithMulti.0x77ca2100      0x00042100       1124 (0x464)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CreateProcessAsUserA                 0x77ca14fd      0x000414fd       1125 (0x465)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CreateProcessAsUserW                 0x77c6bbdb      0x0000bbdb       1126 (0x466)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CreateProcessWithLogonW              0x77ca42a1      0x000442a1       1127 (0x467)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CreateProcessWithTokenW              0x77ca42d7      0x000442d7       1128 (0x468)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CreateRestrictedToken                0x77ca2110      0x00042110       1129 (0x469)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CreateServiceA                       0x77ca2120      0x00042120       1130 (0x46a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CreateServiceW                       0x77c8dbc1      0x0002dbc1       1131 (0x46b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CreateTraceInstanceId                0x77c824d0      0x000224d0       1132 (0x46c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CreateWellKnownSid                   0x77c7bd6b      0x0001bd6b       1133 (0x46d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredBackupCredentials                0x77ca6cd5      0x00046cd5       1134 (0x46e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredDeleteA                          0x77ca68f9      0x000468f9       1135 (0x46f)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredDeleteW                          0x77ca69a9      0x000469a9       1136 (0x470)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredEncryptAndMarshalBinaryBlob      0x77ca71b1      0x000471b1       1137 (0x471)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredEnumerateA                       0x77ca6339      0x00046339       1138 (0x472)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredEnumerateW                       0x77ca6439      0x00046439       1139 (0x473)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredFindBestCredentialA              0x77ca6f01      0x00046f01       1140 (0x474)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredFindBestCredentialW              0x77ca6fe1      0x00046fe1       1141 (0x475)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredFree                             0x77c6b26c      0x0000b26c       1142 (0x476)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredGetSessionTypes                  0x77ca6c29      0x00046c29       1143 (0x477)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredGetTargetInfoA                   0x77ca6a6b      0x00046a6b       1144 (0x478)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredGetTargetInfoW                   0x77ca6b49      0x00046b49       1145 (0x479)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredIsMarshaledCredentialA           0x77ca73ef      0x000473ef       1146 (0x47a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredIsMarshaledCredentialW           0x77c8d8db      0x0002d8db       1147 (0x47b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredIsProtectedA                     0x77ca72d9      0x000472d9       1148 (0x47c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredIsProtectedW                     0x77c6be86      0x0000be86       1149 (0x47d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredMarshalCredentialA               0x77ca733b      0x0004733b       1150 (0x47e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredMarshalCredentialW               0x77c67bdf      0x00007bdf       1151 (0x47f)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredpConvertCredential               0x77ca5b42      0x00045b42       1172 (0x494)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredpConvertOneCredentialSize        0x77ca59fc      0x000459fc       1173 (0x495)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredpConvertTargetInfo               0x77ca5bf9      0x00045bf9       1174 (0x496)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredpDecodeCredential                0x77ca55b2      0x000455b2       1175 (0x497)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredpEncodeCredential                0x77ca5551      0x00045551       1176 (0x498)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredpEncodeSecret                    0x77ca6cb1      0x00046cb1       1177 (0x499)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredProfileLoaded                    0x77c62958      0x00002958       1152 (0x480)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredProfileUnloaded                  0x77c8da4d      0x0002da4d       1153 (0x481)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredProtectA                         0x77ca71d3      0x000471d3       1154 (0x482)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredProtectW                         0x77c67a26      0x00007a26       1155 (0x483)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredReadA                            0x77ca6179      0x00046179       1156 (0x484)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredReadByTokenHandle                0x77ca70c1      0x000470c1       1157 (0x485)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredReadDomainCredentialsA           0x77ca66f9      0x000466f9       1158 (0x486)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredReadDomainCredentialsW           0x77ca67f9      0x000467f9       1159 (0x487)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredReadW                            0x77ca6259      0x00046259       1160 (0x488)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredRenameA                          0x77ca6a59      0x00046a59       1161 (0x489)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredRenameW                          0x77ca6a59      0x00046a59       1162 (0x48a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredRestoreCredentials               0x77ca6df1      0x00046df1       1163 (0x48b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredUnmarshalCredentialA             0x77ca7386      0x00047386       1164 (0x48c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredUnmarshalCredentialW             0x77c6be25      0x0000be25       1165 (0x48d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredUnprotectA                       0x77ca741d      0x0004741d       1166 (0x48e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredUnprotectW                       0x77c62620      0x00002620       1167 (0x48f)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredWriteA                           0x77ca6009      0x00046009       1168 (0x490)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredWriteDomainCredentialsA          0x77ca6539      0x00046539       1169 (0x491)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredWriteDomainCredentialsW          0x77ca6619      0x00046619       1170 (0x492)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CredWriteW                           0x77ca60c1      0x000460c1       1171 (0x493)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptAcquireContextA                 0x77c68c7f      0x00008c7f       1178 (0x49a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptAcquireContextW                 0x77c6e5c2      0x0000e5c2       1179 (0x49b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptContextAddRef                   0x77ca2130      0x00042130       1180 (0x49c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptCreateHash                      0x77c6e552      0x0000e552       1181 (0x49d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptDecrypt                         0x77ca2140      0x00042140       1182 (0x49e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptDeriveKey                       0x77ca2150      0x00042150       1183 (0x49f)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptDestroyHash                     0x77c6e56a      0x0000e56a       1184 (0x4a0)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptDestroyKey                      0x77c6bb3a      0x0000bb3a       1185 (0x4a1)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptDuplicateHash                   0x77ca2160      0x00042160       1186 (0x4a2)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptDuplicateKey                    0x77ca2170      0x00042170       1187 (0x4a3)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptEncrypt                         0x77c8dd5b      0x0002dd5b       1188 (0x4a4)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptEnumProvidersA                  0x77ca21a0      0x000421a0       1191 (0x4a7)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptEnumProvidersW                  0x77ca21b0      0x000421b0       1192 (0x4a8)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptEnumProviderTypesA              0x77ca2180      0x00042180       1189 (0x4a5)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptEnumProviderTypesW              0x77ca2190      0x00042190       1190 (0x4a6)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptExportKey                       0x77c68c8c      0x00008c8c       1193 (0x4a9)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptGenKey                          0x77c68ac7      0x00008ac7       1194 (0x4aa)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptGenRandom                       0x77c6e5ee      0x0000e5ee       1195 (0x4ab)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptGetDefaultProviderA             0x77ca21c0      0x000421c0       1196 (0x4ac)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptGetDefaultProviderW             0x77ca21d0      0x000421d0       1197 (0x4ad)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptGetHashParam                    0x77c6e582      0x0000e582       1198 (0x4ae)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptGetKeyParam                     0x77c8dd8b      0x0002dd8b       1199 (0x4af)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptGetProvParam                    0x77ca21e0      0x000421e0       1200 (0x4b0)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptGetUserKey                      0x77ca21f0      0x000421f0       1201 (0x4b1)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptHashData                        0x77c6e53a      0x0000e53a       1202 (0x4b2)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptHashSessionKey                  0x77ca2200      0x00042200       1203 (0x4b3)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptImportKey                       0x77c6bb52      0x0000bb52       1204 (0x4b4)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptReleaseContext                  0x77c6e74c      0x0000e74c       1205 (0x4b5)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptSetHashParam                    0x77ca2210      0x00042210       1206 (0x4b6)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptSetKeyParam                     0x77c8dd73      0x0002dd73       1207 (0x4b7)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptSetProviderA                    0x77ca2230      0x00042230       1209 (0x4b9)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptSetProviderExA                  0x77ca2240      0x00042240       1210 (0x4ba)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptSetProviderExW                  0x77ca2250      0x00042250       1211 (0x4bb)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptSetProviderW                    0x77ca2260      0x00042260       1212 (0x4bc)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptSetProvParam                    0x77ca2220      0x00042220       1208 (0x4b8)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptSignHashA                       0x77ca2270      0x00042270       1213 (0x4bd)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptSignHashW                       0x77ca2280      0x00042280       1214 (0x4be)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptVerifySignatureA                0x77ca2290      0x00042290       1215 (0x4bf)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   CryptVerifySignatureW                0x77c6bbc3      0x0000bbc3       1216 (0x4c0)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   DecryptFileA                         0x77ca1d3d      0x00041d3d       1217 (0x4c1)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   DecryptFileW                         0x77ca1803      0x00041803       1218 (0x4c2)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   DeleteAce                            0x77c7ba91      0x0001ba91       1219 (0x4c3)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   DeleteService                        0x77c8dc8c      0x0002dc8c       1220 (0x4c4)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   DeregisterEventSource                0x77c793a5      0x000193a5       1221 (0x4c5)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   DestroyPrivateObjectSecurity         0x77c6fc82      0x0000fc82       1222 (0x4c6)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   DuplicateEncryptionInfoFile          0x77ca1aac      0x00041aac       1223 (0x4c7)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   DuplicateToken                       0x77c6cab7      0x0000cab7       1224 (0x4c8)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   DuplicateTokenEx                     0x77c6d143      0x0000d143       1225 (0x4c9)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ElfBackupEventLogFileA               0x77cc4a21      0x00064a21       1226 (0x4ca)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ElfBackupEventLogFileW               0x77cc4551      0x00064551       1227 (0x4cb)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ElfChangeNotify                      0x77cc4301      0x00064301       1228 (0x4cc)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ElfClearEventLogFileA                0x77cc4979      0x00064979       1229 (0x4cd)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ElfClearEventLogFileW                0x77cc44a9      0x000644a9       1230 (0x4ce)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ElfCloseEventLog                     0x77c68104      0x00008104       1231 (0x4cf)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ElfDeregisterEventSource             0x77c793c6      0x000193c6       1232 (0x4d0)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ElfFlushEventLog                     0x77cc4bd9      0x00064bd9       1233 (0x4d1)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ElfNumberOfRecords                   0x77cc4191      0x00064191       1234 (0x4d2)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ElfOldestRecord                      0x77cc4249      0x00064249       1235 (0x4d3)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ElfOpenBackupEventLogA               0x77cc4889      0x00064889       1236 (0x4d4)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ElfOpenBackupEventLogW               0x77cc43b9      0x000643b9       1237 (0x4d5)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ElfOpenEventLogA                     0x77cc4716      0x00064716       1238 (0x4d6)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ElfOpenEventLogW                     0x77c67f5f      0x00007f5f       1239 (0x4d7)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ElfReadEventLogA                     0x77cc4ad9      0x00064ad9       1240 (0x4d8)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ElfReadEventLogW                     0x77cc4609      0x00064609       1241 (0x4d9)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ElfRegisterEventSourceA              0x77c776c3      0x000176c3       1242 (0x4da)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ElfRegisterEventSourceW              0x77c73813      0x00013813       1243 (0x4db)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ElfReportEventA                      0x77c68811      0x00008811       1244 (0x4dc)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ElfReportEventAndSourceW             0x77cc4709      0x00064709       1245 (0x4dd)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ElfReportEventW                      0x77c6cc3a      0x0000cc3a       1246 (0x4de)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EnableTrace                          0x77c71527      0x00011527       1247 (0x4df)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EnableTraceEx                        0x77c71338      0x00011338       1249 (0x4e1)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EnableTraceEx2                       0x77c71159      0x00011159       1248 (0x4e0)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EncryptedFileKeyInfo                 0x77ca1b1b      0x00041b1b       1252 (0x4e4)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EncryptFileA                         0x77ca1ca0      0x00041ca0       1250 (0x4e2)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EncryptFileW                         0x77ca17b4      0x000417b4       1251 (0x4e3)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EncryptionDisable                    0x77ca1aef      0x00041aef       1253 (0x4e5)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EnumDependentServicesA               0x77cc07ec      0x000607ec       1254 (0x4e6)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EnumDependentServicesW               0x77c61ec8      0x00001ec8       1255 (0x4e7)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EnumerateTraceGuids                  0x77c6ce21      0x0000ce21       1261 (0x4ed)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EnumerateTraceGuidsEx                0x77c6858e      0x0000858e       1262 (0x4ee)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EnumServiceGroupW                    0x77cc05f9      0x000605f9       1256 (0x4e8)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EnumServicesStatusA                  0x77cc0709      0x00060709       1257 (0x4e9)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EnumServicesStatusExA                0x77c8f7be      0x0002f7be       1258 (0x4ea)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EnumServicesStatusExW                0x77c6bc43      0x0000bc43       1259 (0x4eb)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EnumServicesStatusW                  0x77cc0909      0x00060909       1260 (0x4ec)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EqualDomainSid                       0x77ca22a0      0x000422a0       1263 (0x4ef)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EqualPrefixSid                       0x77c6d3a9      0x0000d3a9       1264 (0x4f0)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EqualSid                             0x77c7b633      0x0001b633       1265 (0x4f1)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EventAccessControl                   0x77c64703      0x00004703       1266 (0x4f2)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EventAccessQuery                     0x77c64aa9      0x00004aa9       1267 (0x4f3)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EventAccessRemove                    0x77cb710e      0x0005710e       1268 (0x4f4)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EventActivityIdControl               0x77c824ef      0x000224ef       1269 (0x4f5)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EventEnabled                         0x77c8250f      0x0002250f       1270 (0x4f6)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EventProviderEnabled                 0x77c82525      0x00022525       1271 (0x4f7)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EventRegister                        0x77c82543      0x00022543       1272 (0x4f8)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EventUnregister                      0x77c8255a      0x0002255a       1273 (0x4f9)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EventWrite                           0x77c82573      0x00022573       1274 (0x4fa)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EventWriteEndScenario                0x77c82587      0x00022587       1275 (0x4fb)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EventWriteEx                         0x77ca22b0      0x000422b0       1276 (0x4fc)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EventWriteStartScenario              0x77c825a6      0x000225a6       1277 (0x4fd)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EventWriteString                     0x77c825c7      0x000225c7       1278 (0x4fe)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   EventWriteTransfer                   0x77c825e1      0x000225e1       1279 (0x4ff)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   FileEncryptionStatusA                0x77ca1ddd      0x00041ddd       1280 (0x500)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   FileEncryptionStatusW                0x77ca1856      0x00041856       1281 (0x501)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   FindFirstFreeAce                     0x77ca22e1      0x000422e1       1282 (0x502)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   FlushEfsCache                        0x77ca1f59      0x00041f59       1283 (0x503)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   FlushTraceA                          0x77cb7e22      0x00057e22       1284 (0x504)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   FlushTraceW                          0x77c63af0      0x00003af0       1285 (0x505)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   FreeEncryptedFileKeyInfo             0x77ca1b5e      0x00041b5e       1286 (0x506)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   FreeEncryptedFileMetadata            0x77ca1c7e      0x00041c7e       1287 (0x507)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   FreeEncryptionCertificateHashList    0x77ca1939      0x00041939       1288 (0x508)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   FreeInheritedFromArray               0x77cb122a      0x0005122a       1289 (0x509)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   FreeSid                              0x77c7b7f4      0x0001b7f4       1290 (0x50a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetAccessPermissionsForObjectA       0x77cb2439      0x00052439       1291 (0x50b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetAccessPermissionsForObjectW       0x77cb2351      0x00052351       1292 (0x50c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetAce                               0x77c7bb8a      0x0001bb8a       1293 (0x50d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetAclInformation                    0x77c6ea27      0x0000ea27       1294 (0x50e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetAuditedPermissionsFromAclA        0x77cb0ba7      0x00050ba7       1295 (0x50f)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetAuditedPermissionsFromAclW        0x77cb0b54      0x00050b54       1296 (0x510)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetCurrentHwProfileA                 0x77ca0000      0x00040000       1297 (0x511)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetCurrentHwProfileW                 0x77c61a03      0x00001a03       1298 (0x512)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetEffectiveRightsFromAclA           0x77cb0adb      0x00050adb       1299 (0x513)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetEffectiveRightsFromAclW           0x77cb0a79      0x00050a79       1300 (0x514)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetEncryptedFileMetadata             0x77ca1c34      0x00041c34       1301 (0x515)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetEventLogInformation               0x77c681a4      0x000081a4       1302 (0x516)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetExplicitEntriesFromAclA           0x77cb0b47      0x00050b47       1303 (0x517)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetExplicitEntriesFromAclW           0x77cb0b27      0x00050b27       1304 (0x518)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetFileSecurityA                     0x77ca07c0      0x000407c0       1305 (0x519)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetFileSecurityW                     0x77c6ac2b      0x0000ac2b       1306 (0x51a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetInformationCodeAuthzLevelW        0x77c68b0e      0x00008b0e       1307 (0x51b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetInformationCodeAuthzPolicyW       0x77c697ad      0x000097ad       1308 (0x51c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetInheritanceSourceA                0x77cb121f      0x0005121f       1309 (0x51d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetInheritanceSourceW                0x77cb11d9      0x000511d9       1310 (0x51e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+    GetKernelObjectSecurity                     0x77c7bbba          0x0001bbba          1311 (0x51f)        advapi32.dll            C:\Windows\System32\advapi32.dll                  Exported Function
+
+   GetLengthSid                         0x77c7b80c      0x0001b80c       1312 (0x520)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetLocalManagedApplicationData       0x77cab76b      0x0004b76b       1313 (0x521)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetLocalManagedApplications          0x77cab525      0x0004b525       1314 (0x522)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetManagedApplicationCategories      0x77caba5e      0x0004ba5e       1315 (0x523)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetManagedApplications               0x77cab9fe      0x0004b9fe       1316 (0x524)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetMultipleTrusteeA                  0x77cb13ca      0x000513ca       1317 (0x525)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetMultipleTrusteeOperationA         0x77cb13ae      0x000513ae       1318 (0x526)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetMultipleTrusteeOperationW         0x77cb13ae      0x000513ae       1319 (0x527)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetMultipleTrusteeW                  0x77cb13ca      0x000513ca       1320 (0x528)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetNamedSecurityInfoA                0x77cb081c      0x0005081c       1321 (0x529)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetNamedSecurityInfoExA              0x77cb1651      0x00051651       1322 (0x52a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetNamedSecurityInfoExW              0x77cb13e5      0x000513e5       1323 (0x52b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetNamedSecurityInfoW                0x77c6fcb2      0x0000fcb2       1324 (0x52c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetNumberOfEventLogRecords           0x77c9f675      0x0003f675       1325 (0x52d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetOldestEventLogRecord              0x77c9f69f      0x0003f69f       1326 (0x52e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetOverlappedAccessResults           0x77cb21b1      0x000521b1       1327 (0x52f)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetPrivateObjectSecurity             0x77ca22f1      0x000422f1       1328 (0x530)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetSecurityDescriptorControl         0x77c6b664      0x0000b664       1329 (0x531)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetSecurityDescriptorDacl            0x77c7ba84      0x0001ba84       1330 (0x532)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetSecurityDescriptorGroup           0x77c6b694      0x0000b694       1331 (0x533)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetSecurityDescriptorLength          0x77c6d349      0x0000d349       1332 (0x534)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetSecurityDescriptorOwner           0x77c6b67c      0x0000b67c       1333 (0x535)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetSecurityDescriptorRMControl       0x77ca2301      0x00042301       1334 (0x536)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetSecurityDescriptorSacl            0x77c7bba2      0x0001bba2       1335 (0x537)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetSecurityInfo                      0x77c6b6c4      0x0000b6c4       1336 (0x538)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetSecurityInfoExA                   0x77cb1a69      0x00051a69       1337 (0x539)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetSecurityInfoExW                   0x77cb17ff      0x000517ff       1338 (0x53a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetServiceDisplayNameA               0x77cc0319      0x00060319       1339 (0x53b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetServiceDisplayNameW               0x77c8e03b      0x0002e03b       1340 (0x53c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetServiceKeyNameA                   0x77cc0276      0x00060276       1341 (0x53d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetServiceKeyNameW                   0x77c8df7f      0x0002df7f       1342 (0x53e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetSidIdentifierAuthority            0x77c6ac13      0x0000ac13       1343 (0x53f)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetSidLengthRequired                 0x77c6d379      0x0000d379       1344 (0x540)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetSidSubAuthority                   0x77c718e3      0x000118e3       1345 (0x541)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetSidSubAuthorityCount              0x77c718b3      0x000118b3       1346 (0x542)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetThreadWaitChain                   0x77cc6b9f      0x00066b9f       1347 (0x543)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetTokenInformation                  0x77c7b7b4      0x0001b7b4       1348 (0x544)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetTraceEnableFlags                  0x77c825fd      0x000225fd       1349 (0x545)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetTraceEnableLevel                  0x77c8261a      0x0002261a       1350 (0x546)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetTraceLoggerHandle                 0x77c82637      0x00022637       1351 (0x547)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetTrusteeFormA                      0x77cb1391      0x00051391       1352 (0x548)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetTrusteeFormW                      0x77cb1391      0x00051391       1353 (0x549)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetTrusteeNameA                      0x77cb1361      0x00051361       1354 (0x54a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetTrusteeNameW                      0x77cb1361      0x00051361       1355 (0x54b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetTrusteeTypeA                      0x77cb1375      0x00051375       1356 (0x54c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetTrusteeTypeW                      0x77cb1375      0x00051375       1357 (0x54d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetUserNameA                         0x77c6e504      0x0000e504       1358 (0x54e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetUserNameW                         0x77c72ed2      0x00012ed2       1359 (0x54f)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   GetWindowsAccountDomainSid           0x77ca2311      0x00042311       1360 (0x550)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   I_QueryTagInformation                0x77c82655      0x00022655       1361 (0x551)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   I_ScGetCurrentGroupStateW            0x77cc07e1      0x000607e1       1001 (0x3e9)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   I_ScIsSecurityProcess                0x77c8268c      0x0002268c       1362 (0x552)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   I_ScPnPGetServiceName                0x77c826c3      0x000226c3       1363 (0x553)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   I_ScQueryServiceConfig               0x77c826fa      0x000226fa       1364 (0x554)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   I_ScSendPnPMessage                   0x77c82732      0x00022732       1365 (0x555)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   I_ScSendTSMessage                    0x77c82766      0x00022766       1366 (0x556)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   I_ScSetServiceBitsA                  0x77cc08c1      0x000608c1       1367 (0x557)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   I_ScSetServiceBitsW                  0x77c62b24      0x00002b24       1368 (0x558)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   I_ScValidatePnPService               0x77c82799      0x00022799       1369 (0x559)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   IdentifyCodeAuthzLevelW              0x77c89f75      0x00029f75       1370 (0x55a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ImpersonateAnonymousToken            0x77ca2321      0x00042321       1371 (0x55b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ImpersonateLoggedOnUser              0x77c6be0d      0x0000be0d       1372 (0x55c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ImpersonateNamedPipeClient           0x77ca2331      0x00042331       1373 (0x55d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ImpersonateSelf                      0x77c6b64c      0x0000b64c       1374 (0x55e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   InitializeAcl                        0x77c7bafa      0x0001bafa       1375 (0x55f)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   InitializeSecurityDescriptor         0x77c7bb1d      0x0001bb1d       1376 (0x560)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   InitializeSid                        0x77c6d391      0x0000d391       1377 (0x561)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   InitiateShutdownA                    0x77cbc5be      0x0005c5be       1378 (0x562)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   InitiateShutdownW                    0x77cbc504      0x0005c504       1379 (0x563)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   InitiateSystemShutdownA              0x77cbc2ff      0x0005c2ff       1380 (0x564)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   InitiateSystemShutdownExA            0x77cbc3a6      0x0005c3a6       1381 (0x565)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   InitiateSystemShutdownExW            0x77cbc22a      0x0005c22a       1382 (0x566)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   InitiateSystemShutdownW              0x77cbc15d      0x0005c15d       1383 (0x567)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   InstallApplication                   0x77cac1d9      0x0004c1d9       1384 (0x568)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   IsTextUnicode                        0x77c7bee4      0x0001bee4       1385 (0x569)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   IsTokenRestricted                    0x77c6c971      0x0000c971       1386 (0x56a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   IsTokenUntrusted                     0x77cace0e      0x0004ce0e       1387 (0x56b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   IsValidAcl                           0x77c68a83      0x00008a83       1388 (0x56c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   IsValidRelativeSecurityDescriptor    0x77c827d1      0x000227d1       1389 (0x56d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   IsValidSecurityDescriptor            0x77c6b75b      0x0000b75b       1390 (0x56e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   IsValidSid                           0x77c78cb9      0x00018cb9       1391 (0x56f)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   IsWellKnownSid                       0x77c6d25a      0x0000d25a       1392 (0x570)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LockServiceDatabase                  0x77cc03b9      0x000603b9       1393 (0x571)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LogonUserA                           0x77ca1619      0x00041619       1394 (0x572)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LogonUserExA                         0x77ca1648      0x00041648       1395 (0x573)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LogonUserExExW                       0x77c6b74b      0x0000b74b       1396 (0x574)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LogonUserExW                         0x77ca14ca      0x000414ca       1397 (0x575)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LogonUserW                           0x77c6c5c9      0x0000c5c9       1398 (0x576)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LookupAccountNameA                   0x77ca09ea      0x000409ea       1399 (0x577)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LookupAccountNameW                   0x77c6e86e      0x0000e86e       1400 (0x578)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LookupAccountSidA                    0x77ca0d6f      0x00040d6f       1401 (0x579)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LookupAccountSidW                    0x77c7bd2b      0x0001bd2b       1402 (0x57a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LookupPrivilegeDisplayNameA          0x77ca12b6      0x000412b6       1403 (0x57b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LookupPrivilegeDisplayNameW          0x77ca1079      0x00041079       1404 (0x57c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LookupPrivilegeNameA                 0x77ca119b      0x0004119b       1405 (0x57d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LookupPrivilegeNameW                 0x77ca0f70      0x00040f70       1406 (0x57e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LookupPrivilegeValueA                0x77c7b5a2      0x0001b5a2       1407 (0x57f)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LookupPrivilegeValueW                0x77c7b663      0x0001b663       1408 (0x580)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LookupSecurityDescriptorPartsA       0x77cb0e8f      0x00050e8f       1409 (0x581)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LookupSecurityDescriptorPartsW       0x77cb0cde      0x00050cde       1410 (0x582)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaAddAccountRights                  0x77ca77d1      0x000477d1       1411 (0x583)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaAddPrivilegesToAccount            0x77ca9ca9      0x00049ca9       1412 (0x584)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaClearAuditLog                     0x77ca8d99      0x00048d99       1413 (0x585)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaClose                             0x77c88e79      0x00028e79       1414 (0x586)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaCreateAccount                     0x77ca93d9      0x000493d9       1415 (0x587)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaCreateSecret                      0x77ca9ab1      0x00049ab1       1416 (0x588)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaCreateTrustedDomain               0x77ca9549      0x00049549       1417 (0x589)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaCreateTrustedDomainEx             0x77ca8479      0x00048479       1418 (0x58a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaDelete                            0x77ca91a1      0x000491a1       1419 (0x58b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaDeleteTrustedDomain               0x77ca7a89      0x00047a89       1420 (0x58c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaEnumerateAccountRights            0x77ca7721      0x00047721       1421 (0x58d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaEnumerateAccounts                 0x77ca9491      0x00049491       1422 (0x58e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaEnumerateAccountsWithUserRight    0x77ca766f      0x0004766f       1423 (0x58f)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaEnumeratePrivileges               0x77ca99f9      0x000499f9       1424 (0x590)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaEnumeratePrivilegesOfAccount      0x77ca9c21      0x00049c21       1425 (0x591)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaEnumerateTrustedDomains           0x77ca9935      0x00049935       1426 (0x592)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaEnumerateTrustedDomainsEx         0x77ca83b5      0x000483b5       1427 (0x593)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaFreeMemory                        0x77c88cb2      0x00028cb2       1428 (0x594)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaGetQuotasForAccount               0x77ca9db9      0x00049db9       1429 (0x595)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaGetRemoteUserName                 0x77caa46b      0x0004a46b       1430 (0x596)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaGetSystemAccessAccount            0x77ca9ec9      0x00049ec9       1431 (0x597)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaGetUserName                       0x77c6ad12      0x0000ad12       1432 (0x598)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaICLookupNames                     0x77c8fb76      0x0002fb76       1433 (0x599)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaICLookupNamesWithCreds            0x77c66b77      0x00006b77       1434 (0x59a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaICLookupSids                      0x77c8eff9      0x0002eff9       1435 (0x59b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaICLookupSidsWithCreds             0x77caa58d      0x0004a58d       1436 (0x59c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaLookupNames                       0x77caa711      0x0004a711       1438 (0x59e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaLookupNames2                      0x77c8fb2c      0x0002fb2c       1437 (0x59d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaLookupPrivilegeDisplayName        0x77ca8ec1      0x00048ec1       1439 (0x59f)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaLookupPrivilegeName               0x77ca8e19      0x00048e19       1440 (0x5a0)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaLookupPrivilegeValue              0x77c7b701      0x0001b701       1441 (0x5a1)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaLookupSids                        0x77c8eefb      0x0002eefb       1442 (0x5a2)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaManageSidNameMapping              0x77ca8894      0x00048894       1443 (0x5a3)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaNtStatusToWinError                0x77caa895      0x0004a895       1444 (0x5a4)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaOpenAccount                       0x77ca9b69      0x00049b69       1445 (0x5a5)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaOpenPolicy                        0x77c88d41      0x00028d41       1446 (0x5a6)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaOpenPolicySce                     0x77ca8bf3      0x00048bf3       1447 (0x5a7)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaOpenSecret                        0x77ca9fd9      0x00049fd9       1448 (0x5a8)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaOpenTrustedDomain                 0x77ca9601      0x00049601       1449 (0x5a9)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaOpenTrustedDomainByName           0x77ca8671      0x00048671       1450 (0x5aa)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaQueryDomainInformationPolicy      0x77ca8541      0x00048541       1451 (0x5ab)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaQueryForestTrustInformation       0x77ca8721      0x00048721       1452 (0x5ac)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaQueryInformationPolicy            0x77c88f30      0x00028f30       1454 (0x5ae)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaQueryInfoTrustedDomain            0x77ca96b9      0x000496b9       1453 (0x5ad)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaQuerySecret                       0x77caa40d      0x0004a40d       1455 (0x5af)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaQuerySecurityObject               0x77ca9231      0x00049231       1456 (0x5b0)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaQueryTrustedDomainInfo            0x77ca7901      0x00047901       1457 (0x5b1)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaQueryTrustedDomainInfoByName      0x77ca7f05      0x00047f05       1458 (0x5b2)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaRemoveAccountRights               0x77ca7869      0x00047869       1459 (0x5b3)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaRemovePrivilegesFromAccount       0x77ca9d31      0x00049d31       1460 (0x5b4)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+    LsaRetrievePrivateData                      0x77c671f3          0x000071f3          1461 (0x5b5)        advapi32.dll            C:\Windows\System32\advapi32.dll                  Exported Function
+
+   LsaSetDomainInformationPolicy        0x77ca85d9      0x000485d9       1462 (0x5b6)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaSetForestTrustInformation         0x77ca87a9      0x000487a9       1463 (0x5b7)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaSetInformationPolicy              0x77ca8ca9      0x00048ca9       1464 (0x5b8)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaSetInformationTrustedDomain       0x77ca9771      0x00049771       1465 (0x5b9)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaSetQuotasForAccount               0x77ca9e41      0x00049e41       1466 (0x5ba)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaSetSecret                         0x77caa1f5      0x0004a1f5       1467 (0x5bb)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaSetSecurityObject                 0x77ca92d9      0x000492d9       1468 (0x5bc)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaSetSystemAccessAccount            0x77ca9f51      0x00049f51       1469 (0x5bd)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaSetTrustedDomainInfoByName        0x77ca81f5      0x000481f5       1470 (0x5be)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaSetTrustedDomainInformation       0x77ca79c1      0x000479c1       1471 (0x5bf)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   LsaStorePrivateData                  0x77ca7d40      0x00047d40       1472 (0x5c0)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   MakeAbsoluteSD                       0x77c6d331      0x0000d331       1482 (0x5ca)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   MakeAbsoluteSD2                      0x77ca2341      0x00042341       1481 (0x5c9)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   MakeSelfRelativeSD                   0x77c6d361      0x0000d361       1483 (0x5cb)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   MapGenericMask                       0x77c8e103      0x0002e103       1484 (0x5cc)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   MD4Final                             0x77c827fe      0x000227fe       1473 (0x5c1)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   MD4Init                              0x77c8280d      0x0002280d       1474 (0x5c2)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   MD4Update                            0x77c8281b      0x0002281b       1475 (0x5c3)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   MD5Final                             0x77c8282b      0x0002282b       1476 (0x5c4)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   MD5Init                              0x77c8283a      0x0002283a       1477 (0x5c5)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   MD5Update                            0x77c82848      0x00022848       1478 (0x5c6)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   MSChapSrvChangePassword              0x77ca2cf3      0x00042cf3       1480 (0x5c8)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   MSChapSrvChangePassword2             0x77ca2ed7      0x00042ed7       1479 (0x5c7)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   NotifyBootConfigStatus               0x77c67dff      0x00007dff       1485 (0x5cd)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   NotifyChangeEventLog                 0x77c9f64b      0x0003f64b       1486 (0x5ce)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   NotifyServiceStatusChange            0x77c6d178      0x0000d178       1487 (0x5cf)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   NotifyServiceStatusChangeA           0x77c90c0a      0x00030c0a       1488 (0x5d0)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   NotifyServiceStatusChangeW           0x77c6d16b      0x0000d16b       1489 (0x5d1)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ObjectCloseAuditAlarmA               0x77ca0624      0x00040624       1490 (0x5d2)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ObjectCloseAuditAlarmW               0x77ca2351      0x00042351       1491 (0x5d3)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ObjectDeleteAuditAlarmA              0x77ca0679      0x00040679       1492 (0x5d4)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ObjectDeleteAuditAlarmW              0x77ca2361      0x00042361       1493 (0x5d5)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ObjectOpenAuditAlarmA                0x77ca04d9      0x000404d9       1494 (0x5d6)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ObjectOpenAuditAlarmW                0x77ca2371      0x00042371       1495 (0x5d7)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ObjectPrivilegeAuditAlarmA           0x77ca05c6      0x000405c6       1496 (0x5d8)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ObjectPrivilegeAuditAlarmW           0x77ca2381      0x00042381       1497 (0x5d9)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   OpenBackupEventLogA                  0x77c9fe1c      0x0003fe1c       1498 (0x5da)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   OpenBackupEventLogW                  0x77c9f911      0x0003f911       1499 (0x5db)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   OpenEncryptedFileRawA                0x77ca1e80      0x00041e80       1500 (0x5dc)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   OpenEncryptedFileRawW                0x77ca1882      0x00041882       1501 (0x5dd)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   OpenEventLogA                        0x77c9fdcb      0x0003fdcb       1502 (0x5de)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   OpenEventLogW                        0x77c67f18      0x00007f18       1503 (0x5df)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   OpenProcessToken                     0x77c7b7c4      0x0001b7c4       1504 (0x5e0)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   OpenSCManagerA                       0x77c73b2d      0x00013b2d       1505 (0x5e1)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   OpenSCManagerW                       0x77c6d1f5      0x0000d1f5       1506 (0x5e2)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   OpenServiceA                         0x77c73b15      0x00013b15       1507 (0x5e3)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   OpenServiceW                         0x77c6d20d      0x0000d20d       1508 (0x5e4)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   OpenThreadToken                      0x77c7b79c      0x0001b79c       1509 (0x5e5)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+    OpenThreadWaitChainSession                  0x77cc5dc6          0x00065dc6          1510 (0x5e6)        advapi32.dll            C:\Windows\System32\advapi32.dll                  Exported Function
+
+   OpenTraceA                           0x77cb705b      0x0005705b       1511 (0x5e7)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   OpenTraceW                           0x77c6ee7d      0x0000ee7d       1512 (0x5e8)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   PerfAddCounters                      0x77cbcc21      0x0005cc21       1513 (0x5e9)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   PerfCloseQueryHandle                 0x77cbc856      0x0005c856       1514 (0x5ea)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   PerfCreateInstance                   0x77c82858      0x00022858       1515 (0x5eb)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   PerfDecrementULongCounterValue       0x77c82871      0x00022871       1516 (0x5ec)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   PerfDecrementULongLongCounterVal...  0x77c82896      0x00022896       1517 (0x5ed)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+    PerfDeleteCounters                          0x77cbcc3f          0x0005cc3f          1518 (0x5ee)        advapi32.dll            C:\Windows\System32\advapi32.dll                  Exported Function
+
+   PerfDeleteInstance                   0x77c828bf      0x000228bf       1519 (0x5ef)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   PerfEnumerateCounterSet              0x77cbcd99      0x0005cd99       1520 (0x5f0)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   PerfEnumerateCounterSetInstances     0x77cbcfd1      0x0005cfd1       1521 (0x5f1)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   PerfIncrementULongCounterValue       0x77c828d8      0x000228d8       1522 (0x5f2)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   PerfIncrementULongLongCounterValue   0x77c828fd      0x000228fd       1523 (0x5f3)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   PerfOpenQueryHandle                  0x77cbd0d9      0x0005d0d9       1524 (0x5f4)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   PerfQueryCounterData                 0x77cbca31      0x0005ca31       1525 (0x5f5)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   PerfQueryCounterInfo                 0x77cbc929      0x0005c929       1526 (0x5f6)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   PerfQueryCounterSetRegistrationInfo  0x77cbceb1      0x0005ceb1       1527 (0x5f7)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   PerfQueryInstance                    0x77c82926      0x00022926       1528 (0x5f8)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   PerfSetCounterRefValue               0x77c8293e      0x0002293e       1529 (0x5f9)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   PerfSetCounterSetInfo                0x77c8295b      0x0002295b       1530 (0x5fa)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   PerfSetULongCounterValue             0x77c82977      0x00022977       1531 (0x5fb)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   PerfSetULongLongCounterValue         0x77c82996      0x00022996       1532 (0x5fc)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   PerfStartProvider                    0x77c829b9      0x000229b9       1533 (0x5fd)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   PerfStartProviderEx                  0x77c829d1      0x000229d1       1534 (0x5fe)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+    PerfStopProvider                            0x77c829eb          0x000229eb          1535 (0x5ff)        advapi32.dll            C:\Windows\System32\advapi32.dll                  Exported Function
+
+   PrivilegeCheck                       0x77c6b139      0x0000b139       1536 (0x600)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   PrivilegedServiceAuditAlarmA         0x77ca06ce      0x000406ce       1537 (0x601)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   PrivilegedServiceAuditAlarmW         0x77ca2391      0x00042391       1538 (0x602)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ProcessIdleTasks                     0x77ca44d9      0x000444d9       1539 (0x603)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ProcessIdleTasksW                    0x77ca4571      0x00044571       1540 (0x604)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ProcessTrace                         0x77c70c22      0x00010c22       1541 (0x605)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   QueryAllTracesA                      0x77cb7e43      0x00057e43       1542 (0x606)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   QueryAllTracesW                      0x77c682c3      0x000082c3       1543 (0x607)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   QueryRecoveryAgentsOnEncryptedFile   0x77ca1959      0x00041959       1544 (0x608)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   QuerySecurityAccessMask              0x77ca23a1      0x000423a1       1545 (0x609)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   QueryServiceConfig2A                 0x77ca23b1      0x000423b1       1546 (0x60a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   QueryServiceConfig2W                 0x77ca23c1      0x000423c1       1547 (0x60b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   QueryServiceConfigA                  0x77c8f1ff      0x0002f1ff       1548 (0x60c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   QueryServiceConfigW                  0x77c6d225      0x0000d225       1549 (0x60d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   QueryServiceLockStatusA              0x77cc0441      0x00060441       1550 (0x60e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   QueryServiceLockStatusW              0x77cc04d9      0x000604d9       1551 (0x60f)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   QueryServiceObjectSecurity           0x77ca23d1      0x000423d1       1552 (0x610)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   QueryServiceStatus                   0x77c73a84      0x00013a84       1553 (0x611)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   QueryServiceStatusEx                 0x77c68632      0x00008632       1554 (0x612)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   QueryTraceA                          0x77cb7d9e      0x00057d9e       1555 (0x613)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   QueryTraceW                          0x77c66dfa      0x00006dfa       1556 (0x614)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   QueryUsersOnEncryptedFile            0x77ca18f6      0x000418f6       1557 (0x615)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ReadEncryptedFileRaw                 0x77ca18b4      0x000418b4       1558 (0x616)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ReadEventLogA                        0x77c9fecd      0x0003fecd       1559 (0x617)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ReadEventLogW                        0x77c9fca5      0x0003fca5       1560 (0x618)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegCloseKey                          0x77c7bed4      0x0001bed4       1561 (0x619)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegConnectRegistryA                  0x77cbd641      0x0005d641       1562 (0x61a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegConnectRegistryExA                0x77cbd5e1      0x0005d5e1       1563 (0x61b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegConnectRegistryExW                0x77c8dde5      0x0002dde5       1564 (0x61c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegConnectRegistryW                  0x77c8ddc7      0x0002ddc7       1565 (0x61d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegCopyTreeA                         0x77cbdc74      0x0005dc74       1566 (0x61e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegCopyTreeW                         0x77cbda97      0x0005da97       1567 (0x61f)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegCreateKeyA                        0x77c6d3c1      0x0000d3c1       1568 (0x620)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegCreateKeyExA                      0x77c71b71      0x00011b71       1569 (0x621)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegCreateKeyExW                      0x77c7b946      0x0001b946       1570 (0x622)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegCreateKeyTransactedA              0x77cbdd9d      0x0005dd9d       1571 (0x623)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegCreateKeyTransactedW              0x77c8e498      0x0002e498       1572 (0x624)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegCreateKeyW                        0x77c71cc0      0x00011cc0       1573 (0x625)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegDeleteKeyA                        0x77c90499      0x00030499       1574 (0x626)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegDeleteKeyExA                      0x77ca23e1      0x000423e1       1575 (0x627)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegDeleteKeyExW                      0x77c6afe1      0x0000afe1       1576 (0x628)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegDeleteKeyTransactedA              0x77cbdea8      0x0005dea8       1577 (0x629)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegDeleteKeyTransactedW              0x77c8e44d      0x0002e44d       1578 (0x62a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegDeleteKeyValueA                   0x77cbdef3      0x0005def3       1579 (0x62b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegDeleteKeyValueW                   0x77cbdf33      0x0005df33       1580 (0x62c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegDeleteKeyW                        0x77c7197e      0x0001197e       1581 (0x62d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegDeleteTreeA                       0x77ca247b      0x0004247b       1582 (0x62e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegDeleteTreeW                       0x77ca246b      0x0004246b       1583 (0x62f)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegDeleteValueA                      0x77c7194e      0x0001194e       1584 (0x630)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegDeleteValueW                      0x77c6d521      0x0000d521       1585 (0x631)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegDisablePredefinedCache            0x77c6bb1d      0x0000bb1d       1586 (0x632)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegDisablePredefinedCacheEx          0x77ca23f1      0x000423f1       1587 (0x633)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegDisableReflectionKey              0x77c8e352      0x0002e352       1588 (0x634)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegEnableReflectionKey               0x77c8e352      0x0002e352       1589 (0x635)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegEnumKeyA                          0x77c6d2ba      0x0000d2ba       1590 (0x636)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegEnumKeyExA                        0x77c71b89      0x00011b89       1591 (0x637)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegEnumKeyExW                        0x77c7bb65      0x0001bb65       1592 (0x638)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegEnumKeyW                          0x77c7baa9      0x0001baa9       1593 (0x639)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegEnumValueA                        0x77c6d539      0x0000d539       1594 (0x63a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegEnumValueW                        0x77c7bb72      0x0001bb72       1595 (0x63b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegFlushKey                          0x77c689ef      0x000089ef       1596 (0x63c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegGetKeySecurity                    0x77c6ac5b      0x0000ac5b       1597 (0x63d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegGetValueA                         0x77c6afb1      0x0000afb1       1598 (0x63e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegGetValueW                         0x77c718cb      0x000118cb       1599 (0x63f)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegisterEventSourceA                 0x77c7767c      0x0001767c       1643 (0x66b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegisterEventSourceW                 0x77c738d9      0x000138d9       1644 (0x66c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegisterIdleTask                     0x77c63821      0x00003821       1645 (0x66d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegisterServiceCtrlHandlerA          0x77ca248b      0x0004248b       1646 (0x66e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegisterServiceCtrlHandlerExA        0x77ca249b      0x0004249b       1647 (0x66f)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegisterServiceCtrlHandlerExW        0x77c6acbe      0x0000acbe       1648 (0x670)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegisterServiceCtrlHandlerW          0x77c6ac73      0x0000ac73       1649 (0x671)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegisterTraceGuidsA                  0x77c82a02      0x00022a02       1650 (0x672)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegisterTraceGuidsW                  0x77c82a1f      0x00022a1f       1651 (0x673)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegisterWaitChainCOMCallback         0x77cc5d4b      0x00065d4b       1652 (0x674)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegLoadAppKeyA                       0x77cbe4b5      0x0005e4b5       1600 (0x640)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegLoadAppKeyW                       0x77cbe2ff      0x0005e2ff       1601 (0x641)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegLoadKeyA                          0x77ca242b      0x0004242b       1602 (0x642)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegLoadKeyW                          0x77ca243b      0x0004243b       1603 (0x643)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegLoadMUIStringA                    0x77ca23fb      0x000423fb       1604 (0x644)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegLoadMUIStringW                    0x77c7191e      0x0001191e       1605 (0x645)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegNotifyChangeKeyValue              0x77c71936      0x00011936       1606 (0x646)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegOpenCurrentUser                   0x77c72eba      0x00012eba       1607 (0x647)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegOpenKeyA                          0x77c6d2ed      0x0000d2ed       1608 (0x648)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegOpenKeyExA                        0x77c7bc0d      0x0001bc0d       1609 (0x649)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegOpenKeyExW                        0x77c7bec4      0x0001bec4       1610 (0x64a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegOpenKeyTransactedA                0x77cbddf7      0x0005ddf7       1611 (0x64b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegOpenKeyTransactedW                0x77c8e405      0x0002e405       1612 (0x64c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegOpenKeyW                          0x77c73129      0x00013129       1613 (0x64d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegOpenUserClassesRoot               0x77c8e4f2      0x0002e4f2       1614 (0x64e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegOverridePredefKey                 0x77cbdcd0      0x0005dcd0       1615 (0x64f)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegQueryInfoKeyA                     0x77c71966      0x00011966       1616 (0x650)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegQueryInfoKeyW                     0x77c7bb42      0x0001bb42       1617 (0x651)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+    RegQueryMultipleValuesA                     0x77cbe69c          0x0005e69c          1618 (0x652)        advapi32.dll            C:\Windows\System32\advapi32.dll                  Exported Function
+
+   RegQueryMultipleValuesW              0x77cbec15      0x0005ec15       1619 (0x653)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegQueryReflectionKey                0x77ca2f4f      0x00042f4f       1620 (0x654)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegQueryValueA                       0x77c6d403      0x0000d403       1621 (0x655)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegQueryValueExA                     0x77c7bc25      0x0001bc25       1622 (0x656)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegQueryValueExW                     0x77c7bcd5      0x0001bcd5       1623 (0x657)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegQueryValueW                       0x77c7b96b      0x0001b96b       1624 (0x658)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegRenameKey                         0x77cbde40      0x0005de40       1625 (0x659)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+    RegReplaceKeyA                              0x77cbf02b          0x0005f02b          1626 (0x65a)        advapi32.dll            C:\Windows\System32\advapi32.dll                  Exported Function
+
+   RegReplaceKeyW                       0x77cbf271      0x0005f271       1627 (0x65b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegRestoreKeyA                       0x77ca241b      0x0004241b       1628 (0x65c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegRestoreKeyW                       0x77c8e33a      0x0002e33a       1629 (0x65d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegSaveKeyA                          0x77cbf3b1      0x0005f3b1       1630 (0x65e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegSaveKeyExA                        0x77ca240b      0x0004240b       1631 (0x65f)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegSaveKeyExW                        0x77c8e11b      0x0002e11b       1632 (0x660)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegSaveKeyW                          0x77c8e133      0x0002e133       1633 (0x661)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegSetKeySecurity                    0x77c6b254      0x0000b254       1634 (0x662)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegSetKeyValueA                      0x77cbdf73      0x0005df73       1635 (0x663)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegSetKeyValueW                      0x77c8daf2      0x0002daf2       1636 (0x664)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegSetValueA                         0x77cbf529      0x0005f529       1637 (0x665)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegSetValueExA                       0x77c71b96      0x00011b96       1638 (0x666)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegSetValueExW                       0x77c71c82      0x00011c82       1639 (0x667)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegSetValueW                         0x77c8fa72      0x0002fa72       1640 (0x668)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegUnLoadKeyA                        0x77ca244b      0x0004244b       1641 (0x669)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RegUnLoadKeyW                        0x77ca245b      0x0004245b       1642 (0x66a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RemoveTraceCallback                  0x77cb6f4d      0x00056f4d       1653 (0x675)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RemoveUsersFromEncryptedFile         0x77ca199c      0x0004199c       1654 (0x676)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ReportEventA                         0x77c686e4      0x000086e4       1655 (0x677)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   ReportEventW                         0x77c6cb0a      0x0000cb0a       1656 (0x678)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   RevertToSelf                         0x77c71d0e      0x00011d0e       1657 (0x679)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SaferCloseLevel                      0x77c8b2ea      0x0002b2ea       1658 (0x67a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SaferComputeTokenFromLevel           0x77c8b390      0x0002b390       1659 (0x67b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SaferCreateLevel                     0x77cacd50      0x0004cd50       1660 (0x67c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SaferGetLevelInformation             0x77c68b0e      0x00008b0e       1661 (0x67d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SaferGetPolicyInformation            0x77c697ad      0x000097ad       1662 (0x67e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SaferiChangeRegistryScope            0x77caf85d      0x0004f85d       1667 (0x683)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SaferiCompareTokenLevels             0x77c6ba25      0x0000ba25       1668 (0x684)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SaferIdentifyLevel                   0x77c89f75      0x00029f75       1663 (0x67f)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SaferiIsDllAllowed                   0x77cae03d      0x0004e03d       1669 (0x685)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SaferiIsExecutableFileType           0x77c6965d      0x0000965d       1670 (0x686)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SaferiPopulateDefaultsInRegistry     0x77c68ca4      0x00008ca4       1671 (0x687)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SaferiRecordEventLogEntry            0x77cae385      0x0004e385       1672 (0x688)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SaferiSearchMatchingHashRules        0x77c63c33      0x00003c33       1673 (0x689)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SaferRecordEventLogEntry             0x77cae385      0x0004e385       1664 (0x680)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SaferSetLevelInformation             0x77caf33b      0x0004f33b       1665 (0x681)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SaferSetPolicyInformation            0x77cad745      0x0004d745       1666 (0x682)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetAclInformation                    0x77ca24ab      0x000424ab       1674 (0x68a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetEncryptedFileMetadata             0x77ca1c59      0x00041c59       1675 (0x68b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetEntriesInAccessListA              0x77cb31a5      0x000531a5       1676 (0x68c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetEntriesInAccessListW              0x77cb1eb0      0x00051eb0       1677 (0x68d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetEntriesInAclA                     0x77cb08b1      0x000508b1       1678 (0x68e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetEntriesInAclW                     0x77c7350e      0x0001350e       1679 (0x68f)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetEntriesInAuditListA               0x77cb31de      0x000531de       1680 (0x690)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetEntriesInAuditListW               0x77cb1ee9      0x00051ee9       1681 (0x691)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetFileSecurityA                     0x77ca0759      0x00040759       1682 (0x692)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetFileSecurityW                     0x77c66a31      0x00006a31       1683 (0x693)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetInformationCodeAuthzLevelW        0x77caf33b      0x0004f33b       1684 (0x694)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetInformationCodeAuthzPolicyW       0x77cad745      0x0004d745       1685 (0x695)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetKernelObjectSecurity              0x77c7bbd2      0x0001bbd2       1686 (0x696)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetNamedSecurityInfoA                0x77cb0868      0x00050868       1687 (0x697)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetNamedSecurityInfoExA              0x77cb27e1      0x000527e1       1688 (0x698)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetNamedSecurityInfoExW              0x77cb25ca      0x000525ca       1689 (0x699)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetNamedSecurityInfoW                0x77c69a65      0x00009a65       1690 (0x69a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetPrivateObjectSecurity             0x77ca24bb      0x000424bb       1691 (0x69b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+    SetPrivateObjectSecurityEx                  0x77ca24cb          0x000424cb          1692 (0x69c)        advapi32.dll            C:\Windows\System32\advapi32.dll                  Exported Function
+
+   SetSecurityAccessMask                0x77ca24db      0x000424db       1693 (0x69d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetSecurityDescriptorControl         0x77c8e0f3      0x0002e0f3       1694 (0x69e)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetSecurityDescriptorDacl            0x77c7b82f      0x0001b82f       1695 (0x69f)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetSecurityDescriptorGroup           0x77c6fc1f      0x0000fc1f       1696 (0x6a0)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetSecurityDescriptorOwner           0x77c6fc07      0x0000fc07       1697 (0x6a1)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetSecurityDescriptorRMControl       0x77ca24eb      0x000424eb       1698 (0x6a2)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetSecurityDescriptorSacl            0x77c7bbf5      0x0001bbf5       1699 (0x6a3)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetSecurityInfo                      0x77c69962      0x00009962       1700 (0x6a4)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetSecurityInfoExA                   0x77cb2cc9      0x00052cc9       1701 (0x6a5)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetSecurityInfoExW                   0x77cb2ab1      0x00052ab1       1702 (0x6a6)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetServiceBits                       0x77cc08d3      0x000608d3       1703 (0x6a7)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetServiceObjectSecurity             0x77ca24fb      0x000424fb       1704 (0x6a8)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetServiceStatus                     0x77c6b70c      0x0000b70c       1705 (0x6a9)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetThreadToken                       0x77c6ca9f      0x0000ca9f       1706 (0x6aa)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetTokenInformation                  0x77c6994a      0x0000994a       1707 (0x6ab)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetTraceCallback                     0x77cb6e5f      0x00056e5f       1708 (0x6ac)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetUserFileEncryptionKey             0x77ca1f1f      0x00041f1f       1709 (0x6ad)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SetUserFileEncryptionKeyEx           0x77ca1a65      0x00041a65       1710 (0x6ae)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   StartServiceA                        0x77c8f217      0x0002f217       1711 (0x6af)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   StartServiceCtrlDispatcherA          0x77ca250b      0x0004250b       1712 (0x6b0)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   StartServiceCtrlDispatcherW          0x77c6ac43      0x0000ac43       1713 (0x6b1)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   StartServiceW                        0x77c68a9b      0x00008a9b       1714 (0x6b2)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   StartTraceA                          0x77cb732e      0x0005732e       1715 (0x6b3)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   StartTraceW                          0x77c6f486      0x0000f486       1716 (0x6b4)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   StopTraceA                           0x77cb7dbf      0x00057dbf       1717 (0x6b5)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   StopTraceW                           0x77c714f8      0x000114f8       1718 (0x6b6)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction001                    0x77ca2f68      0x00042f68       1719 (0x6b7)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction002                    0x77c8da08      0x0002da08       1720 (0x6b8)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction003                    0x77c62ae2      0x00002ae2       1721 (0x6b9)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction004                    0x77ca2fad      0x00042fad       1722 (0x6ba)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction005                    0x77ca2ff4      0x00042ff4       1723 (0x6bb)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction006                    0x77c62a27      0x00002a27       1724 (0x6bc)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction007                    0x77c6bf10      0x0000bf10       1725 (0x6bd)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction008                    0x77ca47ce      0x000447ce       1726 (0x6be)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction009                    0x77ca4875      0x00044875       1727 (0x6bf)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction010                    0x77ca4885      0x00044885       1728 (0x6c0)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction011                    0x77ca48d0      0x000448d0       1729 (0x6c1)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction012                    0x77ca48dd      0x000448dd       1730 (0x6c2)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction013                    0x77ca4917      0x00044917       1731 (0x6c3)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction014                    0x77ca4a4d      0x00044a4d       1732 (0x6c4)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction015                    0x77ca4951      0x00044951       1733 (0x6c5)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction016                    0x77ca495e      0x0004495e       1734 (0x6c6)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction017                    0x77ca4994      0x00044994       1735 (0x6c7)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction018                    0x77ca49ca      0x000449ca       1736 (0x6c8)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction019                    0x77ca49d7      0x000449d7       1737 (0x6c9)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction020                    0x77ca4a4d      0x00044a4d       1738 (0x6ca)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction021                    0x77ca4951      0x00044951       1739 (0x6cb)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction022                    0x77ca4a4d      0x00044a4d       1740 (0x6cc)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction023                    0x77ca4951      0x00044951       1741 (0x6cd)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction024                    0x77ca49e4      0x000449e4       1742 (0x6ce)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction025                    0x77c8d9ac      0x0002d9ac       1743 (0x6cf)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction026                    0x77ca4a40      0x00044a40       1744 (0x6d0)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction027                    0x77c8d99f      0x0002d99f       1745 (0x6d1)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction028                    0x77ca3039      0x00043039       1746 (0x6d2)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction029                    0x77ca307b      0x0004307b       1747 (0x6d3)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction030                    0x77c8d943      0x0002d943       1748 (0x6d4)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction031                    0x77c8d943      0x0002d943       1749 (0x6d5)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction032                    0x77ca4a5d      0x00044a5d       1750 (0x6d6)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction033                    0x77ca4a5d      0x00044a5d       1751 (0x6d7)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction034                    0x77ca30bd      0x000430bd       1752 (0x6d8)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction035                    0x77c82a3c      0x00022a3c       1753 (0x6d9)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction036                    0x77c61919      0x00001919       1754 (0x6da)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction040                    0x77c6abce      0x0000abce       1755 (0x6db)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   SystemFunction041                    0x77c6ab89      0x0000ab89       1756 (0x6dc)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   TraceEvent                           0x77c82a59      0x00022a59       1757 (0x6dd)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   TraceEventInstance                   0x77c82a70      0x00022a70       1758 (0x6de)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   TraceMessage                         0x77c82a8c      0x00022a8c       1759 (0x6df)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   TraceMessageVa                       0x77c82aa2      0x00022aa2       1760 (0x6e0)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   TraceSetInformation                  0x77cb718d      0x0005718d       1761 (0x6e1)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   TreeResetNamedSecurityInfoA          0x77cb114a      0x0005114a       1762 (0x6e2)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   TreeResetNamedSecurityInfoW          0x77cb10c0      0x000510c0       1763 (0x6e3)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   TreeSetNamedSecurityInfoA            0x77cb114a      0x0005114a       1764 (0x6e4)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   TreeSetNamedSecurityInfoW            0x77cb1155      0x00051155       1765 (0x6e5)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   TrusteeAccessToObjectA               0x77cb1ff9      0x00051ff9       1766 (0x6e6)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   TrusteeAccessToObjectW               0x77cb1f10      0x00051f10       1767 (0x6e7)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   UninstallApplication                 0x77cab4d7      0x0004b4d7       1768 (0x6e8)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   UnlockServiceDatabase                0x77cc0571      0x00060571       1769 (0x6e9)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   UnregisterIdleTask                   0x77ca457e      0x0004457e       1770 (0x6ea)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   UnregisterTraceGuids                 0x77c82aba      0x00022aba       1771 (0x6eb)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   UpdateTraceA                         0x77cb7de0      0x00057de0       1772 (0x6ec)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   UpdateTraceW                         0x77cb7e01      0x00057e01       1773 (0x6ed)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   UsePinForEncryptedFilesA             0x77ca1b7e      0x00041b7e       1774 (0x6ee)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   UsePinForEncryptedFilesW             0x77ca1bc7      0x00041bc7       1775 (0x6ef)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   WmiCloseBlock                        0x77c799ed      0x000199ed       1776 (0x6f0)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   WmiDevInstToInstanceNameA            0x77cb5839      0x00055839       1777 (0x6f1)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   WmiDevInstToInstanceNameW            0x77c8f502      0x0002f502       1778 (0x6f2)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+    WmiEnumerateGuids                           0x77cb504d          0x0005504d          1779 (0x6f3)        advapi32.dll            C:\Windows\System32\advapi32.dll                  Exported Function
+
+   WmiExecuteMethodA                    0x77cb55b2      0x000555b2       1780 (0x6f4)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   WmiExecuteMethodW                    0x77cb4d1d      0x00054d1d       1781 (0x6f5)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   WmiFileHandleToInstanceNameA         0x77cb58f1      0x000558f1       1782 (0x6f6)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   WmiFileHandleToInstanceNameW         0x77cb5637      0x00055637       1783 (0x6f7)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   WmiFreeBuffer                        0x77c6a745      0x0000a745       1784 (0x6f8)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   WmiMofEnumerateResourcesA            0x77cb5b64      0x00055b64       1785 (0x6f9)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   WmiMofEnumerateResourcesW            0x77c69f3f      0x00009f3f       1786 (0x6fa)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   WmiNotificationRegistrationA         0x77cb43a9      0x000543a9       1787 (0x6fb)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   WmiNotificationRegistrationW         0x77c6ae4b      0x0000ae4b       1788 (0x6fc)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   WmiOpenBlock                         0x77c79921      0x00019921       1789 (0x6fd)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   WmiQueryAllDataA                     0x77cb5391      0x00055391       1790 (0x6fe)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   WmiQueryAllDataMultipleA             0x77cb53d5      0x000553d5       1791 (0x6ff)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   WmiQueryAllDataMultipleW             0x77cb4430      0x00054430       1792 (0x700)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   WmiQueryAllDataW                     0x77c794b2      0x000194b2       1793 (0x701)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   WmiQueryGuidInformation              0x77c6a60f      0x0000a60f       1794 (0x702)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   WmiQuerySingleInstanceA              0x77cb5421      0x00055421       1795 (0x703)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   WmiQuerySingleInstanceMultipleA      0x77cb4845      0x00054845       1796 (0x704)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   WmiQuerySingleInstanceMultipleW      0x77cb461d      0x0005461d       1797 (0x705)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   WmiQuerySingleInstanceW              0x77c8f303      0x0002f303       1798 (0x706)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   WmiReceiveNotificationsA             0x77cb43ed      0x000543ed       1799 (0x707)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   WmiReceiveNotificationsW             0x77c6300f      0x0000300f       1800 (0x708)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   WmiSetSingleInstanceA                0x77cb54c7      0x000554c7       1801 (0x709)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   WmiSetSingleInstanceW                0x77cb499f      0x0005499f       1802 (0x70a)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   WmiSetSingleItemA                    0x77cb553b      0x0005553b       1803 (0x70b)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+
+   WmiSetSingleItemW                    0x77cb4b5d      0x00054b5d       1804 (0x70c)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+   WriteEncryptedFileRaw                0x77ca18ca      0x000418ca       1805 (0x70d)     advapi32.dll        C:\Windows\System32\advapi32.dll         Exported Function
+

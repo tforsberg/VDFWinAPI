@@ -1,0 +1,521 @@
+ Function Name                                       Address          Relative AddressOrdinal          Filename            Full Path                                 Type
+   GetTapi16CallbackMsg                              0x41c84214       0x00004214      1 (0x1)          tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   internalConfig                                    0x41c9c8a9       0x0001c8a9      24 (0x18)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   internalCreateDefLocation                         0x41c9fd64       0x0001fd64      25 (0x19)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   internalNewLocationW                              0x41ca1e5b       0x00021e5b      26 (0x1a)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   internalPerformance                               0x41c8f146       0x0000f146      27 (0x1b)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   internalRemoveLocation                            0x41c9fdca       0x0001fdca      28 (0x1c)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   internalRenameLocationW                           0x41c9ef1f       0x0001ef1f      29 (0x1d)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   LAddrParamsInited                                 0x41c84c56       0x00004c56      2 (0x2)          tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   lineAccept                                        0x41c86e03       0x00006e03      30 (0x1e)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineAddProvider                                   0x41c90d9e       0x00010d9e      31 (0x1f)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   lineAddProviderA                                  0x41c90b58       0x00010b58      32 (0x20)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   lineAddProviderW                                  0x41c90c51       0x00010c51      33 (0x21)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineAddToConference                               0x41c86e78       0x00006e78      34 (0x22)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   lineAgentSpecific                                 0x41c86edd       0x00006edd      35 (0x23)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   lineAnswer                                        0x41c86fc4       0x00006fc4      36 (0x24)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   lineBlindTransfer                                 0x41c871de       0x000071de      37 (0x25)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineBlindTransferA                                0x41c870f3       0x000070f3      38 (0x26)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   lineBlindTransferW                                0x41c87039       0x00007039      39 (0x27)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   lineClose                                         0x41c871ee       0x000071ee      40 (0x28)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   lineCompleteCall                                  0x41c87276       0x00007276      41 (0x29)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineCompleteTransfer                              0x41c8734b       0x0000734b      42 (0x2a)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   lineConfigDialog                                  0x41c90ef7       0x00010ef7      43 (0x2b)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   lineConfigDialogA                                 0x41c90ea4       0x00010ea4      44 (0x2c)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   lineConfigDialogEdit                              0x41c910a8       0x000110a8      45 (0x2d)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineConfigDialogEditA                             0x41c9104c       0x0001104c      46 (0x2e)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   lineConfigDialogEditW                             0x41c90f04       0x00010f04      47 (0x2f)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineConfigDialogW                                 0x41c90dae       0x00010dae      48 (0x30)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineConfigProvider                                0x41c910b5       0x000110b5      49 (0x31)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineCreateAgentA                                  0x41c875a1       0x000075a1      50 (0x32)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineCreateAgentSessionA                           0x41c877d5       0x000077d5      51 (0x33)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineCreateAgentSessionW                           0x41c8768d       0x0000768d      52 (0x34)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineCreateAgentW                                  0x41c8742a       0x0000742a      53 (0x35)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineDeallocateCall                                0x41c87875       0x00007875      54 (0x36)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineDevSpecific                                   0x41c8793e       0x0000793e      55 (0x37)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineDevSpecificFeature                            0x41c87a3f       0x00007a3f      56 (0x38)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineDial                                          0x41c87cb2       0x00007cb2      57 (0x39)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineDialA                                         0x41c87be2       0x00007be2      58 (0x3a)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineDialW                                         0x41c87b38       0x00007b38      59 (0x3b)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineDrop                                          0x41c87cc2       0x00007cc2      60 (0x3c)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineForward                                       0x41c87f70       0x00007f70      61 (0x3d)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineForwardA                                      0x41c87e51       0x00007e51      62 (0x3e)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineForwardW                                      0x41c87d37       0x00007d37      63 (0x3f)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGatherDigits                                  0x41c8825a       0x0000825a      64 (0x40)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGatherDigitsA                                 0x41c880d6       0x000080d6      65 (0x41)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGatherDigitsW                                 0x41c87f80       0x00007f80      66 (0x42)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGenerateDigits                                0x41c883ad       0x000083ad      67 (0x43)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGenerateDigitsA                               0x41c882ed       0x000082ed      68 (0x44)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGenerateDigitsW                               0x41c8826a       0x0000826a      69 (0x45)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGenerateTone                                  0x41c883bd       0x000083bd      70 (0x46)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetAddressCaps                                0x41c885ff       0x000085ff      71 (0x47)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetAddressCapsA                               0x41c884ee       0x000084ee      72 (0x48)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetAddressCapsW                               0x41c8845b       0x0000845b      73 (0x49)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetAddressID                                  0x41c88760       0x00008760      74 (0x4a)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetAddressIDA                                 0x41c88688       0x00008688      75 (0x4b)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetAddressIDW                                 0x41c8860f       0x0000860f      76 (0x4c)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetAddressStatus                              0x41c88883       0x00008883      77 (0x4d)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetAddressStatusA                             0x41c887d4       0x000087d4      78 (0x4e)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetAddressStatusW                             0x41c88770       0x00008770      79 (0x4f)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetAgentActivityListA                         0x41c8896a       0x0000896a      80 (0x50)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetAgentActivityListW                         0x41c88893       0x00008893      81 (0x51)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetAgentCapsA                                 0x41c88b11       0x00008b11      82 (0x52)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetAgentCapsW                                 0x41c88a29       0x00008a29      83 (0x53)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetAgentGroupListA                            0x41c88cb8       0x00008cb8      84 (0x54)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetAgentGroupListW                            0x41c88be1       0x00008be1      85 (0x55)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetAgentInfo                                  0x41c88d77       0x00008d77      86 (0x56)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetAgentSessionInfo                           0x41c88e4e       0x00008e4e      87 (0x57)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetAgentSessionList                           0x41c88f25       0x00008f25      88 (0x58)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetAgentStatusA                               0x41c890d3       0x000090d3      89 (0x59)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetAgentStatusW                               0x41c88ffc       0x00008ffc      90 (0x5a)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetAppPriority                                0x41c893bc       0x000093bc      91 (0x5b)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetAppPriorityA                               0x41c89298       0x00009298      92 (0x5c)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetAppPriorityW                               0x41c89187       0x00009187      93 (0x5d)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetCallInfo                                   0x41c8950b       0x0000950b      94 (0x5e)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetCallInfoA                                  0x41c89431       0x00009431      95 (0x5f)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetCallInfoW                                  0x41c893cc       0x000093cc      96 (0x60)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetCallStatus                                 0x41c8951b       0x0000951b      97 (0x61)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetConfRelatedCalls                           0x41c89580       0x00009580      98 (0x62)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetCountry                                    0x41c89725       0x00009725      99 (0x63)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetCountryA                                   0x41c896bb       0x000096bb      100 (0x64)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetCountryW                                   0x41c895e5       0x000095e5      101 (0x65)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetDevCaps                                    0x41c89bb7       0x00009bb7      102 (0x66)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetDevCapsA                                   0x41c89b30       0x00009b30      103 (0x67)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetDevCapsW                                   0x41c89a9c       0x00009a9c      104 (0x68)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetDevConfig                                  0x41c89d56       0x00009d56      105 (0x69)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetDevConfigA                                 0x41c89c7e       0x00009c7e      106 (0x6a)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetDevConfigW                                 0x41c89bc7       0x00009bc7      107 (0x6b)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetGroupListA                                 0x41c89d66       0x00009d66      108 (0x6c)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetGroupListW                                 0x41c89e0c       0x00009e0c      109 (0x6d)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetIcon                                       0x41c8a030       0x0000a030      113 (0x71)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetIconA                                      0x41c89f93       0x00009f93      114 (0x72)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetIconW                                      0x41c89ed5       0x00009ed5      115 (0x73)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetID                                         0x41c8a447       0x0000a447      110 (0x6e)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetIDA                                        0x41c8a3aa       0x0000a3aa      111 (0x6f)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetIDW                                        0x41c8a040       0x0000a040      112 (0x70)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetLineDevStatus                              0x41c8a572       0x0000a572      116 (0x74)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetLineDevStatusA                             0x41c8a4bc       0x0000a4bc      117 (0x75)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetLineDevStatusW                             0x41c8a457       0x0000a457      118 (0x76)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetMessage                                    0x41c855bb       0x000055bb      119 (0x77)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetNewCalls                                   0x41c8a582       0x0000a582      120 (0x78)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetNumRings                                   0x41c8a5f2       0x0000a5f2      121 (0x79)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetProviderList                               0x41c8a74c       0x0000a74c      122 (0x7a)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetProviderListA                              0x41c8a703       0x0000a703      123 (0x7b)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetProviderListW                              0x41c8a656       0x0000a656      124 (0x7c)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetProxyStatus                                0x41c8a759       0x0000a759      125 (0x7d)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetQueueInfo                                  0x41c8a7d5       0x0000a7d5      126 (0x7e)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetQueueListA                                 0x41c8a8ac       0x0000a8ac      127 (0x7f)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetQueueListW                                 0x41c8a968       0x0000a968      128 (0x80)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetRequest                                    0x41c8ac52       0x0000ac52      129 (0x81)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetRequestA                                   0x41c8aacd       0x0000aacd      130 (0x82)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetRequestW                                   0x41c8aa47       0x0000aa47      131 (0x83)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetStatusMessages                             0x41c8ac62       0x0000ac62      132 (0x84)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetTranslateCaps                              0x41ca12da       0x000212da      133 (0x85)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetTranslateCapsA                             0x41ca0e27       0x00020e27      134 (0x86)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineGetTranslateCapsW                             0x41ca0ee4       0x00020ee4      135 (0x87)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineHandoff                                       0x41c8ada5       0x0000ada5      136 (0x88)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineHandoffA                                      0x41c8ad45       0x0000ad45      137 (0x89)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineHandoffW                                      0x41c8acd4       0x0000acd4      138 (0x8a)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineHold                                          0x41c8adb2       0x0000adb2      139 (0x8b)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineInitialize                                    0x41c910f1       0x000110f1      140 (0x8c)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineInitializeExA                                 0x41c91225       0x00011225      141 (0x8d)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineInitializeExW                                 0x41c9119d       0x0001119d      142 (0x8e)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineMakeCall                                      0x41c8b0e0       0x0000b0e0      143 (0x8f)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineMakeCallA                                     0x41c8af15       0x0000af15      144 (0x90)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineMakeCallW                                     0x41c8ae0e       0x0000ae0e      145 (0x91)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineMonitorDigits                                 0x41c8b0f0       0x0000b0f0      146 (0x92)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineMonitorMedia                                  0x41c8b155       0x0000b155      147 (0x93)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineMonitorTones                                  0x41c8b1ba       0x0000b1ba      148 (0x94)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineNegotiateAPIVersion                           0x41c8b239       0x0000b239      149 (0x95)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineNegotiateExtVersion                           0x41c8b2e3       0x0000b2e3      150 (0x96)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineOpen                                          0x41c8b631       0x0000b631      151 (0x97)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineOpenA                                         0x41c8b4d0       0x0000b4d0      152 (0x98)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineOpenW                                         0x41c8b376       0x0000b376      153 (0x99)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   linePark                                          0x41c8b895       0x0000b895      154 (0x9a)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineParkA                                         0x41c8b74d       0x0000b74d      155 (0x9b)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineParkW                                         0x41c8b641       0x0000b641      156 (0x9c)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   linePickup                                        0x41c8ba24       0x0000ba24      157 (0x9d)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   linePickupA                                       0x41c8b9a2       0x0000b9a2      158 (0x9e)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   linePickupW                                       0x41c8b8a5       0x0000b8a5      159 (0x9f)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   linePrepareAddToConference                        0x41c8bbf7       0x0000bbf7      160 (0xa0)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   linePrepareAddToConferenceA                       0x41c8bb13       0x0000bb13      161 (0xa1)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   linePrepareAddToConferenceW                       0x41c8ba34       0x0000ba34      162 (0xa2)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineProxyMessage                                  0x41c8bc07       0x0000bc07      163 (0xa3)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineProxyResponse                                 0x41c8bc89       0x0000bc89      164 (0xa4)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineRedirect                                      0x41c8be37       0x0000be37      165 (0xa5)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineRedirectA                                     0x41c8bdea       0x0000bdea      166 (0xa6)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineRedirectW                                     0x41c8bd86       0x0000bd86      167 (0xa7)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineRegisterRequestRecipient                      0x41c8be44       0x0000be44      168 (0xa8)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineReleaseUserUserInfo                           0x41c8beb4       0x0000beb4      169 (0xa9)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineRemoveFromConference                          0x41c8bf10       0x0000bf10      170 (0xaa)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineRemoveProvider                                0x41c912c9       0x000112c9      171 (0xab)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSecureCall                                    0x41c8bf6c       0x0000bf6c      172 (0xac)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSendUserUserInfo                              0x41c8bfc8       0x0000bfc8      173 (0xad)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetAgentActivity                              0x41c8c03d       0x0000c03d      174 (0xae)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetAgentGroup                                 0x41c8c0a4       0x0000c0a4      175 (0xaf)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetAgentMeasurementPeriod                     0x41c8c113       0x0000c113      176 (0xb0)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetAgentSessionState                          0x41c8c17a       0x0000c17a      177 (0xb1)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetAgentState                                 0x41c8c1e9       0x0000c1e9      178 (0xb2)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetAgentStateEx                               0x41c8c258       0x0000c258      179 (0xb3)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetAppPriority                                0x41c8c389       0x0000c389      180 (0xb4)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetAppPriorityA                               0x41c8c349       0x0000c349      181 (0xb5)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetAppPriorityW                               0x41c8c2c7       0x0000c2c7      182 (0xb6)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetAppSpecific                                0x41c8c396       0x0000c396      183 (0xb7)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetCallData                                   0x41c8c3fb       0x0000c3fb      184 (0xb8)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetCallParams                                 0x41c8c470       0x0000c470      185 (0xb9)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetCallPrivilege                              0x41c8c501       0x0000c501      186 (0xba)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetCallQualityOfService                       0x41c8c566       0x0000c566      187 (0xbb)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetCallTreatment                              0x41c8c5e0       0x0000c5e0      188 (0xbc)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetCurrentLocation                            0x41c9fba7       0x0001fba7      189 (0xbd)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetDevConfig                                  0x41c8c70a       0x0000c70a      190 (0xbe)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetDevConfigA                                 0x41c8c6b3       0x0000c6b3      191 (0xbf)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetDevConfigW                                 0x41c8c645       0x0000c645      192 (0xc0)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetLineDevStatus                              0x41c8c717       0x0000c717      193 (0xc1)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetMediaControl                               0x41c8c77e       0x0000c77e      194 (0xc2)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetMediaMode                                  0x41c8c8aa       0x0000c8aa      195 (0xc3)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetNumRings                                   0x41c8c90f       0x0000c90f      196 (0xc4)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetQueueMeasurementPeriod                     0x41c8c976       0x0000c976      197 (0xc5)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetStatusMessages                             0x41c8c9dd       0x0000c9dd      198 (0xc6)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetTerminal                                   0x41c8ca44       0x0000ca44      199 (0xc7)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetTollList                                   0x41ca220b       0x0002220b      200 (0xc8)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetTollListA                                  0x41ca2156       0x00022156      201 (0xc9)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetTollListW                                  0x41ca1707       0x00021707      202 (0xca)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetupConference                               0x41c8cd73       0x0000cd73      203 (0xcb)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetupConferenceA                              0x41c8cc1e       0x0000cc1e      204 (0xcc)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetupConferenceW                              0x41c8cace       0x0000cace      205 (0xcd)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetupTransfer                                 0x41c8cf46       0x0000cf46      206 (0xce)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetupTransferA                                0x41c8ce62       0x0000ce62      207 (0xcf)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSetupTransferW                                0x41c8cd83       0x0000cd83      208 (0xd0)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineShutdown                                      0x41c912eb       0x000112eb      209 (0xd1)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineSwapHold                                      0x41c8cf56       0x0000cf56      210 (0xd2)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineTranslateAddress                              0x41ca210b       0x0002210b      211 (0xd3)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineTranslateAddressA                             0x41ca201c       0x0002201c      212 (0xd4)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineTranslateAddressW                             0x41ca1322       0x00021322      213 (0xd5)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineTranslateDialog                               0x41ca0e17       0x00020e17      214 (0xd6)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineTranslateDialogA                              0x41ca0cea       0x00020cea      215 (0xd7)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineTranslateDialogW                              0x41c9fa32       0x0001fa32      216 (0xd8)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineUncompleteCall                                0x41c8cfbb       0x0000cfbb      217 (0xd9)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineUnhold                                        0x41c8d020       0x0000d020      218 (0xda)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineUnpark                                        0x41c8d1a9       0x0000d1a9      219 (0xdb)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineUnparkA                                       0x41c8d152       0x0000d152      220 (0xdc)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   lineUnparkW                                       0x41c8d07c       0x0000d07c      221 (0xdd)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   LocWizardDlgProc                                  0x41c9e74d       0x0001e74d      4 (0x4)          tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   LOpenDialAsst                                     0x41c84cdc       0x00004cdc      3 (0x3)          tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   MMCAddProvider                                    0x41c916ea       0x000116ea      5 (0x5)          tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   MMCConfigProvider                                 0x41c91757       0x00011757      6 (0x6)          tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   MMCGetAvailableProviders                          0x41c917be       0x000117be      7 (0x7)          tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   MMCGetDeviceFlags                                 0x41c9242a       0x0001242a      8 (0x8)          tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   MMCGetLineInfo                                    0x41c9187a       0x0001187a      9 (0x9)          tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   MMCGetLineStatus                                  0x41c925cf       0x000125cf      10 (0xa)         tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   MMCGetPhoneInfo                                   0x41c91936       0x00011936      11 (0xb)         tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   MMCGetPhoneStatus                                 0x41c9268e       0x0001268e      12 (0xc)         tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   MMCGetProviderList                                0x41c919f2       0x000119f2      13 (0xd)         tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   MMCGetServerConfig                                0x41c91a5b       0x00011a5b      14 (0xe)         tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   MMCInitialize                                     0x41c91cb6       0x00011cb6      15 (0xf)         tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   MMCRemoveProvider                                 0x41c9216d       0x0001216d      16 (0x10)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   MMCSetLineInfo                                    0x41c921d4       0x000121d4      17 (0x11)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   MMCSetPhoneInfo                                   0x41c92290       0x00012290      18 (0x12)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   MMCSetServerConfig                                0x41c9234c       0x0001234c      19 (0x13)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   MMCShutdown                                       0x41c92503       0x00012503      20 (0x14)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   NonAsyncEventThread                               0x41c91693       0x00011693      21 (0x15)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneClose                                        0x41c8d1b6       0x0000d1b6      222 (0xde)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneConfigDialog                                 0x41c9148f       0x0001148f      223 (0xdf)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneConfigDialogA                                0x41c9143c       0x0001143c      224 (0xe0)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneConfigDialogW                                0x41c91303       0x00011303      225 (0xe1)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneDevSpecific                                  0x41c8d23e       0x0000d23e      226 (0xe2)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneGetButtonInfo                                0x41c8d3cd       0x0000d3cd      227 (0xe3)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneGetButtonInfoA                               0x41c8d39a       0x0000d39a      228 (0xe4)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneGetButtonInfoW                               0x41c8d336       0x0000d336      229 (0xe5)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneGetData                                      0x41c8d3da       0x0000d3da      230 (0xe6)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneGetDevCaps                                   0x41c8d53c       0x0000d53c      231 (0xe7)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneGetDevCapsA                                  0x41c8d4d2       0x0000d4d2      232 (0xe8)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneGetDevCapsW                                  0x41c8d447       0x0000d447      233 (0xe9)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneGetDisplay                                   0x41c8d549       0x0000d549      234 (0xea)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneGetGain                                      0x41c8d5ae       0x0000d5ae      235 (0xeb)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneGetHookSwitch                                0x41c8d612       0x0000d612      236 (0xec)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneGetIcon                                      0x41c8d79a       0x0000d79a      240 (0xf0)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneGetIconA                                     0x41c8d743       0x0000d743      241 (0xf1)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneGetIconW                                     0x41c8d677       0x0000d677      242 (0xf2)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneGetID                                        0x41c8db84       0x0000db84      237 (0xed)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneGetIDA                                       0x41c8db00       0x0000db00      238 (0xee)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneGetIDW                                       0x41c8d7a7       0x0000d7a7      239 (0xef)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneGetLamp                                      0x41c8db94       0x0000db94      243 (0xf3)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneGetMessage                                   0x41c85881       0x00005881      244 (0xf4)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneGetRing                                      0x41c8dbf8       0x0000dbf8      245 (0xf5)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneGetStatus                                    0x41c8dcff       0x0000dcff      246 (0xf6)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneGetStatusA                                   0x41c8dccf       0x0000dccf      247 (0xf7)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneGetStatusMessages                            0x41c8dd0c       0x0000dd0c      248 (0xf8)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneGetStatusW                                   0x41c8dc6a       0x0000dc6a      249 (0xf9)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneGetVolume                                    0x41c8dd91       0x0000dd91      250 (0xfa)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneInitialize                                   0x41c9149c       0x0001149c      251 (0xfb)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneInitializeExA                                0x41c915d6       0x000115d6      252 (0xfc)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneInitializeExW                                0x41c91554       0x00011554      253 (0xfd)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneNegotiateAPIVersion                          0x41c8ddf5       0x0000ddf5      254 (0xfe)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneNegotiateExtVersion                          0x41c8de9f       0x0000de9f      255 (0xff)       tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   phoneOpen                                         0x41c8df32       0x0000df32      256 (0x100)      tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneSetButtonInfo                                0x41c8e1e9       0x0000e1e9      257 (0x101)      tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   phoneSetButtonInfoA                               0x41c8e079       0x0000e079      258 (0x102)      tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   phoneSetButtonInfoW                               0x41c8e015       0x0000e015      259 (0x103)      tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneSetData                                      0x41c8e1f9       0x0000e1f9      260 (0x104)      tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   phoneSetDisplay                                   0x41c8e266       0x0000e266      261 (0x105)      tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   phoneSetGain                                      0x41c8e2e2       0x0000e2e2      262 (0x106)      tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   phoneSetHookSwitch                                0x41c8e349       0x0000e349      263 (0x107)      tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneSetLamp                                      0x41c8e3de       0x0000e3de      264 (0x108)      tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   phoneSetRing                                      0x41c8e445       0x0000e445      265 (0x109)      tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   phoneSetStatusMessages                            0x41c8e4ac       0x0000e4ac      266 (0x10a)      tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   phoneSetVolume                                    0x41c8e51b       0x0000e51b      267 (0x10b)      tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   phoneShutdown                                     0x41c9167b       0x0001167b      268 (0x10c)      tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   tapiGetLocationInfo                               0x41ca1e4b       0x00021e4b      269 (0x10d)      tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   tapiGetLocationInfoA                              0x41ca1c92       0x00021c92      270 (0x10e)      tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   tapiGetLocationInfoW                              0x41ca1b2e       0x00021b2e      271 (0x10f)      tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   tapiRequestDrop                                   0x41c8e582       0x0000e582      272 (0x110)      tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   tapiRequestMakeCall                               0x41c8ea2f       0x0000ea2f      273 (0x111)      tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   tapiRequestMakeCallA                              0x41c8e949       0x0000e949      274 (0x112)      tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   tapiRequestMakeCallW                              0x41c8e5e7       0x0000e5e7      275 (0x113)      tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   tapiRequestMediaCall                              0x41c8ed0b       0x0000ed0b      276 (0x114)      tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   tapiRequestMediaCallA                             0x41c8eb75       0x0000eb75      277 (0x115)      tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   tapiRequestMediaCallW                             0x41c8ea3f       0x0000ea3f      278 (0x116)      tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+
+   TAPIWndProc                                       0x41c84325       0x00004325      22 (0x16)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+   TUISPIDLLCallback                                 0x41c8eefa       0x0000eefa      23 (0x17)        tapi32.dll          C:\Windows\System32\tapi32.dll            Exported Function
+

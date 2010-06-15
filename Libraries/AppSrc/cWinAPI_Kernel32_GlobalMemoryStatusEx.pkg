@@ -1,13 +1,13 @@
 //==============================================================================
 // Project      : VDF WinAPI - VDF Classes for the Windows API
-// File         : cWinAPI_Kernel32.pkg
-// Description  : VDF Wrapper Class for Kernel32.dll
+// File         : cWinAPI_Kernel32_GlobalMemoryStatusEx.pkg
+// Description  : VDF Class for GlobalMemoryStatusEx
 //
-// Revision     : 1.0 
-//               
-// 
+// Revision     : 1.0
+//
+//
 // Requirements : Visual DataFlex 15.1
-//                
+//
 //
 // Copyright    : (c) 2010 www.VisualDataFlexDeveloper.org (Todd Forsberg)
 //                Putting The Pieces Together
@@ -17,12 +17,12 @@
 //
 //                This file is part of VDF WinAPI Library.
 //
-//                VDF WinAPI Library is free software: you can redistribute it and/or 
-//                modify it under the terms of the GNU Lesser General Public License 
-//                as published by the Free Software Foundation, either version 
+//                VDF WinAPI Library is free software: you can redistribute it and/or
+//                modify it under the terms of the GNU Lesser General Public License
+//                as published by the Free Software Foundation, either version
 //                2.1 of the License, or (at your option) any later version.
 //
-//                VDF WinAPI is distributed in the hope that it will be useful, but 
+//                VDF WinAPI is distributed in the hope that it will be useful, but
 //                WITHOUT ANY WARRANTY; without even the implied warranty of
 //                MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 //                GNU Lesser General Public License for more details.
@@ -32,28 +32,29 @@
 //==============================================================================
 
 Use UI
+Use tWinAPI_MemoryStatusEx.h
+Use WinAPI_Kernel.h
 
-Use cWinAPI_Kernel32_GlobalMemoryStatus.pkg
+Class cWinAPI_Kernel32_GlobalMemoryStatus is a cObject
 
-Class cWinAPI_Kernel32 is a cObject
-    
+  Procedure Refresh
+    Property tWINAPI_MEMORYSTATUS ptGlobalMemoryStatus
+    tWINAPI_MEMORYSTATUS MemoryStatus
+    Integer iVoid
+
+    Move (WINAPI_GlobalMemoryStatus (AddressOf (MemoryStatus))) to iVoid
+    Set ptGlobalMemoryStatus to MemoryStatus
+  End_Procedure
+
   Procedure Construct_Object
     Forward Send Construct_Object
+    Send Refresh
   End_Procedure
 
   Procedure End_Construct_Object
     Forward Send End_Construct_Object
   End_Procedure
 
-  Function GlobalMemoryStatus Returns tWINAPI_MEMORYSTATUS
-    Handle hMem
-    tWINAPI_MEMORYSTATUS MyMemory
-    Get Create (RefClass(cWinAPI_Kernel32_GlobalMemoryStatus)) to hMem
-    Get ptGlobalMemoryStatus of hMem to MyMemory    
-    Send Destroy of hMem
-    Function_Return MyMemory
-  End_Function
-  
 End_Class
 
-// End of File: cWinAPI_Kernel32.pkg
+// End of File: cWinAPI_Kernel32_GlobalMemoryStatus.pkg

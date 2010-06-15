@@ -1,0 +1,1183 @@
+ Function Name                          Address         Relative Address Ordinal          Filename            Full Path                                Type
+   GdipAddPathArc                       0x7a11b7da      0x0008b7da       1 (0x1)          gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipAddPathArcI                      0x7a11b88f      0x0008b88f       2 (0x2)          gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipAddPathBezier                    0x7a0ce7ea      0x0003e7ea       3 (0x3)          gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipAddPathBezierI                   0x7a0ce78c      0x0003e78c       4 (0x4)          gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipAddPathBeziers                   0x7a0af8f0      0x0001f8f0       5 (0x5)          gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipAddPathBeziersI                  0x7a0b48b6      0x000248b6       6 (0x6)          gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipAddPathClosedCurve               0x7a0ce524      0x0003e524       9 (0x9)          gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipAddPathClosedCurve2              0x7a11bd89      0x0008bd89       7 (0x7)          gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipAddPathClosedCurve2I             0x7a11be39      0x0008be39       8 (0x8)          gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipAddPathClosedCurveI              0x7a11bcf6      0x0008bcf6       10 (0xa)         gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipAddPathCurve                     0x7a11b8df      0x0008b8df       15 (0xf)         gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipAddPathCurve2                    0x7a11ba2f      0x0008ba2f       11 (0xb)         gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipAddPathCurve2I                   0x7a11baea      0x0008baea       12 (0xc)         gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipAddPathCurve3                    0x7a11bb9c      0x0008bb9c       13 (0xd)         gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipAddPathCurve3I                   0x7a11bc56      0x0008bc56       14 (0xe)         gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipAddPathCurveI                    0x7a11b984      0x0008b984       16 (0x10)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipAddPathEllipse                   0x7a0b1f58      0x00021f58       17 (0x11)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipAddPathEllipseI                  0x7a0b210a      0x0002210a       18 (0x12)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipAddPathLine                      0x7a0b61eb      0x000261eb       21 (0x15)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipAddPathLine2                     0x7a0aed62      0x0001ed62       19 (0x13)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipAddPathLine2I                    0x7a0b28e2      0x000228e2       20 (0x14)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipAddPathLineI                     0x7a0b61a9      0x000261a9       22 (0x16)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipAddPathPath                      0x7a0b972e      0x0002972e       23 (0x17)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipAddPathPie                       0x7a11c05a      0x0008c05a       24 (0x18)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipAddPathPieI                      0x7a11c10f      0x0008c10f       25 (0x19)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipAddPathPolygon                   0x7a0b0d46      0x00020d46       26 (0x1a)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipAddPathPolygonI                  0x7a0b783e      0x0002783e       27 (0x1b)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipAddPathRectangle                 0x7a0b4965      0x00024965       28 (0x1c)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipAddPathRectangleI                0x7a11bed3      0x0008bed3       29 (0x1d)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipAddPathRectangles                0x7a11bf15      0x0008bf15       30 (0x1e)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipAddPathRectanglesI               0x7a11bfba      0x0008bfba       31 (0x1f)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipAddPathString                    0x7a0bebde      0x0002ebde       32 (0x20)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipAddPathStringI                   0x7a11c15f      0x0008c15f       33 (0x21)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipAlloc                            0x7a0a7f0a      0x00017f0a       34 (0x22)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipBeginContainer                   0x7a0cd418      0x0003d418       36 (0x24)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipBeginContainer2                  0x7a0e222f      0x0005222f       35 (0x23)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipBeginContainerI                  0x7a0cd3b0      0x0003d3b0       37 (0x25)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipBitmapGetPixel                   0x7a0e614d      0x0005614d       38 (0x26)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipBitmapLockBits                   0x7a0e4725      0x00054725       39 (0x27)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipBitmapSetPixel                   0x7a123aa1      0x00093aa1       40 (0x28)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipBitmapSetResolution              0x7a123b2c      0x00093b2c       41 (0x29)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipBitmapUnlockBits                 0x7a0e47a3      0x000547a3       42 (0x2a)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipClearPathMarkers                 0x7a11b6b6      0x0008b6b6       43 (0x2b)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCloneBitmapArea                  0x7a12a329      0x0009a329       44 (0x2c)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCloneBitmapAreaI                 0x7a0b7331      0x00027331       45 (0x2d)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCloneBrush                       0x7a11f136      0x0008f136       46 (0x2e)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCloneCustomLineCap               0x7a12198a      0x0009198a       47 (0x2f)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCloneFont                        0x7a129159      0x00099159       48 (0x30)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCloneFontFamily                  0x7a0d61a1      0x000461a1       49 (0x31)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCloneImage                       0x7a122e68      0x00092e68       50 (0x32)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCloneImageAttributes             0x7a123bbd      0x00093bbd       51 (0x33)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCloneMatrix                      0x7a11d3f6      0x0008d3f6       52 (0x34)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipClonePath                        0x7a0b9635      0x00029635       53 (0x35)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipClonePen                         0x7a0ce8e5      0x0003e8e5       54 (0x36)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCloneRegion                      0x7a11dcda      0x0008dcda       55 (0x37)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCloneStringFormat                0x7a0d5099      0x00045099       56 (0x38)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipClosePathFigure                  0x7a0b1c27      0x00021c27       57 (0x39)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipClosePathFigures                 0x7a11b631      0x0008b631       58 (0x3a)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCombineRegionPath                0x7a11df46      0x0008df46       59 (0x3b)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCombineRegionRect                0x7a11de36      0x0008de36       60 (0x3c)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCombineRegionRectI               0x7a11deff      0x0008deff       61 (0x3d)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCombineRegionRegion              0x7a0c338f      0x0003338f       62 (0x3e)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipComment                          0x7a1291f5      0x000991f5       63 (0x3f)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateAdjustableArrowCap         0x7a0bdb32      0x0002db32       64 (0x40)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateBitmapFromDirectDrawSur... 0x7a1236b3      0x000936b3       65 (0x41)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateBitmapFromFile             0x7a0afb54      0x0001fb54       66 (0x42)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateBitmapFromFileICM          0x7a0c548f      0x0003548f       67 (0x43)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateBitmapFromGdiDib           0x7a123789      0x00093789       68 (0x44)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateBitmapFromGraphics         0x7a123572      0x00093572       69 (0x45)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateBitmapFromHBITMAP          0x7a123877      0x00093877       70 (0x46)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateBitmapFromHICON            0x7a1238ec      0x000938ec       71 (0x47)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateBitmapFromResource         0x7a12395e      0x0009395e       72 (0x48)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateBitmapFromScan0            0x7a0a54ff      0x000154ff       73 (0x49)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateBitmapFromStream           0x7a0e5983      0x00055983       74 (0x4a)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateBitmapFromStreamICM        0x7a123448      0x00093448       75 (0x4b)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateCachedBitmap               0x7a0d25f5      0x000425f5       76 (0x4c)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateCustomLineCap              0x7a0b250d      0x0002250d       77 (0x4d)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateFont                       0x7a0d73bf      0x000473bf       78 (0x4e)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateFontFamilyFromName         0x7a0acfab      0x0001cfab       79 (0x4f)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateFontFromDC                 0x7a12941a      0x0009941a       80 (0x50)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateFontFromLogfontA           0x7a1294f0      0x000994f0       81 (0x51)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateFontFromLogfontW           0x7a0e39bd      0x000539bd       82 (0x52)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateFromHDC                    0x7a091ca1      0x00001ca1       84 (0x54)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateFromHDC2                   0x7a124137      0x00094137       83 (0x53)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateFromHWND                   0x7a0d9e86      0x00049e86       85 (0x55)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateFromHWNDICM                0x7a1241c2      0x000941c2       86 (0x56)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateHalftonePalette            0x7a0e1732      0x00051732       89 (0x59)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateHatchBrush                 0x7a0b6f6b      0x00026f6b       90 (0x5a)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateHBITMAPFromBitmap          0x7a0e65bf      0x000565bf       87 (0x57)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateHICONFromBitmap            0x7a1239d3      0x000939d3       88 (0x58)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateImageAttributes            0x7a0a7396      0x00017396       91 (0x5b)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateLineBrush                  0x7a0b1cc9      0x00021cc9       92 (0x5c)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateLineBrushFromRect          0x7a0b54b2      0x000254b2       93 (0x5d)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateLineBrushFromRectI         0x7a11f6a5      0x0008f6a5       94 (0x5e)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateLineBrushFromRectWithA...  0x7a0c2f0a      0x00032f0a       95 (0x5f)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateLineBrushFromRectWithA...  0x7a11f752      0x0008f752       96 (0x60)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateLineBrushI                 0x7a0b979b      0x0002979b       97 (0x61)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateMatrix                     0x7a09166d      0x0000166d       101 (0x65)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateMatrix2                    0x7a11d185      0x0008d185       98 (0x62)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateMatrix3                    0x7a11d2ab      0x0008d2ab       99 (0x63)        gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateMatrix3I                   0x7a11d353      0x0008d353       100 (0x64)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateMetafileFromEmf            0x7a128417      0x00098417       102 (0x66)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateMetafileFromFile           0x7a0d1202      0x00041202       103 (0x67)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateMetafileFromStream         0x7a12858d      0x0009858d       104 (0x68)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateMetafileFromWmf            0x7a128359      0x00098359       105 (0x69)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateMetafileFromWmfFile        0x7a1284d2      0x000984d2       106 (0x6a)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreatePath                       0x7a0adffe      0x0001dffe       109 (0x6d)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreatePath2                      0x7a0b4280      0x00024280       107 (0x6b)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreatePath2I                     0x7a11b058      0x0008b058       108 (0x6c)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreatePathGradient               0x7a0c8a53      0x00038a53       110 (0x6e)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreatePathGradientFromPath       0x7a0c8fc6      0x00038fc6       111 (0x6f)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreatePathGradientI              0x7a12a248      0x0009a248       112 (0x70)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreatePathIter                   0x7a0bf89c      0x0002f89c       113 (0x71)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreatePen1                       0x7a0a27a5      0x000127a5       114 (0x72)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreatePen2                       0x7a0a8058      0x00018058       115 (0x73)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateRegion                     0x7a0da0cd      0x0004a0cd       116 (0x74)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateRegionHrgn                 0x7a11dc2b      0x0008dc2b       117 (0x75)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateRegionPath                 0x7a0bfa4a      0x0002fa4a       118 (0x76)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateRegionRect                 0x7a0c425d      0x0003425d       119 (0x77)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateRegionRectI                0x7a0c41f7      0x000341f7       120 (0x78)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateRegionRgnData              0x7a11db77      0x0008db77       121 (0x79)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateSolidFill                  0x7a092b79      0x00002b79       122 (0x7a)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateStreamOnFile               0x7a1282b9      0x000982b9       123 (0x7b)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateStringFormat               0x7a0e1c09      0x00051c09       124 (0x7c)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateTexture                    0x7a0b95bc      0x000295bc       127 (0x7f)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateTexture2                   0x7a12a068      0x0009a068       125 (0x7d)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateTexture2I                  0x7a12a198      0x0009a198       126 (0x7e)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateTextureIA                  0x7a0c5568      0x00035568       128 (0x80)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipCreateTextureIAI                 0x7a12a215      0x0009a215       129 (0x81)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDeleteBrush                      0x7a0927fd      0x000027fd       130 (0x82)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDeleteCachedBitmap               0x7a0d167b      0x0004167b       131 (0x83)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDeleteCustomLineCap              0x7a0b27f0      0x000227f0       132 (0x84)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDeleteFont                       0x7a0d74cb      0x000474cb       133 (0x85)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDeleteFontFamily                 0x7a099d2c      0x00009d2c       134 (0x86)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDeleteGraphics                   0x7a0922cf      0x000022cf       135 (0x87)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDeleteMatrix                     0x7a093db1      0x00003db1       136 (0x88)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDeletePath                       0x7a0ad5a3      0x0001d5a3       137 (0x89)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDeletePathIter                   0x7a0bfdfe      0x0002fdfe       138 (0x8a)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDeletePen                        0x7a0935e3      0x000035e3       139 (0x8b)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDeletePrivateFontCollection      0x7a12963d      0x0009963d       140 (0x8c)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDeleteRegion                     0x7a0966dc      0x000066dc       141 (0x8d)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDeleteStringFormat               0x7a0d9c03      0x00049c03       142 (0x8e)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDisposeImage                     0x7a0a24dc      0x000124dc       143 (0x8f)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDisposeImageAttributes           0x7a0a7435      0x00017435       144 (0x90)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawArc                          0x7a124bc5      0x00094bc5       145 (0x91)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawArcI                         0x7a124ce4      0x00094ce4       146 (0x92)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawBezier                       0x7a124d37      0x00094d37       147 (0x93)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawBezierI                      0x7a124e67      0x00094e67       148 (0x94)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawBeziers                      0x7a124ec8      0x00094ec8       149 (0x95)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawBeziersI                     0x7a124fdb      0x00094fdb       150 (0x96)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawCachedBitmap                 0x7a0d3c42      0x00043c42       151 (0x97)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawClosedCurve                  0x7a0c033c      0x0003033c       154 (0x9a)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawClosedCurve2                 0x7a125732      0x00095732       152 (0x98)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawClosedCurve2I                0x7a12584c      0x0009584c       153 (0x99)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawClosedCurveI                 0x7a0c02bb      0x000302bb       155 (0x9b)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawCurve                        0x7a0bfbe3      0x0002fbe3       160 (0xa0)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawCurve2                       0x7a1253b1      0x000953b1       156 (0x9c)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawCurve2I                      0x7a1254d2      0x000954d2       157 (0x9d)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawCurve3                       0x7a12556f      0x0009556f       158 (0x9e)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawCurve3I                      0x7a12568f      0x0009568f       159 (0x9f)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawCurveI                       0x7a0bfb62      0x0002fb62       161 (0xa1)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawDriverString                 0x7a1260da      0x000960da       162 (0xa2)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawEllipse                      0x7a12525f      0x0009525f       163 (0xa3)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawEllipseI                     0x7a12536c      0x0009536c       164 (0xa4)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawImage                        0x7a126547      0x00096547       165 (0xa5)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawImageI                       0x7a126641      0x00096641       166 (0xa6)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawImagePointRect               0x7a0b4acd      0x00024acd       167 (0xa7)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawImagePointRectI              0x7a0b4a77      0x00024a77       168 (0xa8)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawImagePoints                  0x7a0b000e      0x0002000e       169 (0xa9)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawImagePointsI                 0x7a1266bc      0x000966bc       170 (0xaa)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawImagePointsRect              0x7a0d12ee      0x000412ee       171 (0xab)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawImagePointsRectI             0x7a12676a      0x0009676a       172 (0xac)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawImageRect                    0x7a0d13cd      0x000413cd       173 (0xad)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawImageRectI                   0x7a126677      0x00096677       174 (0xae)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawImageRectRect                0x7a0a5c3c      0x00015c3c       175 (0xaf)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawImageRectRectI               0x7a0a74a9      0x000174a9       176 (0xb0)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawLine                         0x7a0a3e56      0x00013e56       177 (0xb1)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawLineI                        0x7a0a3e11      0x00013e11       178 (0xb2)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawLines                        0x7a0cd651      0x0003d651       179 (0xb3)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawLinesI                       0x7a0cd5d0      0x0003d5d0       180 (0xb4)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawPath                         0x7a0adb74      0x0001db74       181 (0xb5)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawPie                          0x7a0bde18      0x0002de18       182 (0xb6)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawPieI                         0x7a0bddc5      0x0002ddc5       183 (0xb7)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawPolygon                      0x7a0ac774      0x0001c774       184 (0xb8)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawPolygonI                     0x7a0ac6f3      0x0001c6f3       185 (0xb9)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawRectangle                    0x7a0a3020      0x00013020       186 (0xba)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawRectangleI                   0x7a0a40ac      0x000140ac       187 (0xbb)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawRectangles                   0x7a125089      0x00095089       188 (0xbc)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawRectanglesI                  0x7a12519c      0x0009519c       189 (0xbd)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipDrawString                       0x7a0d92db      0x000492db       190 (0xbe)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipEmfToWmfBits                     0x7a129b9c      0x00099b9c       191 (0xbf)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipEndContainer                     0x7a0a41c7      0x000141c7       192 (0xc0)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipEnumerateMetafileDestPoint       0x7a12684d      0x0009684d       193 (0xc1)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipEnumerateMetafileDestPointI      0x7a1269e9      0x000969e9       194 (0xc2)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipEnumerateMetafileDestPoints      0x7a126c19      0x00096c19       195 (0xc3)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipEnumerateMetafileDestPointsI     0x7a126db8      0x00096db8       196 (0xc4)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipEnumerateMetafileDestRect        0x7a126a2d      0x00096a2d       197 (0xc5)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipEnumerateMetafileDestRectI       0x7a126bc9      0x00096bc9       198 (0xc6)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipEnumerateMetafileSrcRectDestP... 0x7a126e73      0x00096e73       199 (0xc7)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipEnumerateMetafileSrcRectDestP... 0x7a127045      0x00097045       200 (0xc8)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipEnumerateMetafileSrcRectDestP... 0x7a1272ed      0x000972ed       201 (0xc9)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipEnumerateMetafileSrcRectDestP... 0x7a1274c2      0x000974c2       202 (0xca)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipEnumerateMetafileSrcRectDestRe...0x7a1270aa      0x000970aa       203 (0xcb)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipEnumerateMetafileSrcRectDestRe...0x7a12727c      0x0009727c       204 (0xcc)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipFillClosedCurve                  0x7a0c011a      0x0003011a       207 (0xcf)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipFillClosedCurve2                 0x7a125da4      0x00095da4       205 (0xcd)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipFillClosedCurve2I                0x7a125ec4      0x00095ec4       206 (0xce)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipFillClosedCurveI                 0x7a0c0099      0x00030099       208 (0xd0)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipFillEllipse                      0x7a125c4f      0x00095c4f       209 (0xd1)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipFillEllipseI                     0x7a125d5f      0x00095d5f       210 (0xd2)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipFillPath                         0x7a0ae1db      0x0001e1db       211 (0xd3)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipFillPie                          0x7a0bfecf      0x0002fecf       212 (0xd4)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipFillPieI                         0x7a0bfe7c      0x0002fe7c       213 (0xd5)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipFillPolygon                      0x7a0acbaa      0x0001cbaa       216 (0xd8)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipFillPolygon2                     0x7a125aa2      0x00095aa2       214 (0xd6)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipFillPolygon2I                    0x7a125bb9      0x00095bb9       215 (0xd7)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipFillPolygonI                     0x7a0acb26      0x0001cb26       217 (0xd9)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipFillRectangle                    0x7a0936cb      0x000036cb       218 (0xda)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipFillRectangleI                   0x7a0952a3      0x000052a3       219 (0xdb)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipFillRectangles                   0x7a1258e9      0x000958e9       220 (0xdc)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipFillRectanglesI                  0x7a1259ff      0x000959ff       221 (0xdd)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipFillRegion                       0x7a0c04d5      0x000304d5       222 (0xde)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipFlattenPath                      0x7a0b3d99      0x00023d99       223 (0xdf)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipFlush                            0x7a12424c      0x0009424c       224 (0xe0)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipFree                             0x7a0a800f      0x0001800f       225 (0xe1)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetAdjustableArrowCapFillState   0x7a12229f      0x0009229f       226 (0xe2)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetAdjustableArrowCapHeight      0x7a121fc6      0x00091fc6       227 (0xe3)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetAdjustableArrowCapMiddleIn... 0x7a122181      0x00092181       228 (0xe4)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetAdjustableArrowCapWidth       0x7a1220e8      0x000920e8       229 (0xe5)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetAllPropertyItems              0x7a122ce5      0x00092ce5       230 (0xe6)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetBrushType                     0x7a11f1f8      0x0008f1f8       231 (0xe7)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+    GdipGetCellAscent                           0x7a12931a          0x0009931a          232 (0xe8)          gdiplus.dll             C:\Windows\System32\gdiplus.dll                   Exported Function
+
+   GdipGetCellDescent                   0x7a12939a      0x0009939a       233 (0xe9)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetClip                          0x7a0e2d54      0x00052d54       234 (0xea)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetClipBounds                    0x7a127a5a      0x00097a5a       235 (0xeb)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetClipBoundsI                   0x7a127af2      0x00097af2       236 (0xec)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetCompositingMode               0x7a124400      0x00094400       237 (0xed)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetCompositingQuality            0x7a124496      0x00094496       238 (0xee)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetCustomLineCapBaseCap          0x7a121cff      0x00091cff       239 (0xef)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetCustomLineCapBaseInset        0x7a121d95      0x00091d95       240 (0xf0)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetCustomLineCapStrokeCaps       0x7a121b0e      0x00091b0e       241 (0xf1)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetCustomLineCapStrokeJoin       0x7a121bd8      0x00091bd8       242 (0xf2)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetCustomLineCapType             0x7a121a72      0x00091a72       243 (0xf3)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetCustomLineCapWidthScale       0x7a121ea7      0x00091ea7       244 (0xf4)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetDC                            0x7a0e26bc      0x000526bc       245 (0xf5)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetDpiX                          0x7a0ccead      0x0003cead       246 (0xf6)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetDpiY                          0x7a0e3774      0x00053774       247 (0xf7)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetEmHeight                      0x7a0e3d1b      0x00053d1b       248 (0xf8)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetEncoderParameterList          0x7a122550      0x00092550       249 (0xf9)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetEncoderParameterListSize      0x7a1224cd      0x000924cd       250 (0xfa)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetFamily                        0x7a0e178d      0x0005178d       251 (0xfb)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetFamilyName                    0x7a0e355a      0x0005355a       252 (0xfc)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetFontCollectionFamilyCount     0x7a0d6119      0x00046119       253 (0xfd)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetFontCollectionFamilyList      0x7a0d6231      0x00046231       254 (0xfe)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetFontHeight                    0x7a0e35dc      0x000535dc       255 (0xff)       gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetFontHeightGivenDPI            0x7a1290d0      0x000990d0       256 (0x100)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetFontSize                      0x7a0e1857      0x00051857       257 (0x101)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetFontStyle                     0x7a0e18bc      0x000518bc       258 (0x102)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetFontUnit                      0x7a0e17f2      0x000517f2       259 (0x103)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetGenericFontFamilyMonospace    0x7a128faa      0x00098faa       260 (0x104)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetGenericFontFamilySansSerif    0x7a128f34      0x00098f34       261 (0x105)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetGenericFontFamilySerif        0x7a128f6f      0x00098f6f       262 (0x106)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetHatchBackgroundColor          0x7a11f3c6      0x0008f3c6       263 (0x107)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetHatchForegroundColor          0x7a11f32b      0x0008f32b       264 (0x108)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetHatchStyle                    0x7a11f290      0x0008f290       265 (0x109)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetHemfFromMetafile              0x7a128219      0x00098219       266 (0x10a)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetImageAttributesAdjustedPale...0x7a124064      0x00094064       267 (0x10b)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetImageBounds                   0x7a0b0089      0x00020089       268 (0x10c)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+    GdipGetImageDecoders                        0x7a128b59          0x00098b59          269 (0x10d)         gdiplus.dll             C:\Windows\System32\gdiplus.dll                   Exported Function
+
+   GdipGetImageDecodersSize             0x7a128af6      0x00098af6       270 (0x10e)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetImageDimension                0x7a122f21      0x00092f21       271 (0x10f)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetImageEncoders                 0x7a128d78      0x00098d78       272 (0x110)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetImageEncodersSize             0x7a128d15      0x00098d15       273 (0x111)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetImageFlags                    0x7a123115      0x00093115       274 (0x112)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetImageGraphicsContext          0x7a096552      0x00006552       275 (0x113)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetImageHeight                   0x7a0a5daa      0x00015daa       276 (0x114)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetImageHorizontalResolution     0x7a122fc3      0x00092fc3       277 (0x115)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetImagePalette                  0x7a1231be      0x000931be       278 (0x116)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetImagePaletteSize              0x7a1232f9      0x000932f9       279 (0x117)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetImagePixelFormat              0x7a0e443b      0x0005443b       280 (0x118)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetImageRawFormat                0x7a0e4362      0x00054362       281 (0x119)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetImageThumbnail                0x7a0d136a      0x0004136a       282 (0x11a)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetImageType                     0x7a1233b3      0x000933b3       283 (0x11b)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetImageVerticalResolution       0x7a12306c      0x0009306c       284 (0x11c)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetImageWidth                    0x7a0a5e28      0x00015e28       285 (0x11d)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetInterpolationMode             0x7a1246ee      0x000946ee       286 (0x11e)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetLineBlend                     0x7a11f958      0x0008f958       287 (0x11f)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetLineBlendCount                0x7a120261      0x00090261       288 (0x120)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetLineColors                    0x7a11f89d      0x0008f89d       289 (0x121)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetLineGammaCorrection           0x7a11ad1f      0x0008ad1f       290 (0x122)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetLinePresetBlend               0x7a11fab0      0x0008fab0       291 (0x123)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetLinePresetBlendCount          0x7a11fa11      0x0008fa11       292 (0x124)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetLineRect                      0x7a0c4e10      0x00034e10       293 (0x125)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetLineRectI                     0x7a1200ad      0x000900ad       294 (0x126)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetLineSpacing                   0x7a0e3d9d      0x00053d9d       295 (0x127)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetLineTransform                 0x7a1204c6      0x000904c6       296 (0x128)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetLineWrapMode                  0x7a11fd41      0x0008fd41       297 (0x129)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetLogFontA                      0x7a128fe5      0x00098fe5       298 (0x12a)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetLogFontW                      0x7a0e1921      0x00051921       299 (0x12b)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetMatrixElements                0x7a0961ea      0x000061ea       300 (0x12c)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetMetafileDownLevelRasterizati..0x7a1289f1      0x000989f1       301 (0x12d)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetMetafileHeaderFromEmf         0x7a1280d5      0x000980d5       302 (0x12e)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetMetafileHeaderFromFile        0x7a128115      0x00098115       303 (0x12f)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetMetafileHeaderFromMetafile    0x7a128193      0x00098193       304 (0x130)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetMetafileHeaderFromStream      0x7a128153      0x00098153       305 (0x131)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetMetafileHeaderFromWmf         0x7a12808e      0x0009808e       306 (0x132)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetNearestColor                  0x7a0e2477      0x00052477       307 (0x133)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPageScale                     0x7a124922      0x00094922       308 (0x134)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPageUnit                      0x7a0cdbe7      0x0003dbe7       309 (0x135)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPathData                      0x7a11b5a9      0x0008b5a9       310 (0x136)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPathFillMode                  0x7a11b488      0x0008b488       311 (0x137)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPathGradientBlend             0x7a1202fc      0x000902fc       312 (0x138)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPathGradientBlendCount        0x7a120261      0x00090261       313 (0x139)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPathGradientCenterColor       0x7a11f32b      0x0008f32b       314 (0x13a)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPathGradientCenterPoint       0x7a0c9136      0x00039136       315 (0x13b)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPathGradientCenterPointI      0x7a11ffeb      0x0008ffeb       316 (0x13c)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPathGradientFocusScales       0x7a0c91cd      0x000391cd       317 (0x13d)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPathGradientGammaCorrecti...  0x7a1201c9      0x000901c9       318 (0x13e)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPathGradientPath              0x7a11ffcb      0x0008ffcb       319 (0x13f)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPathGradientPointCount        0x7a0c4840      0x00034840       320 (0x140)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPathGradientPresetBlend       0x7a1203b5      0x000903b5       321 (0x141)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPathGradientPresetBlendCount  0x7a11fa11      0x0008fa11       322 (0x142)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPathGradientRect              0x7a0c4e10      0x00034e10       323 (0x143)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPathGradientRectI             0x7a1200ad      0x000900ad       324 (0x144)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPathGradientSurroundColorC... 0x7a0c4d98      0x00034d98       325 (0x145)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPathGradientSurroundColors... 0x7a0c705a      0x0003705a       326 (0x146)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPathGradientTransform         0x7a1204c6      0x000904c6       327 (0x147)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPathGradientWrapMode          0x7a11fd41      0x0008fd41       328 (0x148)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPathLastPoint                 0x7a11b73b      0x0008b73b       329 (0x149)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPathPoints                    0x7a11b276      0x0008b276       330 (0x14a)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPathPointsI                   0x7a11b35d      0x0008b35d       331 (0x14b)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPathTypes                     0x7a11b186      0x0008b186       332 (0x14c)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPathWorldBounds               0x7a0cdae5      0x0003dae5       333 (0x14d)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPathWorldBoundsI              0x7a11c317      0x0008c317       334 (0x14e)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPenBrushFill                  0x7a1214ab      0x000914ab       335 (0x14f)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPenColor                      0x7a121316      0x00091316       336 (0x150)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPenCompoundArray              0x7a1218eb      0x000918eb       337 (0x151)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPenCompoundCount              0x7a121856      0x00091856       338 (0x152)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPenCustomEndCap               0x7a120bc5      0x00090bc5       339 (0x153)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPenCustomStartCap             0x7a120b29      0x00090b29       340 (0x154)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPenDashArray                  0x7a1217b7      0x000917b7       341 (0x155)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPenDashCap197819              0x7a1209f8      0x000909f8       342 (0x156)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPenDashCount                  0x7a121722      0x00091722       343 (0x157)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPenDashOffset                 0x7a12168d      0x0009168d       344 (0x158)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPenDashStyle                  0x7a1215f8      0x000915f8       345 (0x159)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPenEndCap                     0x7a120963      0x00090963       346 (0x15a)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPenFillType                   0x7a121556      0x00091556       347 (0x15b)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPenLineJoin                   0x7a120a94      0x00090a94       348 (0x15c)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPenMiterLimit                 0x7a120c61      0x00090c61       349 (0x15d)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPenMode                       0x7a120cf6      0x00090cf6       350 (0x15e)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPenStartCap                   0x7a1208ce      0x000908ce       351 (0x15f)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPenTransform                  0x7a120e76      0x00090e76       352 (0x160)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPenUnit                       0x7a120839      0x00090839       353 (0x161)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPenWidth                      0x7a1206fc      0x000906fc       354 (0x162)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPixelOffsetMode               0x7a12452c      0x0009452c       355 (0x163)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPointCount                    0x7a0c5238      0x00035238       356 (0x164)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPropertyCount                 0x7a122a65      0x00092a65       357 (0x165)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPropertyIdList                0x7a122ae2      0x00092ae2       358 (0x166)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPropertyItem                  0x7a122be2      0x00092be2       359 (0x167)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPropertyItemSize              0x7a122b62      0x00092b62       360 (0x168)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetPropertySize                  0x7a122c65      0x00092c65       361 (0x169)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetRegionBounds                  0x7a11e14d      0x0008e14d       362 (0x16a)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetRegionBoundsI                 0x7a11e257      0x0008e257       363 (0x16b)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetRegionData                    0x7a11e9e1      0x0008e9e1       364 (0x16c)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetRegionDataSize                0x7a11e91c      0x0008e91c       365 (0x16d)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetRegionHRgn                    0x7a11e3c3      0x0008e3c3       366 (0x16e)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetRegionScans                   0x7a11ef14      0x0008ef14       367 (0x16f)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetRegionScansCount              0x7a11ee04      0x0008ee04       368 (0x170)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetRegionScansI                  0x7a11f025      0x0008f025       369 (0x171)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetRenderingOrigin               0x7a124348      0x00094348       370 (0x172)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetSmoothingMode                 0x7a0b96b1      0x000296b1       371 (0x173)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetSolidFillColor                0x7a11f60a      0x0008f60a       372 (0x174)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetStringFormatAlign             0x7a0e18bc      0x000518bc       373 (0x175)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetStringFormatDigitSubstitution 0x7a129a59      0x00099a59       374 (0x176)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetStringFormatFlags             0x7a0e178d      0x0005178d       375 (0x177)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetStringFormatHotkeyPrefix      0x7a1297ed      0x000997ed       376 (0x178)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetStringFormatLineAlign         0x7a0e17f2      0x000517f2       377 (0x179)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetStringFormatMeasurableChar... 0x7a12997c      0x0009997c       378 (0x17a)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetStringFormatTabStopCount      0x7a12986f      0x0009986f       379 (0x17b)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetStringFormatTabStops          0x7a1298f1      0x000998f1       380 (0x17c)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetStringFormatTrimming          0x7a129ac7      0x00099ac7       381 (0x17d)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetTextContrast                  0x7a1245c2      0x000945c2       382 (0x17e)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetTextRenderingHint             0x7a124658      0x00094658       383 (0x17f)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetTextureImage                  0x7a11f5d9      0x0008f5d9       384 (0x180)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetTextureTransform              0x7a1204c6      0x000904c6       385 (0x181)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetTextureWrapMode               0x7a11fd41      0x0008fd41       386 (0x182)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetVisibleClipBounds             0x7a127c85      0x00097c85       387 (0x183)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetVisibleClipBoundsI            0x7a127d1d      0x00097d1d       388 (0x184)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGetWorldTransform                0x7a0a237b      0x0001237b       389 (0x185)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipGraphicsClear                    0x7a0a705f      0x0001705f       390 (0x186)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipImageForceValidation             0x7a0e5ebe      0x00055ebe       391 (0x187)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipImageGetFrameCount               0x7a1228ee      0x000928ee       392 (0x188)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipImageGetFrameDimensionsCount     0x7a1227f7      0x000927f7       393 (0x189)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipImageGetFrameDimensionsList      0x7a122871      0x00092871       394 (0x18a)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipImageRotateFlip                  0x7a1229e8      0x000929e8       395 (0x18b)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipImageSelectActiveFrame           0x7a12296b      0x0009296b       396 (0x18c)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipInvertMatrix                     0x7a11d5d8      0x0008d5d8       397 (0x18d)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipIsClipEmpty                      0x7a127beb      0x00097beb       398 (0x18e)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipIsEmptyRegion                    0x7a11e4f2      0x0008e4f2       399 (0x18f)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipIsEqualRegion                    0x7a11e762      0x0008e762       400 (0x190)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipIsInfiniteRegion                 0x7a11e62a      0x0008e62a       401 (0x191)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipIsMatrixEqual                    0x7a11da64      0x0008da64       402 (0x192)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipIsMatrixIdentity                 0x7a11d9cc      0x0008d9cc       403 (0x193)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipIsMatrixInvertible               0x7a11d932      0x0008d932       404 (0x194)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipIsOutlineVisiblePathPoint        0x7a11c674      0x0008c674       405 (0x195)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipIsOutlineVisiblePathPointI       0x7a11c880      0x0008c880       406 (0x196)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipIsStyleAvailable                 0x7a129295      0x00099295       407 (0x197)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipIsVisibleClipEmpty               0x7a127e16      0x00097e16       408 (0x198)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipIsVisiblePathPoint               0x7a11c4c3      0x0008c4c3       409 (0x199)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipIsVisiblePathPointI              0x7a11c63b      0x0008c63b       410 (0x19a)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipIsVisiblePoint                   0x7a127eb0      0x00097eb0       411 (0x19b)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipIsVisiblePointI                  0x7a127f5a      0x00097f5a       412 (0x19c)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipIsVisibleRect                    0x7a127f90      0x00097f90       413 (0x19d)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipIsVisibleRectI                   0x7a128049      0x00098049       414 (0x19e)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipIsVisibleRegionPoint             0x7a11eabf      0x0008eabf       415 (0x19f)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipIsVisibleRegionPointI            0x7a11ec1b      0x0008ec1b       416 (0x1a0)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipIsVisibleRegionRect              0x7a11ec54      0x0008ec54       417 (0x1a1)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipIsVisibleRegionRectI             0x7a11edbc      0x0008edbc       418 (0x1a2)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipLoadImageFromFile                0x7a0c9696      0x00039696       419 (0x1a3)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipLoadImageFromFileICM             0x7a122446      0x00092446       420 (0x1a4)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipLoadImageFromStream              0x7a122338      0x00092338       421 (0x1a5)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipLoadImageFromStreamICM           0x7a1223bf      0x000923bf       422 (0x1a6)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdiplusNotificationHook              0x7a0e284a      0x0005284a       606 (0x25e)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdiplusNotificationUnhook            0x7a11b002      0x0008b002       607 (0x25f)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdiplusShutdown                      0x7a0dec7d      0x0004ec7d       608 (0x260)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdiplusStartup                       0x7a0e02cf      0x000502cf       609 (0x261)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipMeasureCharacterRanges           0x7a125f64      0x00095f64       423 (0x1a7)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipMeasureDriverString              0x7a126347      0x00096347       424 (0x1a8)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipMeasureString                    0x7a0e1cee      0x00051cee       425 (0x1a9)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipMultiplyLineTransform            0x7a11fec7      0x0008fec7       426 (0x1aa)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipMultiplyMatrix                   0x7a11d4b3      0x0008d4b3       427 (0x1ab)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipMultiplyPathGradientTransform    0x7a11fec7      0x0008fec7       428 (0x1ac)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipMultiplyPenTransform             0x7a120fe4      0x00090fe4       429 (0x1ad)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipMultiplyTextureTransform         0x7a11fec7      0x0008fec7       430 (0x1ae)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipMultiplyWorldTransform           0x7a12476d      0x0009476d       431 (0x1af)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipNewInstalledFontCollection       0x7a0d60c6      0x000460c6       432 (0x1b0)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipNewPrivateFontCollection         0x7a1295cf      0x000995cf       433 (0x1b1)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipPathIterCopyData                 0x7a11d092      0x0008d092       434 (0x1b2)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+    GdipPathIterEnumerate                       0x7a11cfa2          0x0008cfa2          435 (0x1b3)         gdiplus.dll             C:\Windows\System32\gdiplus.dll                   Exported Function
+
+   GdipPathIterGetCount                 0x7a11cc95      0x0008cc95       436 (0x1b4)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipPathIterGetSubpathCount          0x7a11cd37      0x0008cd37       437 (0x1b5)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipPathIterHasCurve                 0x7a11ce7b      0x0008ce7b       438 (0x1b6)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipPathIterIsValid                  0x7a11cdd9      0x0008cdd9       439 (0x1b7)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipPathIterNextMarker               0x7a11cba8      0x0008cba8       440 (0x1b8)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipPathIterNextMarkerPath           0x7a0b741c      0x0002741c       441 (0x1b9)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipPathIterNextPathType             0x7a11ca98      0x0008ca98       442 (0x1ba)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipPathIterNextSubpath              0x7a11c8bc      0x0008c8bc       443 (0x1bb)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipPathIterNextSubpathPath          0x7a11c9cb      0x0008c9cb       444 (0x1bc)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipPathIterRewind                   0x7a11cf11      0x0008cf11       445 (0x1bd)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipPlayMetafileRecord               0x7a1275a2      0x000975a2       446 (0x1be)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipPrivateAddFontFile               0x7a12969a      0x0009969a       447 (0x1bf)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipPrivateAddMemoryFont             0x7a129718      0x00099718       448 (0x1c0)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipRecordMetafile                   0x7a0d4a48      0x00044a48       449 (0x1c1)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipRecordMetafileFileName           0x7a0d38b4      0x000438b4       450 (0x1c2)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipRecordMetafileFileNameI          0x7a1286e6      0x000986e6       451 (0x1c3)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipRecordMetafileI                  0x7a128645      0x00098645       452 (0x1c4)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipRecordMetafileStream             0x7a12878a      0x0009878a       453 (0x1c5)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipRecordMetafileStreamI            0x7a128868      0x00098868       454 (0x1c6)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipReleaseDC                        0x7a0e2772      0x00052772       455 (0x1c7)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipRemovePropertyItem               0x7a122d68      0x00092d68       456 (0x1c8)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipResetClip                        0x7a0a85b2      0x000185b2       457 (0x1c9)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipResetImageAttributes             0x7a123d1e      0x00093d1e       458 (0x1ca)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipResetLineTransform               0x7a1205b5      0x000905b5       459 (0x1cb)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipResetPageTransform               0x7a12489a      0x0009489a       460 (0x1cc)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipResetPath                        0x7a0b249f      0x0002249f       461 (0x1cd)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipResetPathGradientTransform       0x7a1205b5      0x000905b5       462 (0x1ce)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipResetPenTransform                0x7a120f62      0x00090f62       463 (0x1cf)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipResetTextureTransform            0x7a1205b5      0x000905b5       464 (0x1d0)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipResetWorldTransform              0x7a096311      0x00006311       465 (0x1d1)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipRestoreGraphics                  0x7a0a4049      0x00014049       466 (0x1d2)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipReversePath                      0x7a0b7659      0x00027659       467 (0x1d3)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipRotateLineTransform              0x7a11f523      0x0008f523       468 (0x1d4)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipRotateMatrix                     0x7a0b1245      0x00021245       469 (0x1d5)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipRotatePathGradientTransform      0x7a11f523      0x0008f523       470 (0x1d6)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipRotatePenTransform               0x7a121263      0x00091263       471 (0x1d7)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipRotateTextureTransform           0x7a11f523      0x0008f523       472 (0x1d8)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipRotateWorldTransform             0x7a0c442e      0x0003442e       473 (0x1d9)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSaveAdd                          0x7a1226ee      0x000926ee       474 (0x1da)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSaveAddImage                     0x7a12276e      0x0009276e       475 (0x1db)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSaveGraphics                     0x7a0a3fcb      0x00013fcb       476 (0x1dc)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSaveImageToFile                  0x7a122662      0x00092662       477 (0x1dd)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSaveImageToStream                0x7a1225d6      0x000925d6       478 (0x1de)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipScaleLineTransform               0x7a12063a      0x0009063a       479 (0x1df)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipScaleMatrix                      0x7a0b45f3      0x000245f3       480 (0x1e0)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipScalePathGradientTransform       0x7a12063a      0x0009063a       481 (0x1e1)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipScalePenTransform                0x7a1211a4      0x000911a4       482 (0x1e2)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipScaleTextureTransform            0x7a12063a      0x0009063a       483 (0x1e3)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipScaleWorldTransform              0x7a0c52a8      0x000352a8       484 (0x1e4)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetAdjustableArrowCapFillState   0x7a12221a      0x0009221a       485 (0x1e5)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetAdjustableArrowCapHeight      0x7a121f3d      0x00091f3d       486 (0x1e6)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetAdjustableArrowCapMiddleIn... 0x7a0bf93a      0x0002f93a       487 (0x1e7)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetAdjustableArrowCapWidth       0x7a12205f      0x0009205f       488 (0x1e8)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetClipGraphics                  0x7a127678      0x00097678       489 (0x1e9)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetClipHrgn                      0x7a1278ba      0x000978ba       490 (0x1ea)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetClipPath                      0x7a127795      0x00097795       491 (0x1eb)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetClipRect                      0x7a0a4136      0x00014136       492 (0x1ec)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetClipRectI                     0x7a0a40f1      0x000140f1       493 (0x1ed)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetClipRegion                    0x7a0e1512      0x00051512       494 (0x1ee)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetCompositingMode               0x7a0c30ef      0x000330ef       495 (0x1ef)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetCompositingQuality            0x7a0a847c      0x0001847c       496 (0x1f0)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetCustomLineCapBaseCap          0x7a121c7a      0x00091c7a       497 (0x1f1)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetCustomLineCapBaseInset        0x7a0b2620      0x00022620       498 (0x1f2)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetCustomLineCapStrokeCaps       0x7a0b3ad6      0x00023ad6       499 (0x1f3)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetCustomLineCapStrokeJoin       0x7a0b75f8      0x000275f8       500 (0x1f4)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetCustomLineCapWidthScale       0x7a121e2b      0x00091e2b       501 (0x1f5)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetEmpty                         0x7a11ddb6      0x0008ddb6       502 (0x1f6)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetImageAttributesCachedBackg... 0x7a123fdf      0x00093fdf       503 (0x1f7)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetImageAttributesColorKeys      0x7a0a7d8b      0x00017d8b       504 (0x1f8)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetImageAttributesColorMatrix    0x7a0c85cf      0x000385cf       505 (0x1f9)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetImageAttributesGamma          0x7a0c873b      0x0003873b       506 (0x1fa)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetImageAttributesNoOp           0x7a0c88e3      0x000388e3       507 (0x1fb)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetImageAttributesOutputChannel  0x7a123dc6      0x00093dc6       508 (0x1fc)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetImageAttributesOutputChann... 0x7a123e78      0x00093e78       509 (0x1fd)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetImageAttributesRemapTable     0x7a123f2a      0x00093f2a       510 (0x1fe)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetImageAttributesThreshold      0x7a0c880f      0x0003880f       511 (0x1ff)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetImageAttributesToIdentity     0x7a123c76      0x00093c76       512 (0x200)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetImageAttributesWrapMode       0x7a0c960b      0x0003960b       513 (0x201)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetImagePalette                  0x7a12325d      0x0009325d       514 (0x202)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetInfinite                      0x7a0c332d      0x0003332d       515 (0x203)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetInterpolationMode             0x7a0d1b12      0x00041b12       516 (0x204)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetLineBlend                     0x7a0c464e      0x0003464e       517 (0x205)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetLineColors                    0x7a11f806      0x0008f806       518 (0x206)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetLineGammaCorrection           0x7a0b3d4b      0x00023d4b       519 (0x207)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetLineLinearBlend               0x7a11fcad      0x0008fcad       520 (0x208)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetLinePresetBlend               0x7a0b3fb9      0x00023fb9       521 (0x209)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetLineSigmaBlend                0x7a11fc19      0x0008fc19       522 (0x20a)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetLineTransform                 0x7a11fdd9      0x0008fdd9       523 (0x20b)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetLineWrapMode                  0x7a0cd99a      0x0003d99a       524 (0x20c)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetMatrixElements                0x7a0b41c0      0x000241c0       525 (0x20d)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetMetafileDownLevelRasterizati..0x7a12890c      0x0009890c       526 (0x20e)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPageScale                     0x7a0cd550      0x0003d550       527 (0x20f)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPageUnit                      0x7a09627c      0x0000627c       528 (0x210)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPathFillMode                  0x7a11b523      0x0008b523       529 (0x211)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPathGradientBlend             0x7a0c464e      0x0003464e       530 (0x212)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPathGradientCenterColor       0x7a0c47d5      0x000347d5       531 (0x213)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPathGradientCenterPoint       0x7a0c4e82      0x00034e82       532 (0x214)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPathGradientCenterPointI      0x7a120060      0x00090060       533 (0x215)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPathGradientFocusScales       0x7a0c4f02      0x00034f02       534 (0x216)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPathGradientGammaCorrection   0x7a12014a      0x0009014a       535 (0x217)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPathGradientLinearBlend       0x7a11fcad      0x0008fcad       536 (0x218)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPathGradientPath              0x7a11ffcb      0x0008ffcb       537 (0x219)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPathGradientPresetBlend       0x7a0c7f55      0x00037f55       538 (0x21a)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPathGradientSigmaBlend        0x7a11fc19      0x0008fc19       539 (0x21b)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPathGradientSurroundColors... 0x7a0c8130      0x00038130       540 (0x21c)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPathGradientTransform         0x7a11fdd9      0x0008fdd9       541 (0x21d)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPathGradientWrapMode          0x7a0c51d0      0x000351d0       542 (0x21e)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPathMarker                    0x7a0b736c      0x0002736c       543 (0x21f)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPenBrushFill                  0x7a1213bb      0x000913bb       544 (0x220)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPenColor                      0x7a0a3f5d      0x00013f5d       545 (0x221)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPenCompoundArray              0x7a0b5e07      0x00025e07       546 (0x222)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPenCustomEndCap               0x7a0b3b72      0x00023b72       547 (0x223)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPenCustomStartCap             0x7a0b3857      0x00023857       548 (0x224)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPenDashArray                  0x7a0ce5bf      0x0003e5bf       549 (0x225)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+    GdipSetPenDashCap197819                     0x7a0b6133          0x00026133          550 (0x226)         gdiplus.dll             C:\Windows\System32\gdiplus.dll                   Exported Function
+
+   GdipSetPenDashOffset                 0x7a0cd84a      0x0003d84a       551 (0x227)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPenDashStyle                  0x7a0a2419      0x00012419       552 (0x228)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPenEndCap                     0x7a0af513      0x0001f513       553 (0x229)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPenLineCap197819              0x7a0cd4c3      0x0003d4c3       554 (0x22a)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPenLineJoin                   0x7a0ac662      0x0001c662       555 (0x22b)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPenMiterLimit                 0x7a0b23a1      0x000223a1       556 (0x22c)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPenMode                       0x7a0b62b2      0x000262b2       557 (0x22d)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPenStartCap                   0x7a0af491      0x0001f491       558 (0x22e)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPenTransform                  0x7a120d8b      0x00090d8b       559 (0x22f)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPenUnit                       0x7a120791      0x00090791       560 (0x230)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPenWidth                      0x7a0b2b30      0x00022b30       561 (0x231)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPixelOffsetMode               0x7a0a84fd      0x000184fd       562 (0x232)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetPropertyItem                  0x7a122de5      0x00092de5       563 (0x233)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetRenderingOrigin               0x7a1242c4      0x000942c4       564 (0x234)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetSmoothingMode                 0x7a0a7f8b      0x00017f8b       565 (0x235)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetSolidFillColor                0x7a0b74ec      0x000274ec       566 (0x236)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetStringFormatAlign             0x7a0d9c51      0x00049c51       567 (0x237)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetStringFormatDigitSubstitution 0x7a0d5219      0x00045219       568 (0x238)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetStringFormatFlags             0x7a0d51a7      0x000451a7       569 (0x239)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetStringFormatHotkeyPrefix      0x7a0d9d63      0x00049d63       570 (0x23a)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetStringFormatLineAlign         0x7a0d9cda      0x00049cda       571 (0x23b)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetStringFormatMeasurableChar... 0x7a1299de      0x000999de       572 (0x23c)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetStringFormatTabStops          0x7a0d529c      0x0004529c       573 (0x23d)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetStringFormatTrimming          0x7a0d76d9      0x000476d9       574 (0x23e)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetTextContrast                  0x7a0d4e62      0x00044e62       575 (0x23f)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetTextRenderingHint             0x7a0d4efa      0x00044efa       576 (0x240)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetTextureTransform              0x7a11fdd9      0x0008fdd9       577 (0x241)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetTextureWrapMode               0x7a0c51d0      0x000351d0       578 (0x242)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipSetWorldTransform                0x7a0ad26c      0x0001d26c       579 (0x243)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipShearMatrix                      0x7a0c300c      0x0003300c       580 (0x244)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipStartPathFigure                  0x7a0cda30      0x0003da30       581 (0x245)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipStringFormatGetGenericDefault    0x7a129799      0x00099799       582 (0x246)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipStringFormatGetGenericTypogra... 0x7a0d4f9f      0x00044f9f       583 (0x247)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipTestControl                      0x7a129b49      0x00099b49       584 (0x248)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipTransformMatrixPoints            0x7a0c45b3      0x000345b3       585 (0x249)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipTransformMatrixPointsI           0x7a11d658      0x0008d658       586 (0x24a)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipTransformPath                    0x7a0afe4f      0x0001fe4f       587 (0x24b)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipTransformPoints                  0x7a1249b8      0x000949b8       588 (0x24c)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipTransformPointsI                 0x7a124a5e      0x00094a5e       589 (0x24d)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipTransformRegion                  0x7a11e062      0x0008e062       590 (0x24e)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipTranslateClip                    0x7a127998      0x00097998       591 (0x24f)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipTranslateClipI                   0x7a127a27      0x00097a27       592 (0x250)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipTranslateLineTransform           0x7a11f461      0x0008f461       593 (0x251)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipTranslateMatrix                  0x7a0b0df2      0x00020df2       594 (0x252)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipTranslatePathGradientTransform   0x7a11f461      0x0008f461       595 (0x253)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipTranslatePenTransform            0x7a1210e5      0x000910e5       596 (0x254)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipTranslateRegion                  0x7a0c437a      0x0003437a       597 (0x255)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipTranslateRegionI                 0x7a0c4347      0x00034347       598 (0x256)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipTranslateTextureTransform        0x7a11f461      0x0008f461       599 (0x257)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipTranslateWorldTransform          0x7a093469      0x00003469       600 (0x258)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipVectorTransformMatrixPoints      0x7a11d737      0x0008d737       601 (0x259)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipVectorTransformMatrixPointsI     0x7a11d7d5      0x0008d7d5       602 (0x25a)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipWarpPath                         0x7a11c1ce      0x0008c1ce       603 (0x25b)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+
+   GdipWidenPath                        0x7a0cc9f4      0x0003c9f4       604 (0x25c)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+   GdipWindingModeOutline               0x7a0caffe      0x0003affe       605 (0x25d)      gdiplus.dll         C:\Windows\System32\gdiplus.dll          Exported Function
+

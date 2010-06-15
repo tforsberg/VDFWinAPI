@@ -1,4 +1,5 @@
 
+
 Struct tWINAPI_MEMORYSTATUS
   DWord dwLength         // sizeof(MEMORYSTATUS)
   DWord dwMemoryLoad     // percent Of memory in use

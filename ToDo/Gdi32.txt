@@ -1,0 +1,1395 @@
+ Function Name                          Address         Relative Address Ordinal          Filename            Full Path                                Type
+   AbortDoc                             0x7daf3acc      0x00043acc       1012 (0x3f4)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   AbortPath                            0x7daf5396      0x00045396       1013 (0x3f5)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   AddFontMemResourceEx                 0x7daeb7d4      0x0003b7d4       1014 (0x3f6)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   AddFontResourceA                     0x7daed773      0x0003d773       1015 (0x3f7)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   AddFontResourceExA                   0x7daecfe7      0x0003cfe7       1016 (0x3f8)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   AddFontResourceExW                   0x7daed284      0x0003d284       1017 (0x3f9)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   AddFontResourceTracking              0x7daed121      0x0003d121       1018 (0x3fa)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   AddFontResourceW                     0x7daed26a      0x0003d26a       1019 (0x3fb)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   AngleArc                             0x7daf4114      0x00044114       1020 (0x3fc)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   AnimatePalette                       0x7daf5301      0x00045301       1021 (0x3fd)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   AnyLinkedFonts                       0x7dacb09f      0x0001b09f       1022 (0x3fe)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   Arc                                  0x7daf41cf      0x000441cf       1023 (0x3ff)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   ArcTo                                0x7daf42c1      0x000442c1       1024 (0x400)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   BeginGdiRendering                    0x7db05c4d      0x00055c4d       1029 (0x405)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   BeginPath                            0x7daf53ed      0x000453ed       1030 (0x406)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   bInitSystemAndFontsDirectoriesW      0x7daec0d6      0x0003c0d6       1723 (0x6bb)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   BitBlt                               0x7dac5ea6      0x00015ea6       1031 (0x407)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   bMakePathNameW                       0x7daec3c7      0x0003c3c7       1724 (0x6bc)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   BRUSHOBJ_hGetColorTransform          0x7db05bcd      0x00055bcd       1025 (0x401)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   BRUSHOBJ_pvAllocRbrush               0x7db05bed      0x00055bed       1026 (0x402)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   BRUSHOBJ_pvGetRbrush                 0x7db05c0d      0x00055c0d       1027 (0x403)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   BRUSHOBJ_ulGetBrushColor             0x7db05c2d      0x00055c2d       1028 (0x404)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   CancelDC                             0x7dae8866      0x00038866       1035 (0x40b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   cGetTTFFromFOT                       0x7daec978      0x0003c978       1725 (0x6bd)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CheckColorsInGamut                   0x7daedbc1      0x0003dbc1       1036 (0x40c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   ChoosePixelFormat                    0x7daf587f      0x0004587f       1037 (0x40d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   Chord                                0x7daf438f      0x0004438f       1038 (0x40e)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   ClearBitmapAttributes                0x7dae84a4      0x000384a4       1039 (0x40f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   ClearBrushAttributes                 0x7dae84fc      0x000384fc       1040 (0x410)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CLIPOBJ_bEnum                        0x7db05c6d      0x00055c6d       1032 (0x408)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CLIPOBJ_cEnumStart                   0x7db05c8d      0x00055c8d       1033 (0x409)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CLIPOBJ_ppoGetPath                   0x7db05cad      0x00055cad       1034 (0x40a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CloseEnhMetaFile                     0x7dad3877      0x00023877       1041 (0x411)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CloseFigure                          0x7daf549f      0x0004549f       1042 (0x412)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CloseMetaFile                        0x7dada03b      0x0002a03b       1043 (0x413)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   ColorCorrectPalette                  0x7daee807      0x0003e807       1044 (0x414)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   ColorMatchToTarget                   0x7daf20b4      0x000420b4       1045 (0x415)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CombineRgn                           0x7dac9a4b      0x00019a4b       1046 (0x416)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CombineTransform                     0x7dad40c2      0x000240c2       1047 (0x417)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   ConfigureOPMProtectedOutput          0x7db05d8d      0x00055d8d       1048 (0x418)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CopyEnhMetaFileA                     0x7dafe07a      0x0004e07a       1049 (0x419)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CopyEnhMetaFileW                     0x7dafd984      0x0004d984       1050 (0x41a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CopyMetaFileA                        0x7daf363b      0x0004363b       1051 (0x41b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CopyMetaFileW                        0x7dad94c3      0x000294c3       1052 (0x41c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateBitmap                         0x7dac5d53      0x00015d53       1053 (0x41d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateBitmapFromDxSurface            0x7db05dcd      0x00055dcd       1054 (0x41e)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateBitmapIndirect                 0x7dad24fc      0x000224fc       1055 (0x41f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateBrushIndirect                  0x7daca218      0x0001a218       1056 (0x420)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateColorSpaceA                    0x7daef120      0x0003f120       1057 (0x421)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateColorSpaceW                    0x7daef236      0x0003f236       1058 (0x422)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateCompatibleBitmap               0x7dac5f49      0x00015f49       1059 (0x423)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateCompatibleDC                   0x7dac54f4      0x000154f4       1060 (0x424)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateDCA                            0x7dac95f4      0x000195f4       1061 (0x425)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateDCW                            0x7dace45d      0x0001e45d       1062 (0x426)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateDIBitmap                       0x7dac7050      0x00017050       1066 (0x42a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateDIBPatternBrush                0x7dad1dc2      0x00021dc2       1063 (0x427)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateDIBPatternBrushPt              0x7dadb566      0x0002b566       1064 (0x428)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateDIBSection                     0x7dac9e73      0x00019e73       1065 (0x429)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateDiscardableBitmap              0x7daf398b      0x0004398b       1067 (0x42b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateEllipticRgn                    0x7daf36c6      0x000436c6       1068 (0x42c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateEllipticRgnIndirect            0x7daf36d6      0x000436d6       1069 (0x42d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateEnhMetaFileA                   0x7dada7d2      0x0002a7d2       1070 (0x42e)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateEnhMetaFileW                   0x7dad3cd5      0x00023cd5       1071 (0x42f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateFontA                          0x7dacceb0      0x0001ceb0       1072 (0x430)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateFontIndirectA                  0x7daccdc5      0x0001cdc5       1073 (0x431)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateFontIndirectExA                0x7daf370d      0x0004370d       1074 (0x432)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateFontIndirectExW                0x7dac5b81      0x00015b81       1075 (0x433)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateFontIndirectW                  0x7dac5c19      0x00015c19       1076 (0x434)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateFontW                          0x7daca780      0x0001a780       1077 (0x435)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateHalftonePalette                0x7dacb8b0      0x0001b8b0       1078 (0x436)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateHatchBrush                     0x7daf3970      0x00043970       1079 (0x437)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateICA                            0x7dac9656      0x00019656       1080 (0x438)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateICW                            0x7dacc208      0x0001c208       1081 (0x439)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateMetaFileA                      0x7dad9cb1      0x00029cb1       1082 (0x43a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateMetaFileW                      0x7dad9ced      0x00029ced       1083 (0x43b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateOPMProtectedOutputs            0x7dadea68      0x0002ea68       1084 (0x43c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreatePalette                        0x7dac96a3      0x000196a3       1085 (0x43d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreatePatternBrush                   0x7dac5dde      0x00015dde       1086 (0x43e)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreatePen                            0x7dacbc0f      0x0001bc0f       1087 (0x43f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreatePenIndirect                    0x7dad1a32      0x00021a32       1088 (0x440)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreatePolygonRgn                     0x7dacddb1      0x0001ddb1       1090 (0x442)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreatePolyPolygonRgn                 0x7daf5d56      0x00045d56       1089 (0x441)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateRectRgn                        0x7dac77ce      0x000177ce       1091 (0x443)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateRectRgnIndirect                0x7dac972f      0x0001972f       1092 (0x444)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateRoundRectRgn                   0x7daf36fd      0x000436fd       1093 (0x445)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateScalableFontResourceA          0x7daed333      0x0003d333       1094 (0x446)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateScalableFontResourceW          0x7daec5d9      0x0003c5d9       1095 (0x447)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   CreateSolidBrush                     0x7dac5427      0x00015427       1096 (0x448)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTAcquireKeyedMutex              0x7db060ed      0x000560ed       1097 (0x449)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTCheckExclusiveOwnership        0x7dade7b0      0x0002e7b0       1098 (0x44a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTCheckMonitorPowerState         0x7dade7ce      0x0002e7ce       1099 (0x44b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTCheckOcclusion                 0x7db0610d      0x0005610d       1100 (0x44c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTCheckSharedResourceAccess      0x7db0612d      0x0005612d       1101 (0x44d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTCheckVidPnExclusiveOwners...   0x7db0614d      0x0005614d       1102 (0x44e)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTCloseAdapter                   0x7dadeb88      0x0002eb88       1103 (0x44f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTConfigureSharedResource        0x7dade9c8      0x0002e9c8       1104 (0x450)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTCreateAllocation               0x7dade915      0x0002e915       1106 (0x452)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTCreateAllocation2              0x7dade8f5      0x0002e8f5       1105 (0x451)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTCreateContext                  0x7dadea28      0x0002ea28       1107 (0x453)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTCreateDCFromMemory             0x7db0616d      0x0005616d       1108 (0x454)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTCreateDevice                   0x7dadea48      0x0002ea48       1109 (0x455)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTCreateKeyedMutex               0x7db0618d      0x0005618d       1110 (0x456)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTCreateOverlay                  0x7db061ad      0x000561ad       1111 (0x457)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTCreateSynchronizationObject    0x7dadee1d      0x0002ee1d       1113 (0x459)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTCreateSynchronizationObject2   0x7dadee8a      0x0002ee8a       1112 (0x458)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTDestroyAllocation              0x7dade82e      0x0002e82e       1114 (0x45a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTDestroyContext                 0x7dadeb48      0x0002eb48       1115 (0x45b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTDestroyDCFromMemory            0x7db061cd      0x000561cd       1116 (0x45c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTDestroyDevice                  0x7dadeb68      0x0002eb68       1117 (0x45d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTDestroyKeyedMutex              0x7db061ed      0x000561ed       1118 (0x45e)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTDestroyOverlay                 0x7db0620d      0x0005620d       1119 (0x45f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTDestroySynchronizationObject   0x7dadebc8      0x0002ebc8       1120 (0x460)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTEscape                         0x7dade6ff      0x0002e6ff       1121 (0x461)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTFlipOverlay                    0x7db0622d      0x0005622d       1122 (0x462)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTGetContextSchedulingPriority   0x7db0624d      0x0005624d       1123 (0x463)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTGetDeviceState                 0x7dade750      0x0002e750       1124 (0x464)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTGetDisplayModeList             0x7dade86e      0x0002e86e       1125 (0x465)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTGetMultisampleMethodList       0x7db0626d      0x0005626d       1126 (0x466)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTGetOverlayState                0x7db0628d      0x0005628d       1127 (0x467)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTGetPresentHistory              0x7db062ad      0x000562ad       1128 (0x468)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTGetPresentQueueEvent           0x7db062cd      0x000562cd       1129 (0x469)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTGetProcessSchedulingPriorit... 0x7db062ed      0x000562ed       1130 (0x46a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTGetRuntimeData                 0x7db0630d      0x0005630d       1131 (0x46b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTGetScanLine                    0x7dade7ee      0x0002e7ee       1132 (0x46c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTGetSharedPrimaryHandle         0x7db0632d      0x0005632d       1133 (0x46d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTInvalidateActiveVidPn          0x7db0634d      0x0005634d       1134 (0x46e)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTLock                           0x7dade790      0x0002e790       1135 (0x46f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTOpenAdapterFromDeviceNa...     0x7db0636d      0x0005636d       1136 (0x470)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTOpenAdapterFromGdiDispla...    0x7daeb014      0x0003b014       1137 (0x471)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTOpenAdapterFromHdc             0x7dadea08      0x0002ea08       1138 (0x472)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTOpenKeyedMutex                 0x7db0638d      0x0005638d       1139 (0x473)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTOpenResource                   0x7daeb102      0x0003b102       1141 (0x475)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTOpenResource2                  0x7db063ad      0x000563ad       1140 (0x474)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTOpenSynchronizationObject      0x7db063cd      0x000563cd       1142 (0x476)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTPollDisplayChildren            0x7db063ed      0x000563ed       1143 (0x477)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTPresent                        0x7dade80e      0x0002e80e       1144 (0x478)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTQueryAdapterInfo               0x7dade84e      0x0002e84e       1145 (0x479)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTQueryAllocationResidency       0x7db0640d      0x0005640d       1146 (0x47a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTQueryResourceInfo              0x7db0642d      0x0005642d       1147 (0x47b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTQueryStatistics                0x7db0644d      0x0005644d       1148 (0x47c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTReleaseKeyedMutex              0x7db0646d      0x0005646d       1149 (0x47d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTReleaseProcessVidPnSource...   0x7db0648d      0x0005648d       1150 (0x47e)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTRender                         0x7dade770      0x0002e770       1151 (0x47f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTSetAllocationPriority          0x7db064ad      0x000564ad       1152 (0x480)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTSetContextSchedulingPriority   0x7db064cd      0x000564cd       1153 (0x481)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTSetDisplayMode                 0x7db064ed      0x000564ed       1154 (0x482)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTSetDisplayPrivateDriverFormat  0x7db0650d      0x0005650d       1155 (0x483)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTSetGammaRamp                   0x7db0652d      0x0005652d       1156 (0x484)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTSetProcessSchedulingPriority...0x7db0654d      0x0005654d       1157 (0x485)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTSetQueuedLimit                 0x7dade9e8      0x0002e9e8       1158 (0x486)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTSetVidPnSourceOwner            0x7db0656d      0x0005656d       1159 (0x487)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTSharedPrimaryLockNotificati... 0x7db0658d      0x0005658d       1160 (0x488)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTSharedPrimaryUnLockNotific...  0x7db065ad      0x000565ad       1161 (0x489)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTSignalSynchronizationObject    0x7daded76      0x0002ed76       1163 (0x48b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTSignalSynchronizationObject2   0x7dadedfd      0x0002edfd       1162 (0x48a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTUnlock                         0x7dade71f      0x0002e71f       1164 (0x48c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTUpdateOverlay                  0x7db065cd      0x000565cd       1165 (0x48d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTWaitForIdle                    0x7db065ed      0x000565ed       1166 (0x48e)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTWaitForSynchronizationObject   0x7dadecdd      0x0002ecdd       1168 (0x490)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTWaitForSynchronizationObje...  0x7daded56      0x0002ed56       1167 (0x48f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   D3DKMTWaitForVerticalBlankEvent      0x7db0660d      0x0005660d       1169 (0x491)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DDCCIGetCapabilitiesString           0x7db05f0d      0x00055f0d       1170 (0x492)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DDCCIGetCapabilitiesStringLength     0x7db05f2d      0x00055f2d       1171 (0x493)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DDCCIGetTimingReport                 0x7db05f4d      0x00055f4d       1172 (0x494)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DDCCIGetVCPFeature                   0x7db05f6d      0x00055f6d       1173 (0x495)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DDCCISaveCurrentSettings             0x7db05f8d      0x00055f8d       1174 (0x496)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DDCCISetVCPFeature                   0x7db05fad      0x00055fad       1175 (0x497)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdCreateFullscreenSprite             0x7db060ad      0x000560ad       1177 (0x499)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdDestroyFullscreenSprite            0x7db0666d      0x0005666d       1178 (0x49a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry0                             0x7db06d4b      0x00056d4b       1179 (0x49b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry1                             0x7db05e8d      0x00055e8d       1190 (0x4a6)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry10                            0x7db0602d      0x0005602d       1180 (0x49c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry11                            0x7db0578d      0x0005578d       1181 (0x49d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry12                            0x7db0580d      0x0005580d       1182 (0x49e)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry13                            0x7db0604d      0x0005604d       1183 (0x49f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry14                            0x7db0606d      0x0005606d       1184 (0x4a0)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry15                            0x7dad1a12      0x00021a12       1185 (0x4a1)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry16                            0x7db0582d      0x0005582d       1186 (0x4a2)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry17                            0x7db0608d      0x0005608d       1187 (0x4a3)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry18                            0x7db060cd      0x000560cd       1188 (0x4a4)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry19                            0x7db058cd      0x000558cd       1189 (0x4a5)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry2                             0x7db05ead      0x00055ead       1201 (0x4b1)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry20                            0x7db0662d      0x0005662d       1191 (0x4a7)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry21                            0x7db057ed      0x000557ed       1192 (0x4a8)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry22                            0x7db0668d      0x0005668d       1193 (0x4a9)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry23                            0x7db0584d      0x0005584d       1194 (0x4aa)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry24                            0x7db0664d      0x0005664d       1195 (0x4ab)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry25                            0x7db066ad      0x000566ad       1196 (0x4ac)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry26                            0x7db066cd      0x000566cd       1197 (0x4ad)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry27                            0x7db066ed      0x000566ed       1198 (0x4ae)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry28                            0x7db0670d      0x0005670d       1199 (0x4af)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry29                            0x7db0672d      0x0005672d       1200 (0x4b0)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry3                             0x7db05ecd      0x00055ecd       1212 (0x4bc)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry30                            0x7db0674d      0x0005674d       1202 (0x4b2)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry31                            0x7db0676d      0x0005676d       1203 (0x4b3)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry32                            0x7db067ad      0x000567ad       1204 (0x4b4)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry33                            0x7db067cd      0x000567cd       1205 (0x4b5)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry34                            0x7db067ed      0x000567ed       1206 (0x4b6)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry35                            0x7db0680d      0x0005680d       1207 (0x4b7)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry36                            0x7db0684d      0x0005684d       1208 (0x4b8)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry37                            0x7db0682d      0x0005682d       1209 (0x4b9)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry38                            0x7db0686d      0x0005686d       1210 (0x4ba)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry39                            0x7db0688d      0x0005688d       1211 (0x4bb)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry4                             0x7db05eed      0x00055eed       1223 (0x4c7)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry40                            0x7db058ed      0x000558ed       1213 (0x4bd)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry41                            0x7db068cd      0x000568cd       1214 (0x4be)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry42                            0x7db068ed      0x000568ed       1215 (0x4bf)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry43                            0x7db0692b      0x0005692b       1216 (0x4c0)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry44                            0x7db0694b      0x0005694b       1217 (0x4c1)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry45                            0x7db0696b      0x0005696b       1218 (0x4c2)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry46                            0x7db0586d      0x0005586d       1219 (0x4c3)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry47                            0x7db0698b      0x0005698b       1220 (0x4c4)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry48                            0x7db069ab      0x000569ab       1221 (0x4c5)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry49                            0x7db069cb      0x000569cb       1222 (0x4c6)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry5                             0x7db0576d      0x0005576d       1231 (0x4cf)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry50                            0x7db058ad      0x000558ad       1224 (0x4c8)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry51                            0x7db069eb      0x000569eb       1225 (0x4c9)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry52                            0x7db06a0b      0x00056a0b       1226 (0x4ca)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry53                            0x7db06a2b      0x00056a2b       1227 (0x4cb)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry54                            0x7db0590d      0x0005590d       1228 (0x4cc)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry55                            0x7db06a4b      0x00056a4b       1229 (0x4cd)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry56                            0x7db06a6b      0x00056a6b       1230 (0x4ce)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry6                             0x7db0678d      0x0005678d       1232 (0x4d0)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry7                             0x7db05fcd      0x00055fcd       1233 (0x4d1)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry8                             0x7db05fed      0x00055fed       1234 (0x4d2)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdEntry9                             0x7db0600d      0x0005600d       1235 (0x4d3)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdNotifyFullscreenSpriteUpdate       0x7db068ad      0x000568ad       1236 (0x4d4)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DdQueryVisRgnUniqueness              0x7db0690d      0x0005690d       1237 (0x4d5)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DeleteColorSpace                     0x7daedad3      0x0003dad3       1238 (0x4d6)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DeleteDC                             0x7dac5876      0x00015876       1239 (0x4d7)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DeleteEnhMetaFile                    0x7dad2794      0x00022794       1240 (0x4d8)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DeleteMetaFile                       0x7dacefb4      0x0001efb4       1241 (0x4d9)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DeleteObject                         0x7dac5689      0x00015689       1242 (0x4da)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DescribePixelFormat                  0x7daf58da      0x000458da       1243 (0x4db)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DestroyOPMProtectedOutput            0x7dadeba8      0x0002eba8       1244 (0x4dc)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DestroyPhysicalMonitorInternal       0x7db06acb      0x00056acb       1245 (0x4dd)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DeviceCapabilitiesExA                0x7daf3ee5      0x00043ee5       1246 (0x4de)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DeviceCapabilitiesExW                0x7daf3ee5      0x00043ee5       1247 (0x4df)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DPtoLP                               0x7dac8767      0x00018767       1176 (0x498)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   DrawEscape                           0x7daf3e77      0x00043e77       1248 (0x4e0)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   Ellipse                              0x7daf4482      0x00044482       1249 (0x4e1)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EnableEUDC                           0x7db06d8b      0x00056d8b       1250 (0x4e2)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EndDoc                               0x7daf3f19      0x00043f19       1251 (0x4e3)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EndFormPage                          0x7daf3f01      0x00043f01       1252 (0x4e4)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EndGdiRendering                      0x7db06dcb      0x00056dcb       1253 (0x4e5)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EndPage                              0x7dad6665      0x00026665       1254 (0x4e6)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EndPath                              0x7daf54f6      0x000454f6       1255 (0x4e7)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngAcquireSemaphore                  0x7dafb34f      0x0004b34f       1256 (0x4e8)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngAlphaBlend                        0x7db06e0b      0x00056e0b       1257 (0x4e9)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngAssociateSurface                  0x7db06e2b      0x00056e2b       1258 (0x4ea)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngBitBlt                            0x7db06e4b      0x00056e4b       1259 (0x4eb)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngCheckAbort                        0x7db06e6b      0x00056e6b       1260 (0x4ec)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngComputeGlyphSet                   0x7dafb29d      0x0004b29d       1261 (0x4ed)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngCopyBits                          0x7db06eab      0x00056eab       1262 (0x4ee)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngCreateBitmap                      0x7db06ecb      0x00056ecb       1263 (0x4ef)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngCreateClip                        0x7db06eeb      0x00056eeb       1264 (0x4f0)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngCreateDeviceBitmap                0x7db06f09      0x00056f09       1265 (0x4f1)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngCreateDeviceSurface               0x7db06f29      0x00056f29       1266 (0x4f2)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngCreatePalette                     0x7db06f49      0x00056f49       1267 (0x4f3)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngCreateSemaphore                   0x7dafb37b      0x0004b37b       1268 (0x4f4)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngDeleteClip                        0x7db06f69      0x00056f69       1269 (0x4f5)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngDeletePalette                     0x7db06f89      0x00056f89       1270 (0x4f6)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngDeletePath                        0x7db06fa9      0x00056fa9       1271 (0x4f7)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngDeleteSemaphore                   0x7dafb3a8      0x0004b3a8       1272 (0x4f8)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngDeleteSurface                     0x7db06fc9      0x00056fc9       1273 (0x4f9)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngEraseSurface                      0x7db06fe9      0x00056fe9       1274 (0x4fa)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngFillPath                          0x7db07009      0x00057009       1275 (0x4fb)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngFindResource                      0x7dafb13b      0x0004b13b       1276 (0x4fc)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngFreeModule                        0x7dafb19a      0x0004b19a       1277 (0x4fd)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngGetCurrentCodePage                0x7dafb220      0x0004b220       1278 (0x4fe)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngGetDriverName                     0x7dafb0e0      0x0004b0e0       1279 (0x4ff)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngGetPrinterDataFileName            0x7dafb0b4      0x0004b0b4       1280 (0x500)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngGradientFill                      0x7db07029      0x00057029       1281 (0x501)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngLineTo                            0x7db07049      0x00057049       1282 (0x502)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngLoadModule                        0x7dafb120      0x0004b120       1283 (0x503)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngLockSurface                       0x7db07069      0x00057069       1284 (0x504)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngMarkBandingSurface                0x7db07089      0x00057089       1285 (0x505)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngMultiByteToUnicodeN               0x7dafb1ab      0x0004b1ab       1286 (0x506)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngMultiByteToWideChar               0x7dafb1cd      0x0004b1cd       1287 (0x507)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngPaint                             0x7db070a9      0x000570a9       1288 (0x508)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngPlgBlt                            0x7db070c9      0x000570c9       1289 (0x509)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngQueryEMFInfo                      0x7dafb371      0x0004b371       1290 (0x50a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngQueryLocalTime                    0x7dafb2f2      0x0004b2f2       1291 (0x50b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngReleaseSemaphore                  0x7dafb360      0x0004b360       1292 (0x50c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngStretchBlt                        0x7db070e9      0x000570e9       1293 (0x50d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngStretchBltROP                     0x7db07109      0x00057109       1294 (0x50e)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngStrokeAndFillPath                 0x7db07129      0x00057129       1295 (0x50f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngStrokePath                        0x7db07149      0x00057149       1296 (0x510)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngTextOut                           0x7db07169      0x00057169       1297 (0x511)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngTransparentBlt                    0x7db07189      0x00057189       1298 (0x512)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngUnicodeToMultiByteN               0x7dafb1bc      0x0004b1bc       1299 (0x513)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngUnlockSurface                     0x7db071a9      0x000571a9       1300 (0x514)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EngWideCharToMultiByte               0x7dafb1f5      0x0004b1f5       1301 (0x515)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EnumEnhMetaFile                      0x7dad5234      0x00025234       1302 (0x516)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EnumFontFamiliesA                    0x7daec3a4      0x0003c3a4       1303 (0x517)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EnumFontFamiliesExA                  0x7dad2051      0x00022051       1304 (0x518)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EnumFontFamiliesExW                  0x7dacc3a9      0x0001c3a9       1305 (0x519)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EnumFontFamiliesW                    0x7dada5fa      0x0002a5fa       1306 (0x51a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EnumFontsA                           0x7daec381      0x0003c381       1307 (0x51b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EnumFontsW                           0x7daccda0      0x0001cda0       1308 (0x51c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EnumICMProfilesA                     0x7daef24e      0x0003f24e       1309 (0x51d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EnumICMProfilesW                     0x7daef2c7      0x0003f2c7       1310 (0x51e)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EnumMetaFile                         0x7dad7705      0x00027705       1311 (0x51f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EnumObjects                          0x7daf3818      0x00043818       1312 (0x520)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EqualRgn                             0x7daccbeb      0x0001cbeb       1313 (0x521)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   Escape                               0x7dad13bd      0x000213bd       1314 (0x522)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EudcLoadLinkW                        0x7daf6745      0x00046745       1315 (0x523)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   EudcUnloadLinkW                      0x7daf679c      0x0004679c       1316 (0x524)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   ExcludeClipRect                      0x7daca904      0x0001a904       1317 (0x525)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   ExtCreatePen                         0x7dadcb94      0x0002cb94       1318 (0x526)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   ExtCreateRegion                      0x7daca631      0x0001a631       1319 (0x527)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   ExtEscape                            0x7dacfd24      0x0001fd24       1320 (0x528)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   ExtFloodFill                         0x7dad6526      0x00026526       1321 (0x529)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   ExtSelectClipRgn                     0x7dac89e9      0x000189e9       1322 (0x52a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   ExtTextOutA                          0x7dacd8bf      0x0001d8bf       1323 (0x52b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   ExtTextOutW                          0x7dac834a      0x0001834a       1324 (0x52c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   FillPath                             0x7daf57c2      0x000457c2       1333 (0x535)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   FillRgn                              0x7dace7f8      0x0001e7f8       1334 (0x536)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   FixBrushOrgEx                        0x7dae9535      0x00039535       1335 (0x537)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   FlattenPath                          0x7daf554d      0x0004554d       1336 (0x538)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   FloodFill                            0x7daf4738      0x00044738       1337 (0x539)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   FontIsLinked                         0x7dacb037      0x0001b037       1338 (0x53a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   FONTOBJ_cGetAllGlyphHandles          0x7db07209      0x00057209       1325 (0x52d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   FONTOBJ_cGetGlyphs                   0x7db07229      0x00057229       1326 (0x52e)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   FONTOBJ_pfdg                         0x7db07269      0x00057269       1328 (0x530)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   FONTOBJ_pifi                         0x7db07289      0x00057289       1329 (0x531)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   FONTOBJ_pQueryGlyphAttrs             0x7db07249      0x00057249       1327 (0x52f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   FONTOBJ_pvTrueTypeFontFile           0x7db072a9      0x000572a9       1330 (0x532)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   FONTOBJ_pxoGetXform                  0x7db072c9      0x000572c9       1331 (0x533)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   FONTOBJ_vGetInfo                     0x7db072e9      0x000572e9       1332 (0x534)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   FrameRgn                             0x7daf4b6d      0x00044b6d       1339 (0x53b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiAddFontResourceW                  0x7daecf1f      0x0003cf1f       1340 (0x53c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiAddGlsBounds                      0x7daffe25      0x0004fe25       1341 (0x53d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+    GdiAddGlsRecord                             0x7daffd6c          0x0004fd6c          1342 (0x53e)        gdi32.dll               C:\Windows\System32\gdi32.dll                     Exported Function
+
+   GdiAlphaBlend                        0x7dac99a7      0x000199a7       1343 (0x53f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiArtificialDecrementDriver         0x7db054e9      0x000554e9       1344 (0x540)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiCleanCacheDC                      0x7daf26d5      0x000426d5       1345 (0x541)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiComment                           0x7dad50fa      0x000250fa       1346 (0x542)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiConsoleTextOut                    0x7daf3ef0      0x00043ef0       1347 (0x543)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiConvertAndCheckDC                 0x7daca6a2      0x0001a6a2       1348 (0x544)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiConvertBitmap                     0x7daf2768      0x00042768       1349 (0x545)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiConvertBitmapV5                   0x7daf1a8c      0x00041a8c       1350 (0x546)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiConvertBrush                      0x7daf2768      0x00042768       1351 (0x547)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiConvertDC                         0x7daf2768      0x00042768       1352 (0x548)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiConvertEnhMetaFile                0x7db00cb4      0x00050cb4       1353 (0x549)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiConvertFont                       0x7daf2768      0x00042768       1354 (0x54a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiConvertMetaFilePict               0x7db00c3f      0x00050c3f       1355 (0x54b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiConvertPalette                    0x7daf2768      0x00042768       1356 (0x54c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiConvertRegion                     0x7daf2768      0x00042768       1357 (0x54d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiConvertToDevmodeW                 0x7dad6750      0x00026750       1358 (0x54e)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiCreateLocalEnhMetaFile            0x7db00d36      0x00050d36       1359 (0x54f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiCreateLocalMetaFilePict           0x7db00d1b      0x00050d1b       1360 (0x550)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiDeleteLocalDC                     0x7daf275d      0x0004275d       1361 (0x551)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiDeleteSpoolFileHandle             0x7daf74e3      0x000474e3       1362 (0x552)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiDescribePixelFormat               0x7daf5a3c      0x00045a3c       1363 (0x553)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiDllInitialize                     0x7dac6368      0x00016368       1364 (0x554)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiDrawStream                        0x7dacb5f7      0x0001b5f7       1365 (0x555)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiEndDocEMF                         0x7daf8c71      0x00048c71       1366 (0x556)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiEndPageEMF                        0x7daf8b02      0x00048b02       1367 (0x557)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiEntry1                            0x7dad19d9      0x000219d9       1375 (0x55f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiEntry10                           0x7daeaf0b      0x0003af0b       1368 (0x558)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiEntry11                           0x7daeaf34      0x0003af34       1369 (0x559)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiEntry12                           0x7daeaf87      0x0003af87       1370 (0x55a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiEntry13                           0x7dade73f      0x0002e73f       1371 (0x55b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiEntry14                           0x7daeafa6      0x0003afa6       1372 (0x55c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiEntry15                           0x7daeafe5      0x0003afe5       1373 (0x55d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiEntry16                           0x7db02693      0x00052693       1374 (0x55e)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiEntry2                            0x7daea889      0x0003a889       1376 (0x560)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiEntry3                            0x7daeacce      0x0003acce       1377 (0x561)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiEntry4                            0x7daeadf3      0x0003adf3       1378 (0x562)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiEntry5                            0x7daeae0b      0x0003ae0b       1379 (0x563)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiEntry6                            0x7daeae32      0x0003ae32       1380 (0x564)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiEntry7                            0x7daeae4e      0x0003ae4e       1381 (0x565)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiEntry8                            0x7daeae6a      0x0003ae6a       1382 (0x566)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiEntry9                            0x7daeae83      0x0003ae83       1383 (0x567)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiFixUpHandle                       0x7dac96e7      0x000196e7       1384 (0x568)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiFlush                             0x7dac9ff4      0x00019ff4       1385 (0x569)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiFullscreenControl                 0x7db07369      0x00057369       1386 (0x56a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiGetBatchLimit                     0x7daf3ac1      0x00043ac1       1387 (0x56b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiGetBitmapBitsSize                 0x7dac7219      0x00017219       1388 (0x56c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiGetCharDimensions                 0x7dacb4bf      0x0001b4bf       1389 (0x56d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiGetCodePage                       0x7dac8db7      0x00018db7       1390 (0x56e)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiGetDC                             0x7daf7f2a      0x00047f2a       1391 (0x56f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiGetDevmodeForPage                 0x7daf8d01      0x00048d01       1392 (0x570)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiGetLocalBrush                     0x7daf2768      0x00042768       1393 (0x571)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiGetLocalDC                        0x7daf2768      0x00042768       1394 (0x572)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiGetLocalFont                      0x7daf2768      0x00042768       1395 (0x573)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiGetPageCount                      0x7daf7f91      0x00047f91       1396 (0x574)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiGetPageHandle                     0x7daf8021      0x00048021       1397 (0x575)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiGetSpoolFileHandle                0x7daf7611      0x00047611       1398 (0x576)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiGetSpoolMessage                   0x7db07647      0x00057647       1399 (0x577)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiGradientFill                      0x7dacbc6b      0x0001bc6b       1400 (0x578)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiInitializeLanguagePack            0x7dac6947      0x00016947       1402 (0x57a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiInitSpool                         0x7db07767      0x00057767       1401 (0x579)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiIsMetaFileDC                      0x7daf2700      0x00042700       1403 (0x57b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiIsMetaPrintDC                     0x7dac8846      0x00018846       1404 (0x57c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiIsPlayMetafileDC                  0x7dace569      0x0001e569       1405 (0x57d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiIsScreenDC                        0x7dad2347      0x00022347       1406 (0x57e)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiLoadType1Fonts                    0x7daed484      0x0003d484       1407 (0x57f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiPlayDCScript                      0x7daf6011      0x00046011       1408 (0x580)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiPlayEMF                           0x7daf92b9      0x000492b9       1409 (0x581)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiPlayJournal                       0x7daf36bc      0x000436bc       1410 (0x582)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiPlayPageEMF                       0x7daf8211      0x00048211       1411 (0x583)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiPlayPrivatePageEMF                0x7daf8591      0x00048591       1412 (0x584)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiPlayScript                        0x7daf6007      0x00046007       1413 (0x585)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   gdiPlaySpoolStream                   0x7daf38fc      0x000438fc       1726 (0x6be)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiPrinterThunk                      0x7dafb644      0x0004b644       1414 (0x586)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiProcessSetup                      0x7dac6668      0x00016668       1415 (0x587)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiQueryFonts                        0x7db07945      0x00057945       1416 (0x588)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiQueryTable                        0x7daf26a0      0x000426a0       1417 (0x589)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiRealizationInfo                   0x7dac7cf7      0x00017cf7       1418 (0x58a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiReleaseDC                         0x7dac55d3      0x000155d3       1419 (0x58b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiReleaseLocalDC                    0x7daf275d      0x0004275d       1420 (0x58c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiResetDCEMF                        0x7daf8d99      0x00048d99       1421 (0x58d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiSetAttrs                          0x7daf275d      0x0004275d       1422 (0x58e)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiSetBatchLimit                     0x7dad6a48      0x00026a48       1423 (0x58f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiSetLastError                      0x7dacdd79      0x0001dd79       1424 (0x590)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiSetPixelFormat                    0x7daf5a4c      0x00045a4c       1425 (0x591)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiSetServerAttr                     0x7daf2779      0x00042779       1426 (0x592)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiStartDocEMF                       0x7daf80f9      0x000480f9       1427 (0x593)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiStartPageEMF                      0x7daf81b1      0x000481b1       1428 (0x594)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiSwapBuffers                       0x7daf5a5c      0x00045a5c       1429 (0x595)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiTransparentBlt                    0x7dacbd64      0x0001bd64       1430 (0x596)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GdiValidateHandle                    0x7dac5e5c      0x00015e5c       1431 (0x597)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetArcDirection                      0x7dadb044      0x0002b044       1432 (0x598)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetAspectRatioFilterEx               0x7dae895a      0x0003895a       1433 (0x599)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetBitmapAttributes                  0x7dae84c3      0x000384c3       1434 (0x59a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetBitmapBits                        0x7dacc529      0x0001c529       1435 (0x59b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetBitmapDimensionEx                 0x7daf3784      0x00043784       1436 (0x59c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetBkColor                           0x7dacb776      0x0001b776       1437 (0x59d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetBkMode                            0x7dac87f8      0x000187f8       1438 (0x59e)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetBoundsRect                        0x7dacb9cd      0x0001b9cd       1439 (0x59f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetBrushAttributes                   0x7dae84c3      0x000384c3       1440 (0x5a0)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetBrushOrgEx                        0x7dacc7f4      0x0001c7f4       1441 (0x5a1)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetCertificate                       0x7dadea88      0x0002ea88       1443 (0x5a3)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetCertificateSize                   0x7dadeaa8      0x0002eaa8       1444 (0x5a4)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetCharABCWidthsA                    0x7dae933f      0x0003933f       1445 (0x5a5)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetCharABCWidthsFloatA               0x7dae9360      0x00039360       1446 (0x5a6)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetCharABCWidthsFloatW               0x7dae9381      0x00039381       1447 (0x5a7)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetCharABCWidthsI                    0x7dacaff8      0x0001aff8       1448 (0x5a8)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+    GetCharABCWidthsW                           0x7daccaf8          0x0001caf8          1449 (0x5a9)        gdi32.dll               C:\Windows\System32\gdi32.dll                     Exported Function
+
+   GetCharacterPlacementA               0x7dae8975      0x00038975       1458 (0x5b2)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetCharacterPlacementW               0x7dae9589      0x00039589       1459 (0x5b3)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetCharWidth32A                      0x7dae8ca5      0x00038ca5       1450 (0x5aa)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetCharWidth32W                      0x7daccd5f      0x0001cd5f       1451 (0x5ab)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetCharWidthA                        0x7dacdaff      0x0001daff       1452 (0x5ac)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetCharWidthFloatA                   0x7dae8cc9      0x00038cc9       1453 (0x5ad)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetCharWidthFloatW                   0x7dae8ced      0x00038ced       1454 (0x5ae)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetCharWidthI                        0x7dae8d0e      0x00038d0e       1455 (0x5af)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetCharWidthInfo                     0x7daca5ae      0x0001a5ae       1456 (0x5b0)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetCharWidthW                        0x7daccd3e      0x0001cd3e       1457 (0x5b1)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetClipBox                           0x7dac988e      0x0001988e       1460 (0x5b4)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetClipRgn                           0x7dac8d53      0x00018d53       1461 (0x5b5)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetColorAdjustment                   0x7dae953f      0x0003953f       1462 (0x5b6)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetColorSpace                        0x7daedae3      0x0003dae3       1463 (0x5b7)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetCOPPCompatibleOPMInformation      0x7db07389      0x00057389       1442 (0x5a2)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetCurrentObject                     0x7dac6abf      0x00016abf       1464 (0x5b8)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetCurrentPositionEx                 0x7dac8869      0x00018869       1465 (0x5b9)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetDCBrushColor                      0x7daf231e      0x0004231e       1466 (0x5ba)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetDCOrgEx                           0x7dacbeb3      0x0001beb3       1467 (0x5bb)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetDCPenColor                        0x7daf24e2      0x000424e2       1468 (0x5bc)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetDeviceCaps                        0x7dac4df0      0x00014df0       1471 (0x5bf)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetDeviceGammaRamp                   0x7daedd36      0x0003dd36       1472 (0x5c0)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetDIBColorTable                     0x7dac71ec      0x000171ec       1469 (0x5bd)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetDIBits                            0x7dac6001      0x00016001       1470 (0x5be)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetEnhMetaFileA                      0x7dafda8b      0x0004da8b       1476 (0x5c4)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetEnhMetaFileBits                   0x7dadb5bd      0x0002b5bd       1477 (0x5c5)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetEnhMetaFileDescriptionA           0x7dafdf81      0x0004df81       1478 (0x5c6)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetEnhMetaFileDescriptionW           0x7dafdf9f      0x0004df9f       1479 (0x5c7)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetEnhMetaFileHeader                 0x7dad52dc      0x000252dc       1480 (0x5c8)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetEnhMetaFilePaletteEntries         0x7dafd27e      0x0004d27e       1481 (0x5c9)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetEnhMetaFilePixelFormat            0x7dafdfbd      0x0004dfbd       1482 (0x5ca)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetEnhMetaFileW                      0x7dacd493      0x0001d493       1483 (0x5cb)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetETM                               0x7dae954f      0x0003954f       1473 (0x5c1)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetEUDCTimeStamp                     0x7daf6828      0x00046828       1474 (0x5c2)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetEUDCTimeStampExW                  0x7daf67f1      0x000467f1       1475 (0x5c3)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetFontAssocStatus                   0x7dacb057      0x0001b057       1484 (0x5cc)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetFontData                          0x7dacaf37      0x0001af37       1485 (0x5cd)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetFontFileData                      0x7daebe35      0x0003be35       1486 (0x5ce)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetFontFileInfo                      0x7daec751      0x0003c751       1487 (0x5cf)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetFontLanguageInfo                  0x7daf253d      0x0004253d       1488 (0x5d0)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetFontRealizationInfo               0x7dac7d42      0x00017d42       1489 (0x5d1)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetFontResourceInfoW                 0x7daed5fb      0x0003d5fb       1490 (0x5d2)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetFontUnicodeRanges                 0x7daccd80      0x0001cd80       1491 (0x5d3)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetGlyphIndicesA                     0x7dae8d7d      0x00038d7d       1492 (0x5d4)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetGlyphIndicesW                     0x7dacaf17      0x0001af17       1493 (0x5d5)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetGlyphOutline                      0x7dae94b8      0x000394b8       1494 (0x5d6)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetGlyphOutlineA                     0x7dae94b8      0x000394b8       1495 (0x5d7)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetGlyphOutlineW                     0x7dae93cd      0x000393cd       1496 (0x5d8)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetGlyphOutlineWow                   0x7dae94e2      0x000394e2       1497 (0x5d9)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetGraphicsMode                      0x7dacf0f4      0x0001f0f4       1498 (0x5da)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetHFONT                             0x7dac802f      0x0001802f       1499 (0x5db)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetICMProfileA                       0x7daddff7      0x0002dff7       1500 (0x5dc)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetICMProfileW                       0x7dadd587      0x0002d587       1501 (0x5dd)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetKerningPairs                      0x7dad686a      0x0002686a       1502 (0x5de)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetKerningPairsA                     0x7dad686a      0x0002686a       1503 (0x5df)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetKerningPairsW                     0x7dae950c      0x0003950c       1504 (0x5e0)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetLayout                            0x7dac7960      0x00017960       1505 (0x5e1)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetLogColorSpaceA                    0x7daee704      0x0003e704       1506 (0x5e2)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetLogColorSpaceW                    0x7daedb3d      0x0003db3d       1507 (0x5e3)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetMapMode                           0x7dac7fc4      0x00017fc4       1508 (0x5e4)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetMetaFileA                         0x7daf298c      0x0004298c       1509 (0x5e5)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetMetaFileBitsEx                    0x7dad6d0d      0x00026d0d       1510 (0x5e6)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetMetaFileW                         0x7dacd45e      0x0001d45e       1511 (0x5e7)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetMetaRgn                           0x7daf37fd      0x000437fd       1512 (0x5e8)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetMiterLimit                        0x7dadb31d      0x0002b31d       1513 (0x5e9)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetNearestColor                      0x7dacd086      0x0001d086       1514 (0x5ea)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetNearestPaletteIndex               0x7dace5bd      0x0001e5bd       1515 (0x5eb)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetNumberOfPhysicalMonitors          0x7db07587      0x00057587       1516 (0x5ec)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetObjectA                           0x7dac8964      0x00018964       1519 (0x5ef)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetObjectType                        0x7dac79cc      0x000179cc       1520 (0x5f0)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetObjectW                           0x7dac6d66      0x00016d66       1521 (0x5f1)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetOPMInformation                    0x7dadeb28      0x0002eb28       1517 (0x5ed)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetOPMRandomNumber                   0x7dadeac8      0x0002eac8       1518 (0x5ee)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetOutlineTextMetricsA               0x7daceaa6      0x0001eaa6       1522 (0x5f2)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetOutlineTextMetricsW               0x7dacaecd      0x0001aecd       1523 (0x5f3)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetPaletteEntries                    0x7dacb88d      0x0001b88d       1524 (0x5f4)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetPath                              0x7daf566f      0x0004566f       1525 (0x5f5)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetPhysicalMonitorDescription        0x7db075e7      0x000575e7       1526 (0x5f6)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetPhysicalMonitors                  0x7db07607      0x00057607       1527 (0x5f7)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetPixel                             0x7dacb8d0      0x0001b8d0       1528 (0x5f8)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetPixelFormat                       0x7dad26e1      0x000226e1       1529 (0x5f9)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetPolyFillMode                      0x7dada73d      0x0002a73d       1530 (0x5fa)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetRandomRgn                         0x7dac97e1      0x000197e1       1532 (0x5fc)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetRasterizerCaps                    0x7daebe15      0x0003be15       1533 (0x5fd)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetRegionData                        0x7dac9972      0x00019972       1534 (0x5fe)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetRelAbs                            0x7daf2594      0x00042594       1535 (0x5ff)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetRgnBox                            0x7daca310      0x0001a310       1536 (0x600)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetROP2                              0x7dacb835      0x0001b835       1531 (0x5fb)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetStockObject                       0x7dac5443      0x00015443       1537 (0x601)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetStretchBltMode                    0x7dadc250      0x0002c250       1538 (0x602)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetStringBitmapA                     0x7daf6839      0x00046839       1539 (0x603)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetStringBitmapW                     0x7db07667      0x00057667       1540 (0x604)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetSuggestedOPMProtectedOutputA...   0x7dadeae8      0x0002eae8       1541 (0x605)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetSystemPaletteEntries              0x7dadebe8      0x0002ebe8       1542 (0x606)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetSystemPaletteUse                  0x7dad19ac      0x000219ac       1543 (0x607)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetTextAlign                         0x7dac7ca5      0x00017ca5       1544 (0x608)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetTextCharacterExtra                0x7dad22f3      0x000222f3       1545 (0x609)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetTextCharset                       0x7dacb4a5      0x0001b4a5       1546 (0x60a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetTextCharsetInfo                   0x7dacb43c      0x0001b43c       1547 (0x60b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetTextColor                         0x7dacb665      0x0001b665       1548 (0x60c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetTextExtentExPointA                0x7dae8ef7      0x00038ef7       1549 (0x60d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetTextExtentExPointI                0x7dae91d5      0x000391d5       1550 (0x60e)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetTextExtentExPointW                0x7dad6101      0x00026101       1551 (0x60f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetTextExtentExPointWPri             0x7daca6f3      0x0001a6f3       1552 (0x610)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetTextExtentPoint32A                0x7dacd0d5      0x0001d0d5       1553 (0x611)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetTextExtentPoint32W                0x7dacc4db      0x0001c4db       1554 (0x612)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetTextExtentPointA                  0x7dace0f8      0x0001e0f8       1555 (0x613)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetTextExtentPointI                  0x7dae8d5c      0x00038d5c       1556 (0x614)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetTextExtentPointW                  0x7dac91f0      0x000191f0       1557 (0x615)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetTextFaceA                         0x7dad18d0      0x000218d0       1558 (0x616)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetTextFaceAliasW                    0x7dacb071      0x0001b071       1559 (0x617)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetTextFaceW                         0x7dacac0a      0x0001ac0a       1560 (0x618)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetTextMetricsA                      0x7daccfb9      0x0001cfb9       1561 (0x619)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetTextMetricsW                      0x7dac7e47      0x00017e47       1562 (0x61a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetTransform                         0x7dad25a5      0x000225a5       1563 (0x61b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetViewportExtEx                     0x7dac7eda      0x00017eda       1564 (0x61c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetViewportOrgEx                     0x7dac8234      0x00018234       1565 (0x61d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetWindowExtEx                       0x7dac7f51      0x00017f51       1567 (0x61f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetWindowOrgEx                       0x7dacdcd0      0x0001dcd0       1568 (0x620)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetWinMetaFileBits                   0x7dafdafe      0x0004dafe       1566 (0x61e)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   GetWorldTransform                    0x7dacc731      0x0001c731       1569 (0x621)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   HT_Get8BPPFormatPalette              0x7db07707      0x00057707       1570 (0x622)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   HT_Get8BPPMaskPalette                0x7db07727      0x00057727       1571 (0x623)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   IntersectClipRect                    0x7dac7a94      0x00017a94       1572 (0x624)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   InvertRgn                            0x7dad1b56      0x00021b56       1573 (0x625)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   IsValidEnhMetaRecord                 0x7dafd4d1      0x0004d4d1       1574 (0x626)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   IsValidEnhMetaRecordOffExt           0x7dafd6f5      0x0004d6f5       1575 (0x627)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   LineDDA                              0x7daf25e2      0x000425e2       1577 (0x629)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   LineTo                               0x7dacbba5      0x0001bba5       1578 (0x62a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   LPtoDP                               0x7dac9750      0x00019750       1576 (0x628)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   MaskBlt                              0x7dacc74f      0x0001c74f       1579 (0x62b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   MirrorRgn                            0x7daf5f69      0x00045f69       1580 (0x62c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   ModifyWorldTransform                 0x7dacbae3      0x0001bae3       1581 (0x62d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   MoveToEx                             0x7dac86b6      0x000186b6       1582 (0x62e)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   NamedEscape                          0x7daf3db6      0x00043db6       1583 (0x62f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   OffsetClipRgn                        0x7dae87e4      0x000387e4       1584 (0x630)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   OffsetRgn                            0x7daca492      0x0001a492       1585 (0x631)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   OffsetViewportOrgEx                  0x7dac9d83      0x00019d83       1586 (0x632)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   OffsetWindowOrgEx                    0x7dacb6b4      0x0001b6b4       1587 (0x633)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   PaintRgn                             0x7daf4759      0x00044759       1593 (0x639)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   PatBlt                               0x7daca17a      0x0001a17a       1594 (0x63a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   PATHOBJ_bEnum                        0x7db07805      0x00057805       1588 (0x634)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   PATHOBJ_bEnumClipLines               0x7db07825      0x00057825       1589 (0x635)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   PATHOBJ_vEnumStart                   0x7db07845      0x00057845       1590 (0x636)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   PATHOBJ_vEnumStartClipLines          0x7db07865      0x00057865       1591 (0x637)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   PATHOBJ_vGetBounds                   0x7db07885      0x00057885       1592 (0x638)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   PathToRegion                         0x7daf55fb      0x000455fb       1595 (0x63b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   Pie                                  0x7daf4544      0x00044544       1596 (0x63c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   PlayEnhMetaFile                      0x7dadc468      0x0002c468       1597 (0x63d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   PlayEnhMetaFileRecord                0x7dad4d5c      0x00024d5c       1598 (0x63e)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   PlayMetaFile                         0x7dadb1f6      0x0002b1f6       1599 (0x63f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   PlayMetaFileRecord                   0x7dad7359      0x00027359       1600 (0x640)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   PlgBlt                               0x7daf4636      0x00044636       1601 (0x641)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   PolyBezier                           0x7daf5ba3      0x00045ba3       1602 (0x642)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   PolyBezierTo                         0x7daf5cc5      0x00045cc5       1603 (0x643)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   PolyDraw                             0x7daf5d77      0x00045d77       1604 (0x644)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   Polygon                              0x7dacc5d3      0x0001c5d3       1610 (0x64a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   Polyline                             0x7dacde76      0x0001de76       1611 (0x64b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   PolylineTo                           0x7daf5c34      0x00045c34       1612 (0x64c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   PolyPatBlt                           0x7dac813b      0x0001813b       1605 (0x645)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   PolyPolygon                          0x7daf5a6c      0x00045a6c       1606 (0x646)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   PolyPolyline                         0x7daf5b0f      0x00045b0f       1607 (0x647)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   PolyTextOutA                         0x7daf48e5      0x000448e5       1608 (0x648)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   PolyTextOutW                         0x7daf4811      0x00044811       1609 (0x649)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   PtInRegion                           0x7daca3fb      0x0001a3fb       1613 (0x64d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   PtVisible                            0x7daf5e80      0x00045e80       1614 (0x64e)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   QueryFontAssocStatus                 0x7daca775      0x0001a775       1615 (0x64f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   RealizePalette                       0x7daca103      0x0001a103       1616 (0x650)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   Rectangle                            0x7dacb7c5      0x0001b7c5       1619 (0x653)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   RectInRegion                         0x7dad2446      0x00022446       1617 (0x651)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   RectVisible                          0x7dac8d8a      0x00018d8a       1618 (0x652)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   RemoveFontMemResourceEx              0x7daeb80e      0x0003b80e       1620 (0x654)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   RemoveFontResourceA                  0x7daeda37      0x0003da37       1621 (0x655)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   RemoveFontResourceExA                0x7daed78d      0x0003d78d       1622 (0x656)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   RemoveFontResourceExW                0x7daed2b3      0x0003d2b3       1623 (0x657)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   RemoveFontResourceTracking           0x7daed981      0x0003d981       1624 (0x658)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   RemoveFontResourceW                  0x7daed8d1      0x0003d8d1       1625 (0x659)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   ResetDCA                             0x7daf391a      0x0004391a       1626 (0x65a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   ResetDCW                             0x7dade135      0x0002e135       1627 (0x65b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   ResizePalette                        0x7daf3794      0x00043794       1628 (0x65c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   RestoreDC                            0x7dac6ee3      0x00016ee3       1629 (0x65d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   RoundRect                            0x7dad64b0      0x000264b0       1630 (0x65e)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SaveDC                               0x7dac6e3b      0x00016e3b       1636 (0x664)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   ScaleViewportExtEx                   0x7dae858f      0x0003858f       1637 (0x665)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   ScaleWindowExtEx                     0x7dae866a      0x0003866a       1638 (0x666)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SelectBrushLocal                     0x7daf274c      0x0004274c       1639 (0x667)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SelectClipPath                       0x7daf5444      0x00045444       1640 (0x668)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SelectClipRgn                        0x7dac8c0d      0x00018c0d       1641 (0x669)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SelectFontLocal                      0x7daf274c      0x0004274c       1642 (0x66a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SelectObject                         0x7dac4eb0      0x00014eb0       1643 (0x66b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SelectPalette                        0x7dac5a86      0x00015a86       1644 (0x66c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetAbortProc                         0x7dad65e1      0x000265e1       1645 (0x66d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetArcDirection                      0x7dad50d1      0x000250d1       1646 (0x66e)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetBitmapAttributes                  0x7dae8485      0x00038485       1647 (0x66f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetBitmapBits                        0x7dac9d56      0x00019d56       1648 (0x670)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetBitmapDimensionEx                 0x7daf37ed      0x000437ed       1649 (0x671)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetBkColor                           0x7dac5221      0x00015221       1650 (0x672)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetBkMode                            0x7dac50eb      0x000150eb       1651 (0x673)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetBoundsRect                        0x7dacb9ab      0x0001b9ab       1652 (0x674)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetBrushAttributes                   0x7dae84dd      0x000384dd       1653 (0x675)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetBrushOrgEx                        0x7dac924c      0x0001924c       1654 (0x676)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetColorAdjustment                   0x7dae88fc      0x000388fc       1655 (0x677)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetColorSpace                        0x7daf0ef8      0x00040ef8       1656 (0x678)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetDCBrushColor                      0x7daf21c9      0x000421c9       1657 (0x679)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetDCPenColor                        0x7daf2379      0x00042379       1658 (0x67a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetDeviceGammaRamp                   0x7daedd65      0x0003dd65       1662 (0x67e)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetDIBColorTable                     0x7dacd26f      0x0001d26f       1659 (0x67b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetDIBits                            0x7dac7589      0x00017589       1660 (0x67c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetDIBitsToDevice                    0x7dac73a9      0x000173a9       1661 (0x67d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetEnhMetaFileBits                   0x7dafd214      0x0004d214       1663 (0x67f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetFontEnumeration                   0x7daebe25      0x0003be25       1664 (0x680)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetGraphicsMode                      0x7dacc60f      0x0001c60f       1665 (0x681)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetICMMode                           0x7dacbf60      0x0001bf60       1666 (0x682)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetICMProfileA                       0x7daf1488      0x00041488       1667 (0x683)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetICMProfileW                       0x7daf14a3      0x000414a3       1668 (0x684)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetLayout                            0x7daca268      0x0001a268       1669 (0x685)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetLayoutWidth                       0x7dae851b      0x0003851b       1670 (0x686)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetMagicColors                       0x7db07ba5      0x00057ba5       1671 (0x687)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetMapMode                           0x7dac9c75      0x00019c75       1672 (0x688)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetMapperFlags                       0x7dad212a      0x0002212a       1673 (0x689)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetMetaFileBitsEx                    0x7dad6e49      0x00026e49       1674 (0x68a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetMetaRgn                           0x7dad4cb8      0x00024cb8       1675 (0x68b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetMiterLimit                        0x7dad4d07      0x00024d07       1676 (0x68c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetOPMSigningKeyAndSequenceNu...     0x7dadeb08      0x0002eb08       1677 (0x68d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetPaletteEntries                    0x7daf534b      0x0004534b       1678 (0x68e)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetPixel                             0x7dacd0f6      0x0001d0f6       1679 (0x68f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetPixelFormat                       0x7daf593c      0x0004593c       1680 (0x690)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetPixelV                            0x7dacd1ad      0x0001d1ad       1681 (0x691)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetPolyFillMode                      0x7dad4bd0      0x00024bd0       1682 (0x692)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetRectRgn                           0x7dac98bb      0x000198bb       1684 (0x694)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetRelAbs                            0x7daf21a8      0x000421a8       1685 (0x695)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetROP2                              0x7dacbe14      0x0001be14       1683 (0x693)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetStretchBltMode                    0x7dac6fb9      0x00016fb9       1686 (0x696)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetSystemPaletteUse                  0x7dae8856      0x00038856       1687 (0x697)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetTextAlign                         0x7dac8080      0x00018080       1688 (0x698)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetTextCharacterExtra                0x7dad1462      0x00021462       1689 (0x699)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetTextColor                         0x7dac5176      0x00015176       1690 (0x69a)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetTextJustification                 0x7dad4261      0x00024261       1691 (0x69b)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetViewportExtEx                     0x7dad15a1      0x000215a1       1692 (0x69c)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetViewportOrgEx                     0x7dac82a7      0x000182a7       1693 (0x69d)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetVirtualResolution                 0x7dad35dc      0x000235dc       1694 (0x69e)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetWindowExtEx                       0x7dad168d      0x0002168d       1696 (0x6a0)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetWindowOrgEx                       0x7dac97f9      0x000197f9       1697 (0x6a1)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetWinMetaFileBits                   0x7dafdc8b      0x0004dc8b       1695 (0x69f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   SetWorldTransform                    0x7dacc6f6      0x0001c6f6       1698 (0x6a2)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   StartDocA                            0x7daf5171      0x00045171       1699 (0x6a3)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   StartDocW                            0x7daf4c41      0x00044c41       1700 (0x6a4)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   StartFormPage                        0x7daf4104      0x00044104       1701 (0x6a5)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   StartPage                            0x7daf400a      0x0004400a       1702 (0x6a6)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   StretchBlt                           0x7dacba55      0x0001ba55       1703 (0x6a7)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   StretchDIBits                        0x7dac726e      0x0001726e       1704 (0x6a8)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   STROBJ_bEnum                         0x7db079c5      0x000579c5       1631 (0x65f)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   STROBJ_bEnumPositionsOnly            0x7db079e5      0x000579e5       1632 (0x660)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   STROBJ_bGetAdvanceWidths             0x7db07a05      0x00057a05       1633 (0x661)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   STROBJ_dwGetCodePage                 0x7db07a25      0x00057a25       1634 (0x662)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   STROBJ_vEnumStart                    0x7db07a45      0x00057a45       1635 (0x663)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   StrokeAndFillPath                    0x7daf569c      0x0004569c       1705 (0x6a9)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   StrokePath                           0x7daf572f      0x0004572f       1706 (0x6aa)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   SwapBuffers                          0x7daf59eb      0x000459eb       1707 (0x6ab)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   TextOutA                             0x7dace190      0x0001e190       1708 (0x6ac)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   TextOutW                             0x7dace985      0x0001e985       1709 (0x6ad)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   TranslateCharsetInfo                 0x7dac6143      0x00016143       1710 (0x6ae)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   UnloadNetworkFonts                   0x7daeda1f      0x0003da1f       1711 (0x6af)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   UnrealizeObject                      0x7dacc3e7      0x0001c3e7       1712 (0x6b0)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   UpdateColors                         0x7daf3a9e      0x00043a9e       1713 (0x6b1)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   UpdateICMRegKeyA                     0x7daedd25      0x0003dd25       1714 (0x6b2)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   UpdateICMRegKeyW                     0x7daedd25      0x0003dd25       1715 (0x6b3)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   WidenPath                            0x7daf55a4      0x000455a4       1716 (0x6b4)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   XFORMOBJ_bApplyXform                 0x7db07da5      0x00057da5       1717 (0x6b5)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   XFORMOBJ_iGetXform                   0x7db07dc5      0x00057dc5       1718 (0x6b6)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   XLATEOBJ_cGetPalette                 0x7db07de5      0x00057de5       1719 (0x6b7)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   XLATEOBJ_hGetColorTransform          0x7db07e05      0x00057e05       1720 (0x6b8)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+
+   XLATEOBJ_iXlate                      0x7db07e25      0x00057e25       1721 (0x6b9)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+   XLATEOBJ_piVector                    0x7dafb10c      0x0004b10c       1722 (0x6ba)     gdi32.dll           C:\Windows\System32\gdi32.dll            Exported Function
+

@@ -1,0 +1,115 @@
+ Function Name                                       Address          Relative AddressOrdinal          Filename            Full Path                                 Type
+   __WSAFDIsSet                                      0x3fd136e7       0x000036e7      151 (0x97)       wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   accept                                            0x3fd136fb       0x000036fb      1 (0x1)          wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   AcceptEx                                          0x3fd13382       0x00003382      1141 (0x475)     wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   bind                                              0x3fd13709       0x00003709      2 (0x2)          wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   closesocket                                       0x3fd13715       0x00003715      3 (0x3)          wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   connect                                           0x3fd13728       0x00003728      4 (0x4)          wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   dn_expand                                         0x3fd13737       0x00003737      1106 (0x452)     wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   EnumProtocolsA                                    0x3fd13393       0x00003393      1111 (0x457)     wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   EnumProtocolsW                                    0x3fd133aa       0x000033aa      1112 (0x458)     wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   GetAcceptExSockaddrs                              0x3fd133c1       0x000033c1      1142 (0x476)     wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   GetAddressByNameA                                 0x3fd133de       0x000033de      1109 (0x455)     wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   GetAddressByNameW                                 0x3fd133f8       0x000033f8      1110 (0x456)     wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   gethostbyaddr                                     0x3fd13749       0x00003749      51 (0x33)        wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   gethostbyname                                     0x3fd1375e       0x0000375e      52 (0x34)        wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   gethostname                                       0x3fd13773       0x00003773      57 (0x39)        wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   GetNameByTypeA                                    0x3fd13412       0x00003412      1115 (0x45b)     wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   GetNameByTypeW                                    0x3fd13429       0x00003429      1116 (0x45c)     wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   getnetbyname                                      0x3fd13786       0x00003786      1101 (0x44d)     wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   getpeername                                       0x3fd1379b       0x0000379b      5 (0x5)          wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   getprotobyname                                    0x3fd137ae       0x000037ae      53 (0x35)        wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   getprotobynumber                                  0x3fd137c4       0x000037c4      54 (0x36)        wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   getservbyname                                     0x3fd137dc       0x000037dc      55 (0x37)        wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   getservbyport                                     0x3fd137f1       0x000037f1      56 (0x38)        wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   GetServiceA                                       0x3fd13440       0x00003440      1119 (0x45f)     wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   GetServiceW                                       0x3fd13454       0x00003454      1120 (0x460)     wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   getsockname                                       0x3fd13806       0x00003806      6 (0x6)          wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   getsockopt                                        0x3fd1186e       0x0000186e      7 (0x7)          wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   GetTypeByNameA                                    0x3fd13468       0x00003468      1113 (0x459)     wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   GetTypeByNameW                                    0x3fd1347f       0x0000347f      1114 (0x45a)     wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   htonl                                             0x3fd13819       0x00003819      8 (0x8)          wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   htons                                             0x3fd13826       0x00003826      9 (0x9)          wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   inet_addr                                         0x3fd13833       0x00003833      10 (0xa)         wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   inet_network                                      0x3fd13844       0x00003844      1100 (0x44c)     wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   inet_ntoa                                         0x3fd13859       0x00003859      11 (0xb)         wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   ioctlsocket                                       0x3fd1386a       0x0000386a      12 (0xc)         wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   listen                                            0x3fd1387d       0x0000387d      13 (0xd)         wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   MigrateWinsockConfiguration                       0x3fd13496       0x00003496      24 (0x18)        wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   NPLoadNameSpaces                                  0x3fd134ba       0x000034ba      1130 (0x46a)     wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   ntohl                                             0x3fd1388b       0x0000388b      14 (0xe)         wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   ntohs                                             0x3fd13898       0x00003898      15 (0xf)         wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   rcmd                                              0x3fd138a5       0x000038a5      1102 (0x44e)     wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   recv                                              0x3fd117a8       0x000017a8      16 (0x10)        wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   recvfrom                                          0x3fd11808       0x00001808      17 (0x11)        wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   rexec                                             0x3fd138b2       0x000038b2      1103 (0x44f)     wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   rresvport                                         0x3fd138c0       0x000038c0      1104 (0x450)     wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   s_perror                                          0x3fd138d2       0x000038d2      1108 (0x454)     wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   select                                            0x3fd138e3       0x000038e3      18 (0x12)        wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   send                                              0x3fd138f1       0x000038f1      19 (0x13)        wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   sendto                                            0x3fd138fd       0x000038fd      20 (0x14)        wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   sethostname                                       0x3fd1390b       0x0000390b      1105 (0x451)     wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   SetServiceA                                       0x3fd134d3       0x000034d3      1117 (0x45d)     wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   SetServiceW                                       0x3fd134e7       0x000034e7      1118 (0x45e)     wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   setsockopt                                        0x3fd118e0       0x000018e0      21 (0x15)        wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   shutdown                                          0x3fd1391f       0x0000391f      22 (0x16)        wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   socket                                            0x3fd1392f       0x0000392f      23 (0x17)        wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   TransmitFile                                      0x3fd134fb       0x000034fb      1140 (0x474)     wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   WEP                                               0x3fd13510       0x00003510      500 (0x1f4)      wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   WSAAsyncGetHostByAddr                             0x3fd1351b       0x0000351b      102 (0x66)       wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   WSAAsyncGetHostByName                             0x3fd13538       0x00003538      103 (0x67)       wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   WSAAsyncGetProtoByName                            0x3fd13555       0x00003555      105 (0x69)       wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   WSAAsyncGetProtoByNumber                          0x3fd13573       0x00003573      104 (0x68)       wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   WSAAsyncGetServByName                             0x3fd13593       0x00003593      107 (0x6b)       wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   WSAAsyncGetServByPort                             0x3fd135b0       0x000035b0      106 (0x6a)       wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   WSAAsyncSelect                                    0x3fd135cd       0x000035cd      101 (0x65)       wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   WSACancelAsyncRequest                             0x3fd135e3       0x000035e3      108 (0x6c)       wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   WSACancelBlockingCall                             0x3fd13600       0x00003600      113 (0x71)       wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   WSACleanup                                        0x3fd1361d       0x0000361d      116 (0x74)       wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   WSAGetLastError                                   0x3fd1362f       0x0000362f      111 (0x6f)       wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   WSAIsBlocking                                     0x3fd13646       0x00003646      114 (0x72)       wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   WSApSetPostRoutine                                0x3fd136cd       0x000036cd      1000 (0x3e8)     wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   WSARecvEx                                         0x3fd1365b       0x0000365b      1107 (0x453)     wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   WSASetBlockingHook                                0x3fd1366d       0x0000366d      109 (0x6d)       wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   WSASetLastError                                   0x3fd13687       0x00003687      112 (0x70)       wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+
+   WSAStartup                                        0x3fd1369e       0x0000369e      115 (0x73)       wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+   WSAUnhookBlockingHook                             0x3fd136b0       0x000036b0      110 (0x6e)       wsock32.dll         C:\Windows\System32\wsock32.dll           Exported Function
+

@@ -1,0 +1,1609 @@
+ Function Name                          Address         Relative Address Ordinal          Filename            Full Path                                Type
+   _UserTestTokenForInteractive         0x7dcc556a      0x0007556a       2326 (0x916)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ActivateKeyboardLayout               0x7dc79485      0x00029485       1502 (0x5de)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   AddClipboardFormatListener           0x7dcc7f47      0x00077f47       1503 (0x5df)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   AdjustWindowRect                     0x7dc79667      0x00029667       1504 (0x5e0)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   AdjustWindowRectEx                   0x7dc7583a      0x0002583a       1505 (0x5e1)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   AlignRects                           0x7dcc954c      0x0007954c       1506 (0x5e2)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   AllowForegroundActivation            0x7dca9e86      0x00059e86       1507 (0x5e3)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   AllowSetForegroundWindow             0x7dc809a0      0x000309a0       1508 (0x5e4)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   AnimateWindow                        0x7dc82b8d      0x00032b8d       1509 (0x5e5)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   AnyPopup                             0x7dcc561c      0x0007561c       1510 (0x5e6)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   AppendMenuA                          0x7dcc698b      0x0007698b       1511 (0x5e7)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   AppendMenuW                          0x7dcac0b9      0x0005c0b9       1512 (0x5e8)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ArrangeIconicWindows                 0x7dc8eb9a      0x0003eb9a       1513 (0x5e9)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   AttachThreadInput                    0x7dc71d4c      0x00021d4c       1514 (0x5ea)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   BeginDeferWindowPos                  0x7dc8f110      0x0003f110       1515 (0x5eb)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   BeginPaint                           0x7dc70eba      0x00020eba       1516 (0x5ec)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   BlockInput                           0x7dcc7f67      0x00077f67       1517 (0x5ed)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   BringWindowToTop                     0x7dc77ba7      0x00027ba7       1518 (0x5ee)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   BroadcastSystemMessage               0x7dcc6a32      0x00076a32       1519 (0x5ef)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   BroadcastSystemMessageA              0x7dcc6a32      0x00076a32       1520 (0x5f0)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   BroadcastSystemMessageExA            0x7dcc6a0b      0x00076a0b       1521 (0x5f1)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   BroadcastSystemMessageExW            0x7dcac139      0x0005c139       1522 (0x5f2)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   BroadcastSystemMessageW              0x7dcac160      0x0005c160       1523 (0x5f3)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   BuildReasonArray                     0x7dcc3185      0x00073185       1524 (0x5f4)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CalcMenuBar                          0x7dc72fe1      0x00022fe1       1525 (0x5f5)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   CalculatePopupWindowPosition         0x7dcc7fa7      0x00077fa7       1526 (0x5f6)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CallMsgFilter                        0x7dcc6fda      0x00076fda       1527 (0x5f7)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CallMsgFilterA                       0x7dcc6fda      0x00076fda       1528 (0x5f8)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CallMsgFilterW                       0x7dc8ffe3      0x0003ffe3       1529 (0x5f9)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CallNextHookEx                       0x7dc8f006      0x0003f006       1530 (0x5fa)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CallWindowProcA                      0x7dc77af4      0x00027af4       1531 (0x5fb)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CallWindowProcW                      0x7dc70abb      0x00020abb       1532 (0x5fc)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CancelShutdown                       0x7dcb0bd6      0x00060bd6       1533 (0x5fd)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CascadeChildWindows                  0x7dca9909      0x00059909       1534 (0x5fe)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CascadeWindows                       0x7dcbd09e      0x0006d09e       1535 (0x5ff)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ChangeClipboardChain                 0x7dc8ec67      0x0003ec67       1536 (0x600)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ChangeDisplaySettingsA               0x7dcc71fc      0x000771fc       1537 (0x601)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ChangeDisplaySettingsExA             0x7dcc6f30      0x00076f30       1538 (0x602)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ChangeDisplaySettingsExW             0x7dcb092e      0x0006092e       1539 (0x603)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ChangeDisplaySettingsW               0x7dcb0a0c      0x00060a0c       1540 (0x604)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ChangeMenuA                          0x7dcbd47f      0x0006d47f       1541 (0x605)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ChangeMenuW                          0x7dcbd3da      0x0006d3da       1542 (0x606)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ChangeWindowMessageFilter            0x7dc6a43f      0x0001a43f       1543 (0x607)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ChangeWindowMessageFilterEx          0x7dc6da46      0x0001da46       1544 (0x608)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CharLowerA                           0x7dc73bd8      0x00023bd8       1545 (0x609)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CharLowerBuffA                       0x7dc755a8      0x000255a8       1546 (0x60a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CharLowerBuffW                       0x7dc6c838      0x0001c838       1547 (0x60b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CharLowerW                           0x7dc6c874      0x0001c874       1548 (0x60c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CharNextA                            0x7dc70f76      0x00020f76       1549 (0x60d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CharNextExA                          0x7dcc4f30      0x00074f30       1557 (0x615)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CharNextW                            0x7dc67806      0x00017806       1558 (0x616)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CharPrevA                            0x7dc73bab      0x00023bab       1559 (0x617)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CharPrevExA                          0x7dcc4f67      0x00074f67       1560 (0x618)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CharPrevW                            0x7dc6c8b9      0x0001c8b9       1561 (0x619)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CharToOemA                           0x7dc7565e      0x0002565e       1562 (0x61a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CharToOemBuffA                       0x7dc7abac      0x0002abac       1563 (0x61b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CharToOemBuffW                       0x7dcc1c0d      0x00071c0d       1564 (0x61c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CharToOemW                           0x7dcc1bb6      0x00071bb6       1565 (0x61d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CharUpperA                           0x7dc6dd98      0x0001dd98       1566 (0x61e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CharUpperBuffA                       0x7dc6ddd9      0x0001ddd9       1567 (0x61f)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CharUpperBuffW                       0x7dc6da9a      0x0001da9a       1568 (0x620)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CharUpperW                           0x7dc6d9a2      0x0001d9a2       1569 (0x621)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CheckDesktopByThreadId               0x7dcc8027      0x00078027       1570 (0x622)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CheckDlgButton                       0x7dc7c404      0x0002c404       1571 (0x623)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CheckMenuItem                        0x7dc8e6a4      0x0003e6a4       1572 (0x624)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CheckMenuRadioItem                   0x7dcbd581      0x0006d581       1573 (0x625)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CheckRadioButton                     0x7dc8dbc7      0x0003dbc7       1574 (0x626)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CheckWindowThreadDesktop             0x7dcc8047      0x00078047       1575 (0x627)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ChildWindowFromPoint                 0x7dca8c80      0x00058c80       1576 (0x628)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ChildWindowFromPointEx               0x7dc8dac8      0x0003dac8       1577 (0x629)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ClientThreadSetup                    0x7dc6c5ce      0x0001c5ce       1579 (0x62b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ClientToScreen                       0x7dc72337      0x00022337       1580 (0x62c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CliImmSetHotKey                      0x7dca4c9d      0x00054c9d       1578 (0x62a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ClipCursor                           0x7dc83463      0x00033463       1581 (0x62d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CloseClipboard                       0x7dc791f4      0x000291f4       1582 (0x62e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CloseDesktop                         0x7dc6fc52      0x0001fc52       1583 (0x62f)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CloseGestureInfoHandle               0x7dca895f      0x0005895f       1584 (0x630)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CloseTouchInputHandle                0x7dcad3e6      0x0005d3e6       1585 (0x631)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CloseWindow                          0x7dca992a      0x0005992a       1586 (0x632)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CloseWindowStation                   0x7dc6fc11      0x0001fc11       1587 (0x633)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ConsoleControl                       0x7dcb0c8c      0x00060c8c       1588 (0x634)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ControlMagnification                 0x7dcc885b      0x0007885b       1589 (0x635)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CopyAcceleratorTableA                0x7dc8af7a      0x0003af7a       1590 (0x636)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CopyAcceleratorTableW                0x7dc75b88      0x00025b88       1591 (0x637)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CopyIcon                             0x7dc8fc0f      0x0003fc0f       1592 (0x638)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CopyImage                            0x7dc75048      0x00025048       1593 (0x639)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CopyRect                             0x7dc72265      0x00022265       1594 (0x63a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CountClipboardFormats                0x7dc7b7b6      0x0002b7b6       1595 (0x63b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CreateAcceleratorTableA              0x7dc8e024      0x0003e024       1596 (0x63c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CreateAcceleratorTableW              0x7dc75474      0x00025474       1597 (0x63d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CreateCaret                          0x7dc74317      0x00024317       1598 (0x63e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CreateCursor                         0x7dcacf96      0x0005cf96       1599 (0x63f)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CreateDesktopA                       0x7dca9713      0x00059713       1600 (0x640)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CreateDesktopExA                     0x7dca9621      0x00059621       1601 (0x641)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CreateDesktopExW                     0x7dca973c      0x0005973c       1602 (0x642)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CreateDesktopW                       0x7dca978c      0x0005978c       1603 (0x643)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CreateDialogIndirectParamA           0x7dc7b1dd      0x0002b1dd       1604 (0x644)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CreateDialogIndirectParamAorW        0x7dc80a41      0x00030a41       1605 (0x645)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CreateDialogIndirectParamW           0x7dc795fa      0x000295fa       1606 (0x646)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CreateDialogParamA                   0x7dc8711b      0x0003711b       1607 (0x647)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CreateDialogParamW                   0x7dc80a8f      0x00030a8f       1608 (0x648)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CreateIcon                           0x7dc7c6ab      0x0002c6ab       1609 (0x649)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CreateIconFromResource               0x7dcad26b      0x0005d26b       1610 (0x64a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CreateIconFromResourceEx             0x7dc7d947      0x0002d947       1611 (0x64b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CreateIconIndirect                   0x7dc8fa42      0x0003fa42       1612 (0x64c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CreateMDIWindowA                     0x7dc8bee2      0x0003bee2       1613 (0x64d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CreateMDIWindowW                     0x7dc7bf11      0x0002bf11       1614 (0x64e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CreateMenu                           0x7dc76da9      0x00026da9       1615 (0x64f)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CreatePopupMenu                      0x7dc8ff31      0x0003ff31       1616 (0x650)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CreateSystemThreads                  0x7dcc56b2      0x000756b2       1617 (0x651)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CreateWindowExA                      0x7dc6a5e6      0x0001a5e6       1618 (0x652)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CreateWindowExW                      0x7dc68b9a      0x00018b9a       1619 (0x653)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CreateWindowStationA                 0x7dcabef7      0x0005bef7       1620 (0x654)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CreateWindowStationW                 0x7dcabf3e      0x0005bf3e       1621 (0x655)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CsrBroadcastSystemMessageExW         0x7dcb0c21      0x00060c21       1622 (0x656)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   CtxInitUser32                        0x7dcac583      0x0005c583       1623 (0x657)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeAbandonTransaction                0x7dcc681c      0x0007681c       1624 (0x658)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeAccessData                        0x7dcb83da      0x000683da       1625 (0x659)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeAddData                           0x7dcb873d      0x0006873d       1626 (0x65a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeClientTransaction                 0x7dcc60f6      0x000760f6       1627 (0x65b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeCmpStringHandles                  0x7dcb8d9d      0x00068d9d       1628 (0x65c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeConnect                           0x7dcaec87      0x0005ec87       1629 (0x65d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeConnectList                       0x7dcaef9d      0x0005ef9d       1630 (0x65e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeCreateDataHandle                  0x7dc7e938      0x0002e938       1631 (0x65f)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeCreateStringHandleA               0x7dc8e183      0x0003e183       1632 (0x660)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeCreateStringHandleW               0x7dc7d55d      0x0002d55d       1633 (0x661)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeDisconnect                        0x7dcaee85      0x0005ee85       1634 (0x662)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeDisconnectList                    0x7dcaeefc      0x0005eefc       1635 (0x663)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeEnableCallback                    0x7dca7b98      0x00057b98       1636 (0x664)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeFreeDataHandle                    0x7dc7e9d2      0x0002e9d2       1637 (0x665)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeFreeStringHandle                  0x7dc7ce3d      0x0002ce3d       1638 (0x666)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeGetData                           0x7dc7ebce      0x0002ebce       1639 (0x667)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeGetLastError                      0x7dcb1ca4      0x00061ca4       1640 (0x668)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeGetQualityOfService               0x7dcae6e4      0x0005e6e4       1641 (0x669)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeImpersonateClient                 0x7dcb1ce5      0x00061ce5       1642 (0x66a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeInitializeA                       0x7dc8e143      0x0003e143       1643 (0x66b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeInitializeW                       0x7dc7d535      0x0002d535       1644 (0x66c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeKeepStringHandle                  0x7dcb8e5b      0x00068e5b       1645 (0x66d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeNameService                       0x7dc7cc81      0x0002cc81       1646 (0x66e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdePostAdvise                        0x7dcc5de7      0x00075de7       1647 (0x66f)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeQueryConvInfo                     0x7dcc663d      0x0007663d       1648 (0x670)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeQueryNextServer                   0x7dcae823      0x0005e823       1649 (0x671)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeQueryStringA                      0x7dcb8ee8      0x00068ee8       1650 (0x672)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeQueryStringW                      0x7dc7fa7e      0x0002fa7e       1651 (0x673)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeReconnect                         0x7dcaed32      0x0005ed32       1652 (0x674)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeSetQualityOfService               0x7dcae6d9      0x0005e6d9       1653 (0x675)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeSetUserHandle                     0x7dcc67c1      0x000767c1       1654 (0x676)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeUnaccessData                      0x7dcb844c      0x0006844c       1655 (0x677)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DdeUninitialize                      0x7dc7cf07      0x0002cf07       1656 (0x678)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DefDlgProcA                          0x7dc65f5a      0x00015f5a       1657 (0x679)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DefDlgProcW                          0x7dc65f75      0x00015f75       1658 (0x67a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DeferWindowPos                       0x7dc8f16a      0x0003f16a       1666 (0x682)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DefFrameProcA                        0x7dc7808f      0x0002808f       1659 (0x67b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DefFrameProcW                        0x7dc78632      0x00028632       1660 (0x67c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DefMDIChildProcA                     0x7dc781e0      0x000281e0       1661 (0x67d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DefMDIChildProcW                     0x7dc78807      0x00028807       1662 (0x67e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DefRawInputProc                      0x7dcac7f4      0x0005c7f4       1663 (0x67f)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DefWindowProcA                       0x7dc65f90      0x00015f90       1664 (0x680)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DefWindowProcW                       0x7dc65fab      0x00015fab       1665 (0x681)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DeleteMenu                           0x7dc8fcc1      0x0003fcc1       1667 (0x683)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DeregisterShellHookWindow            0x7dc760b8      0x000260b8       1668 (0x684)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DestroyAcceleratorTable              0x7dc74217      0x00024217       1669 (0x685)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DestroyCaret                         0x7dc7430a      0x0002430a       1670 (0x686)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DestroyCursor                        0x7dc74ff1      0x00024ff1       1671 (0x687)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DestroyIcon                          0x7dc74ff1      0x00024ff1       1672 (0x688)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DestroyMenu                          0x7dc73fa5      0x00023fa5       1673 (0x689)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DestroyReasons                       0x7dcc2b89      0x00072b89       1674 (0x68a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DestroyWindow                        0x7dc71e6e      0x00021e6e       1675 (0x68b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DeviceEventWorker                    0x7dcca866      0x0007a866       1676 (0x68c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DialogBoxIndirectParamA              0x7dcacf72      0x0005cf72       1677 (0x68d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DialogBoxIndirectParamAorW           0x7dc82782      0x00032782       1678 (0x68e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DialogBoxIndirectParamW              0x7dc82a3e      0x00032a3e       1679 (0x68f)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DialogBoxParamA                      0x7dcacc1a      0x0005cc1a       1680 (0x690)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DialogBoxParamW                      0x7dc82a62      0x00032a62       1681 (0x691)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DisableProcessWindowsGhosting        0x7dca9e93      0x00059e93       1682 (0x692)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DispatchMessageA                     0x7dc68103      0x00018103       1683 (0x693)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DispatchMessageW                     0x7dc67deb      0x00017deb       1684 (0x694)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DisplayConfigGetDeviceInfo           0x7dcc7bec      0x00077bec       1685 (0x695)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DisplayConfigSetDeviceInfo           0x7dcc7c09      0x00077c09       1686 (0x696)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DisplayExitWindowsWarnings           0x7dcb0efa      0x00060efa       1687 (0x697)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DlgDirListA                          0x7dcbb3d5      0x0006b3d5       1688 (0x698)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DlgDirListComboBoxA                  0x7dcae28c      0x0005e28c       1689 (0x699)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DlgDirListComboBoxW                  0x7dcae31a      0x0005e31a       1690 (0x69a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DlgDirListW                          0x7dcbb464      0x0006b464       1691 (0x69b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DlgDirSelectComboBoxExA              0x7dcae352      0x0005e352       1692 (0x69c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DlgDirSelectComboBoxExW              0x7dcae227      0x0005e227       1693 (0x69d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DlgDirSelectExA                      0x7dcbb62d      0x0006b62d       1694 (0x69e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DlgDirSelectExW                      0x7dcbb693      0x0006b693       1695 (0x69f)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DoSoundConnect                       0x7dcc80e7      0x000780e7       1696 (0x6a0)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DoSoundDisconnect                    0x7dcc8105      0x00078105       1697 (0x6a1)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DragDetect                           0x7dcc8123      0x00078123       1698 (0x6a2)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DragObject                           0x7dcc8143      0x00078143       1699 (0x6a3)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DrawAnimatedRects                    0x7dcc8163      0x00078163       1700 (0x6a4)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DrawCaption                          0x7dcc191e      0x0007191e       1701 (0x6a5)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DrawCaptionTempA                     0x7dcc70b8      0x000770b8       1702 (0x6a6)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DrawCaptionTempW                     0x7dcb096e      0x0006096e       1703 (0x6a7)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DrawEdge                             0x7dc76dd6      0x00026dd6       1704 (0x6a8)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DrawFocusRect                        0x7dc78aea      0x00028aea       1705 (0x6a9)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DrawFrame                            0x7dcc982e      0x0007982e       1706 (0x6aa)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DrawFrameControl                     0x7dc833b5      0x000333b5       1707 (0x6ab)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DrawIcon                             0x7dc7b463      0x0002b463       1708 (0x6ac)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DrawIconEx                           0x7dc74f4f      0x00024f4f       1709 (0x6ad)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DrawMenuBar                          0x7dc90428      0x00040428       1710 (0x6ae)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DrawMenuBarTemp                      0x7dcbd54b      0x0006d54b       1711 (0x6af)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DrawStateA                           0x7dcbdbd6      0x0006dbd6       1712 (0x6b0)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DrawStateW                           0x7dc91585      0x00041585       1713 (0x6b1)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DrawTextA                            0x7dc7b056      0x0002b056       1714 (0x6b2)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DrawTextExA                          0x7dc7b08d      0x0002b08d       1715 (0x6b3)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DrawTextExW                          0x7dc713b8      0x000213b8       1716 (0x6b4)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DrawTextW                            0x7dc72300      0x00022300       1717 (0x6b5)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DwmGetDxSharedSurface                0x7dcc346f      0x0007346f       1718 (0x6b6)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DwmStartRedirection                  0x7dcc81e3      0x000781e3       1719 (0x6b7)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   DwmStopRedirection                   0x7dcc8203      0x00078203       1720 (0x6b8)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EditWndProc                          0x7dc8362e      0x0003362e       1721 (0x6b9)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EmptyClipboard                       0x7dcc7e49      0x00077e49       1722 (0x6ba)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EnableMenuItem                       0x7dc8fe36      0x0003fe36       1723 (0x6bb)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EnableScrollBar                      0x7dc7b3b7      0x0002b3b7       1724 (0x6bc)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EnableWindow                         0x7dc73f54      0x00023f54       1725 (0x6bd)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EndDeferWindowPos                    0x7dc8f132      0x0003f132       1726 (0x6be)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EndDialog                            0x7dc7c184      0x0002c184       1727 (0x6bf)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EndMenu                              0x7dc794a5      0x000294a5       1728 (0x6c0)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EndPaint                             0x7dc70e9a      0x00020e9a       1729 (0x6c1)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EndTask                              0x7dcca826      0x0007a826       1730 (0x6c2)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EnterReaderModeHelper                0x7dcc252c      0x0007252c       1731 (0x6c3)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EnumChildWindows                     0x7dc71a99      0x00021a99       1732 (0x6c4)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EnumClipboardFormats                 0x7dc7b779      0x0002b779       1733 (0x6c5)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EnumDesktopsA                        0x7dc6fd26      0x0001fd26       1735 (0x6c7)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EnumDesktopsW                        0x7dca8661      0x00058661       1736 (0x6c8)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EnumDesktopWindows                   0x7dc7754d      0x0002754d       1734 (0x6c6)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EnumDisplayDevicesA                  0x7dc74c48      0x00024c48       1737 (0x6c9)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EnumDisplayDevicesW                  0x7dc76bdc      0x00026bdc       1738 (0x6ca)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EnumDisplayMonitors                  0x7dc74b28      0x00024b28       1739 (0x6cb)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EnumDisplaySettingsA                 0x7dc768d0      0x000268d0       1740 (0x6cc)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EnumDisplaySettingsExA               0x7dc768fc      0x000268fc       1741 (0x6cd)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EnumDisplaySettingsExW               0x7dc76ac8      0x00026ac8       1742 (0x6ce)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EnumDisplaySettingsW                 0x7dc76a9a      0x00026a9a       1743 (0x6cf)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EnumPropsA                           0x7dca85ce      0x000585ce       1744 (0x6d0)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EnumPropsExA                         0x7dca8608      0x00058608       1745 (0x6d1)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EnumPropsExW                         0x7dca8626      0x00058626       1746 (0x6d2)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EnumPropsW                           0x7dca85eb      0x000585eb       1747 (0x6d3)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EnumThreadWindows                    0x7dc738a0      0x000238a0       1748 (0x6d4)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EnumWindows                          0x7dc6ca27      0x0001ca27       1751 (0x6d7)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EnumWindowStationsA                  0x7dc6fe2e      0x0001fe2e       1749 (0x6d5)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EnumWindowStationsW                  0x7dca8644      0x00058644       1750 (0x6d6)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   EqualRect                            0x7dc704e2      0x000204e2       1752 (0x6d8)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ExcludeUpdateRgn                     0x7dc792ae      0x000292ae       1753 (0x6d9)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ExitWindowsEx                        0x7dcb15ef      0x000615ef       1754 (0x6da)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   FillRect                             0x7dc709a0      0x000209a0       1755 (0x6db)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   FindWindowA                          0x7dc6fb43      0x0001fb43       1756 (0x6dc)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   FindWindowExA                        0x7dc6fc31      0x0001fc31       1757 (0x6dd)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   FindWindowExW                        0x7dc90e99      0x00040e99       1758 (0x6de)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   FindWindowW                          0x7dc6d205      0x0001d205       1759 (0x6df)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   FlashWindow                          0x7dc8eac6      0x0003eac6       1760 (0x6e0)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   FlashWindowEx                        0x7dc8eb05      0x0003eb05       1761 (0x6e1)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   FrameRect                            0x7dc78ac5      0x00028ac5       1762 (0x6e2)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   FreeDDElParam                        0x7dcb2249      0x00062249       1763 (0x6e3)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   FrostCrashedWindow                   0x7dcc8261      0x00078261       1764 (0x6e4)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   gapfnScSendMessage                   0x7dc65fc8      0x00015fc8       2328 (0x918)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetActiveWindow                      0x7dc74408      0x00024408       1765 (0x6e5)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetAltTabInfo                        0x7dcc71d8      0x000771d8       1766 (0x6e6)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetAltTabInfoA                       0x7dcc71d8      0x000771d8       1767 (0x6e7)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetAltTabInfoW                       0x7dcb09e8      0x000609e8       1768 (0x6e8)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetAncestor                          0x7dc6cebf      0x0001cebf       1769 (0x6e9)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetAppCompatFlags                    0x7dc8efd0      0x0003efd0       1771 (0x6eb)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetAppCompatFlags2                   0x7dc677b4      0x000177b4       1770 (0x6ea)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetAsyncKeyState                     0x7dc74858      0x00024858       1772 (0x6ec)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetCapture                           0x7dc72dbd      0x00022dbd       1773 (0x6ed)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetCaretBlinkTime                    0x7dc78c93      0x00028c93       1774 (0x6ee)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetCaretPos                          0x7dc905df      0x000405df       1775 (0x6ef)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetClassInfoA                        0x7dc8f85e      0x0003f85e       1776 (0x6f0)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetClassInfoExA                      0x7dc8f6df      0x0003f6df       1777 (0x6f1)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetClassInfoExW                      0x7dc69f55      0x00019f55       1778 (0x6f2)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetClassInfoW                        0x7dc6a0b9      0x0001a0b9       1779 (0x6f3)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetClassLongA                        0x7dc78766      0x00028766       1780 (0x6f4)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetClassLongW                        0x7dc68498      0x00018498       1781 (0x6f5)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetClassNameA                        0x7dc77c95      0x00027c95       1782 (0x6f6)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetClassNameW                        0x7dc66b04      0x00016b04       1783 (0x6f7)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetClassWord                         0x7dc7d774      0x0002d774       1784 (0x6f8)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetClientRect                        0x7dc708e5      0x000208e5       1785 (0x6f9)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetClipboardData                     0x7dca9f3b      0x00059f3b       1787 (0x6fb)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetClipboardFormatNameA              0x7dc8f66f      0x0003f66f       1788 (0x6fc)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetClipboardFormatNameW              0x7dc80880      0x00030880       1789 (0x6fd)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetClipboardOwner                    0x7dc7cee9      0x0002cee9       1790 (0x6fe)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetClipboardSequenceNumber           0x7dc787e9      0x000287e9       1791 (0x6ff)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetClipboardViewer                   0x7dcc82a1      0x000782a1       1792 (0x700)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetClipCursor                        0x7dcc8281      0x00078281       1786 (0x6fa)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetComboBoxInfo                      0x7dc91791      0x00041791       1793 (0x701)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetCursor                            0x7dc8f1bb      0x0003f1bb       1794 (0x702)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetCursorFrameInfo                   0x7dc82b43      0x00032b43       1795 (0x703)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetCursorInfo                        0x7dcc82bf      0x000782bf       1796 (0x704)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetCursorPos                         0x7dc70e0d      0x00020e0d       1797 (0x705)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetDC                                0x7dc67246      0x00017246       1798 (0x706)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetDCEx                              0x7dc73001      0x00023001       1799 (0x707)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetDesktopWindow                     0x7dc706d6      0x000206d6       1800 (0x708)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetDialogBaseUnits                   0x7dc8bbd1      0x0003bbd1       1801 (0x709)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetDisplayConfigBufferSizes          0x7dcc7b74      0x00077b74       1802 (0x70a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetDlgCtrlID                         0x7dc72ac3      0x00022ac3       1803 (0x70b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetDlgItem                           0x7dc90bc5      0x00040bc5       1804 (0x70c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetDlgItemInt                        0x7dc8dc3a      0x0003dc3a       1805 (0x70d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetDlgItemTextA                      0x7dcc6cc6      0x00076cc6       1806 (0x70e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+    GetDlgItemTextW                             0x7dc8db42          0x0003db42          1807 (0x70f)        user32.dll              C:\Windows\System32\user32.dll                    Exported Function
+
+   GetDoubleClickTime                   0x7dc72a3a      0x00022a3a       1808 (0x710)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetFocus                             0x7dc70db1      0x00020db1       1809 (0x711)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetForegroundWindow                  0x7dc736c0      0x000236c0       1810 (0x712)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetGestureConfig                     0x7dcc82ff      0x000782ff       1812 (0x714)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetGestureExtraArgs                  0x7dca894b      0x0005894b       1813 (0x715)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetGestureInfo                       0x7dca88e2      0x000588e2       1814 (0x716)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetGuiResources                      0x7dcc835f      0x0007835f       1815 (0x717)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetGUIThreadInfo                     0x7dc67850      0x00017850       1811 (0x713)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetIconInfo                          0x7dc75029      0x00025029       1816 (0x718)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetIconInfoExA                       0x7dcacd3f      0x0005cd3f       1817 (0x719)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetIconInfoExW                       0x7dcacc86      0x0005cc86       1818 (0x71a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetInputDesktop                      0x7dca9975      0x00059975       1819 (0x71b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetInputLocaleInfo                   0x7dcc839f      0x0007839f       1820 (0x71c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetInputState                        0x7dc786d7      0x000286d7       1821 (0x71d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetInternalWindowPos                 0x7dcc83bf      0x000783bf       1822 (0x71e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+    GetKBCodePage                               0x7dca9ed6          0x00059ed6          1823 (0x71f)        user32.dll              C:\Windows\System32\user32.dll                    Exported Function
+
+   GetKeyboardLayout                    0x7dc68cc3      0x00018cc3       1827 (0x723)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetKeyboardLayoutList                0x7dc740e3      0x000240e3       1828 (0x724)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetKeyboardLayoutNameA               0x7dcc6d69      0x00076d69       1829 (0x725)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetKeyboardLayoutNameW               0x7dcb0908      0x00060908       1830 (0x726)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetKeyboardState                     0x7dc7492a      0x0002492a       1831 (0x727)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetKeyboardType                      0x7dca9a54      0x00059a54       1832 (0x728)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetKeyNameTextA                      0x7dcc6cff      0x00076cff       1824 (0x720)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetKeyNameTextW                      0x7dcb08f8      0x000608f8       1825 (0x721)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetKeyState                          0x7dc72902      0x00022902       1826 (0x722)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetLastActivePopup                   0x7dc9065f      0x0004065f       1833 (0x729)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetLastInputInfo                     0x7dc77617      0x00027617       1834 (0x72a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetLayeredWindowAttributes           0x7dcc841f      0x0007841f       1835 (0x72b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetListBoxInfo                       0x7dcc843f      0x0007843f       1836 (0x72c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetMagnificationDesktopColorEffect   0x7dcbc123      0x0006c123       1837 (0x72d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetMagnificationDesktopMagnification 0x7dcbc1bc      0x0006c1bc       1838 (0x72e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetMagnificationLensCtxInformation   0x7dcc887b      0x0007887b       1839 (0x72f)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetMenu                              0x7dc756b1      0x000256b1       1840 (0x730)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetMenuBarInfo                       0x7dc76d69      0x00026d69       1841 (0x731)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetMenuCheckMarkDimensions           0x7dcbd6da      0x0006d6da       1842 (0x732)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetMenuContextHelpId                 0x7dcbd524      0x0006d524       1843 (0x733)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetMenuDefaultItem                   0x7dcbd386      0x0006d386       1844 (0x734)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetMenuInfo                          0x7dc776f3      0x000276f3       1845 (0x735)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetMenuItemCount                     0x7dc76c88      0x00026c88       1846 (0x736)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetMenuItemID                        0x7dc8e541      0x0003e541       1847 (0x737)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetMenuItemInfoA                     0x7dc7db0d      0x0002db0d       1848 (0x738)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+    GetMenuItemInfoW                            0x7dc7711a          0x0002711a          1849 (0x739)        user32.dll              C:\Windows\System32\user32.dll                    Exported Function
+
+   GetMenuItemRect                      0x7dcc847f      0x0007847f       1850 (0x73a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetMenuState                         0x7dc8e5d9      0x0003e5d9       1851 (0x73b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetMenuStringA                       0x7dcc68fe      0x000768fe       1852 (0x73c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetMenuStringW                       0x7dc7da93      0x0002da93       1853 (0x73d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetMessageA                          0x7dc6811b      0x0001811b       1854 (0x73e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetMessageExtraInfo                  0x7dc72dfb      0x00022dfb       1855 (0x73f)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetMessagePos                        0x7dc72bc7      0x00022bc7       1856 (0x740)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetMessageTime                       0x7dc743fb      0x000243fb       1857 (0x741)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetMessageW                          0x7dc67e92      0x00017e92       1858 (0x742)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetMonitorInfoA                      0x7dc74a21      0x00024a21       1859 (0x743)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetMonitorInfoW                      0x7dc7264f      0x0002264f       1860 (0x744)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetMouseMovePointsEx                 0x7dcc849f      0x0007849f       1861 (0x745)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetNextDlgGroupItem                  0x7dcb24ff      0x000624ff       1862 (0x746)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetNextDlgTabItem                    0x7dc7c814      0x0002c814       1863 (0x747)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetOpenClipboardWindow               0x7dc7b798      0x0002b798       1864 (0x748)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetParent                            0x7dc70b0e      0x00020b0e       1865 (0x749)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetPhysicalCursorPos                 0x7dca9ef9      0x00059ef9       1866 (0x74a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetPriorityClipboardFormat           0x7dcc84bf      0x000784bf       1867 (0x74b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetProcessDefaultLayout              0x7dca9e56      0x00059e56       1868 (0x74c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetProcessWindowStation              0x7dc6c58a      0x0001c58a       1869 (0x74d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetProgmanWindow                     0x7dca9b60      0x00059b60       1870 (0x74e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetPropA                             0x7dc90331      0x00040331       1871 (0x74f)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetPropW                             0x7dc671c9      0x000171c9       1872 (0x750)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetQueueStatus                       0x7dc71dd0      0x00021dd0       1873 (0x751)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetRawInputBuffer                    0x7dcb82c4      0x000682c4       1874 (0x752)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetRawInputData                      0x7dcc84ff      0x000784ff       1875 (0x753)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetRawInputDeviceInfoA               0x7dcc6a9b      0x00076a9b       1876 (0x754)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetRawInputDeviceInfoW               0x7dcac1c9      0x0005c1c9       1877 (0x755)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetRawInputDeviceList                0x7dcc853f      0x0007853f       1878 (0x756)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetReasonTitleFromReasonCode         0x7dcc3351      0x00073351       1879 (0x757)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetRegisteredRawInputDevices         0x7dcc855f      0x0007855f       1880 (0x758)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetScrollBarInfo                     0x7dc7450a      0x0002450a       1881 (0x759)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetScrollInfo                        0x7dc7452a      0x0002452a       1882 (0x75a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetScrollPos                         0x7dc74741      0x00024741       1883 (0x75b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetScrollRange                       0x7dc78fac      0x00028fac       1884 (0x75c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetSendMessageReceiver               0x7dca9ee1      0x00059ee1       1885 (0x75d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetShellWindow                       0x7dc71ce4      0x00021ce4       1886 (0x75e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetSubMenu                           0x7dc8fd0a      0x0003fd0a       1887 (0x75f)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetSysColor                          0x7dc67959      0x00017959       1888 (0x760)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetSysColorBrush                     0x7dc7308a      0x0002308a       1889 (0x761)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetSystemMenu                        0x7dc9037c      0x0004037c       1890 (0x762)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetSystemMetrics                     0x7dc67467      0x00017467       1891 (0x763)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetTabbedTextExtentA                 0x7dcb1a40      0x00061a40       1892 (0x764)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetTabbedTextExtentW                 0x7dcb1a16      0x00061a16       1893 (0x765)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetTaskmanWindow                     0x7dca9bce      0x00059bce       1894 (0x766)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetThreadDesktop                     0x7dc67980      0x00017980       1895 (0x767)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetTitleBarInfo                      0x7dc719c2      0x000219c2       1896 (0x768)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetTopLevelWindow                    0x7dcc857f      0x0007857f       1897 (0x769)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetTopWindow                         0x7dc77a54      0x00027a54       1898 (0x76a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetTouchInputInfo                    0x7dcad68c      0x0005d68c       1899 (0x76b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetUpdatedClipboardFormats           0x7dcc85bf      0x000785bf       1902 (0x76e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetUpdateRect                        0x7dc9011b      0x0004011b       1900 (0x76c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetUpdateRgn                         0x7dc8f1fe      0x0003f1fe       1901 (0x76d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetUserObjectInformationA            0x7dc8ff6e      0x0003ff6e       1903 (0x76f)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetUserObjectInformationW            0x7dc67a72      0x00017a72       1904 (0x770)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetUserObjectSecurity                0x7dca9445      0x00059445       1905 (0x771)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetWindow                            0x7dc6cb00      0x0001cb00       1907 (0x773)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetWindowCompositionAttribute        0x7dc6d93d      0x0001d93d       1908 (0x774)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetWindowCompositionInfo             0x7dcc85ff      0x000785ff       1909 (0x775)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetWindowContextHelpId               0x7dca9c3c      0x00059c3c       1910 (0x776)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetWindowDC                          0x7dc679d8      0x000179d8       1911 (0x777)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetWindowDisplayAffinity             0x7dcc861f      0x0007861f       1912 (0x778)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetWindowInfo                        0x7dc717a5      0x000217a5       1913 (0x779)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetWindowLongA                       0x7dc6c9ac      0x0001c9ac       1914 (0x77a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetWindowLongW                       0x7dc66fed      0x00016fed       1915 (0x77b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetWindowMinimizeRect                0x7dcc863f      0x0007863f       1916 (0x77c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetWindowModuleFileName              0x7dcc6a58      0x00076a58       1917 (0x77d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetWindowModuleFileNameA             0x7dcc6a58      0x00076a58       1918 (0x77e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetWindowModuleFileNameW             0x7dcac186      0x0005c186       1919 (0x77f)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetWindowPlacement                   0x7dc72be6      0x00022be6       1920 (0x780)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetWindowRect                        0x7dc6766c      0x0001766c       1921 (0x781)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetWindowRgn                         0x7dca9d44      0x00059d44       1922 (0x782)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetWindowRgnBox                      0x7dc6d95d      0x0001d95d       1923 (0x783)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetWindowRgnEx                       0x7dcc865f      0x0007865f       1924 (0x784)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetWindowTextA                       0x7dc6fb86      0x0001fb86       1925 (0x785)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetWindowTextLengthA                 0x7dc7a9e3      0x0002a9e3       1926 (0x786)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetWindowTextLengthW                 0x7dc8ffa4      0x0003ffa4       1927 (0x787)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetWindowTextW                       0x7dc71abb      0x00021abb       1928 (0x788)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetWindowThreadProcessId             0x7dc6ca46      0x0001ca46       1929 (0x789)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetWindowWord                        0x7dc79024      0x00029024       1930 (0x78a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GetWinStationInfo                    0x7dca94ab      0x000594ab       1906 (0x772)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GhostWindowFromHungWindow            0x7dcc867f      0x0007867f       1931 (0x78b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GrayStringA                          0x7dca93e5      0x000593e5       1932 (0x78c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   GrayStringW                          0x7dca9415      0x00059415       1933 (0x78d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   gSharedInfo                          0x7dcd0500      0x00080500       2327 (0x917)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   HideCaret                            0x7dc73ff4      0x00023ff4       1934 (0x78e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   HiliteMenuItem                       0x7dcc869f      0x0007869f       1935 (0x78f)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   HungWindowFromGhostWindow            0x7dcc86bf      0x000786bf       1936 (0x790)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ImpersonateDdeClientWindow           0x7dcc871f      0x0007871f       1943 (0x797)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IMPGetIMEA                           0x7dcc74c1      0x000774c1       1937 (0x791)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IMPGetIMEW                           0x7dcc74b0      0x000774b0       1938 (0x792)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IMPQueryIMEA                         0x7dcc74e3      0x000774e3       1939 (0x793)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IMPQueryIMEW                         0x7dcc74d2      0x000774d2       1940 (0x794)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IMPSetIMEA                           0x7dcc7505      0x00077505       1941 (0x795)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IMPSetIMEW                           0x7dcc74f4      0x000774f4       1942 (0x796)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   InflateRect                          0x7dc72f59      0x00022f59       1946 (0x79a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   InitializeLpkHooks                   0x7dc6b0c5      0x0001b0c5       1947 (0x79b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   InSendMessage                        0x7dc73fc5      0x00023fc5       1944 (0x798)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   InSendMessageEx                      0x7dc71d9a      0x00021d9a       1945 (0x799)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   InsertMenuA                          0x7dcc6948      0x00076948       1948 (0x79c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   InsertMenuItemA                      0x7dc8e288      0x0003e288       1949 (0x79d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   InsertMenuItemW                      0x7dc77514      0x00027514       1950 (0x79e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   InsertMenuW                          0x7dc8e3a8      0x0003e3a8       1951 (0x79f)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   InternalGetWindowIcon                0x7dcc02e0      0x000702e0       1952 (0x7a0)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   InternalGetWindowText                0x7dc72c06      0x00022c06       1953 (0x7a1)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IntersectRect                        0x7dc7045d      0x0002045d       1954 (0x7a2)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   InvalidateRect                       0x7dc72a58      0x00022a58       1955 (0x7a3)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   InvalidateRgn                        0x7dc8f1de      0x0003f1de       1956 (0x7a4)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   InvertRect                           0x7dcc96cd      0x000796cd       1957 (0x7a5)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsCharAlphaA                         0x7dc8b22f      0x0003b22f       1958 (0x7a6)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsCharAlphaNumericA                  0x7dc8f5e7      0x0003f5e7       1959 (0x7a7)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsCharAlphaNumericW                  0x7dc80818      0x00030818       1960 (0x7a8)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsCharAlphaW                         0x7dc75187      0x00025187       1961 (0x7a9)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsCharLowerA                         0x7dcc4fc0      0x00074fc0       1962 (0x7aa)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsCharLowerW                         0x7dc7c9d0      0x0002c9d0       1963 (0x7ab)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsCharUpperA                         0x7dcc5027      0x00075027       1964 (0x7ac)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsCharUpperW                         0x7dc7ca02      0x0002ca02       1965 (0x7ad)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsChild                              0x7dc734d6      0x000234d6       1966 (0x7ae)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsClipboardFormatAvailable           0x7dc787c9      0x000287c9       1967 (0x7af)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsDialogMessage                      0x7dc87051      0x00037051       1968 (0x7b0)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsDialogMessageA                     0x7dc87051      0x00037051       1969 (0x7b1)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsDialogMessageW                     0x7dc82174      0x00032174       1970 (0x7b2)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsDlgButtonChecked                   0x7dc7c925      0x0002c925       1971 (0x7b3)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsGUIThread                          0x7dcc5717      0x00075717       1972 (0x7b4)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsHungAppWindow                      0x7dcc5694      0x00075694       1973 (0x7b5)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsIconic                             0x7dc72efa      0x00022efa       1974 (0x7b6)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsMenu                               0x7dc772ab      0x000272ab       1975 (0x7b7)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsProcessDPIAware                    0x7dc679ab      0x000179ab       1976 (0x7b8)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsRectEmpty                          0x7dc7042b      0x0002042b       1977 (0x7b9)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsServerSideWindow                   0x7dc71a0b      0x00021a0b       1979 (0x7bb)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsSETEnabled                         0x7dcc2bd9      0x00072bd9       1978 (0x7ba)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsThreadDesktopComposited            0x7dc66efa      0x00016efa       1980 (0x7bc)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsTopLevelWindow                     0x7dc75398      0x00025398       1981 (0x7bd)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsTouchWindow                        0x7dcc879f      0x0007879f       1982 (0x7be)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsWindow                             0x7dc66947      0x00016947       1984 (0x7c0)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsWindowEnabled                      0x7dc73dcd      0x00023dcd       1985 (0x7c1)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsWindowInDestroy                    0x7dc719e2      0x000219e2       1986 (0x7c2)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsWindowRedirectedForPrint           0x7dc72c4d      0x00022c4d       1987 (0x7c3)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsWindowUnicode                      0x7dc74396      0x00024396       1988 (0x7c4)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsWindowVisible                      0x7dc70cd5      0x00020cd5       1989 (0x7c5)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsWinEventHookInstalled              0x7dc807aa      0x000307aa       1983 (0x7bf)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsWow64Message                       0x7dcac7cb      0x0005c7cb       1990 (0x7c6)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   IsZoomed                             0x7dc72f82      0x00022f82       1991 (0x7c7)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   keybd_event                          0x7dcc044f      0x0007044f       2329 (0x919)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   KillTimer                            0x7dc67e52      0x00017e52       1992 (0x7c8)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   LoadAcceleratorsA                    0x7dc784a6      0x000284a6       1993 (0x7c9)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   LoadAcceleratorsW                    0x7dc75446      0x00025446       1994 (0x7ca)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   LoadBitmapA                          0x7dc77c38      0x00027c38       1995 (0x7cb)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   LoadBitmapW                          0x7dc78c46      0x00028c46       1996 (0x7cc)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   LoadCursorA                          0x7dc6d75b      0x0001d75b       1997 (0x7cd)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   LoadCursorFromFileA                  0x7dca4eb4      0x00054eb4       1998 (0x7ce)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   LoadCursorFromFileW                  0x7dca4e95      0x00054e95       1999 (0x7cf)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   LoadCursorW                          0x7dc689ee      0x000189ee       2003 (0x7d3)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   LoadIconA                            0x7dc6d781      0x0001d781       2004 (0x7d4)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+    LoadIconW                                   0x7dc69eaf          0x00019eaf          2006 (0x7d6)        user32.dll              C:\Windows\System32\user32.dll                    Exported Function
+
+   LoadImageA                           0x7dc78430      0x00028430       2007 (0x7d7)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   LoadImageW                           0x7dc6f9f8      0x0001f9f8       2008 (0x7d8)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   LoadKeyboardLayoutA                  0x7dcabb55      0x0005bb55       2009 (0x7d9)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   LoadKeyboardLayoutEx                 0x7dcabb12      0x0005bb12       2010 (0x7da)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   LoadKeyboardLayoutW                  0x7dcabb37      0x0005bb37       2011 (0x7db)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   LoadLocalFonts                       0x7dca9aea      0x00059aea       2012 (0x7dc)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   LoadMenuA                            0x7dc86dee      0x00036dee       2013 (0x7dd)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   LoadMenuIndirectA                    0x7dc75144      0x00025144       2014 (0x7de)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   LoadMenuIndirectW                    0x7dc75144      0x00025144       2015 (0x7df)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   LoadMenuW                            0x7dc74bc6      0x00024bc6       2016 (0x7e0)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   LoadRemoteFonts                      0x7dca9ad4      0x00059ad4       2017 (0x7e1)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   LoadStringA                          0x7dc6dcf6      0x0001dcf6       2018 (0x7e2)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   LoadStringW                          0x7dc67c12      0x00017c12       2019 (0x7e3)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   LockSetForegroundWindow              0x7dca9cc0      0x00059cc0       2020 (0x7e4)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   LockWindowStation                    0x7dcc87df      0x000787df       2021 (0x7e5)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+    LockWindowUpdate                            0x7dcc7ec7          0x00077ec7          2022 (0x7e6)        user32.dll              C:\Windows\System32\user32.dll                    Exported Function
+
+   LockWorkStation                      0x7dcc87ff      0x000787ff       2023 (0x7e7)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   LogicalToPhysicalPoint               0x7dc9197e      0x0004197e       2024 (0x7e8)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   LookupIconIdFromDirectory            0x7dcad00b      0x0005d00b       2025 (0x7e9)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   LookupIconIdFromDirectoryEx          0x7dc7ddc1      0x0002ddc1       2026 (0x7ea)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   MapDialogRect                        0x7dc7c869      0x0002c869       2029 (0x7ed)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   MapVirtualKeyA                       0x7dcc6daa      0x00076daa       2030 (0x7ee)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   MapVirtualKeyExA                     0x7dcc6df9      0x00076df9       2031 (0x7ef)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   MapVirtualKeyExW                     0x7dc791d6      0x000291d6       2032 (0x7f0)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   MapVirtualKeyW                       0x7dc92482      0x00042482       2033 (0x7f1)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   MapWindowPoints                      0x7dc6819d      0x0001819d       2034 (0x7f2)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   MB_GetString                         0x7dcbe111      0x0006e111       2028 (0x7ec)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   MBToWCSEx                            0x7dc6a554      0x0001a554       2027 (0x7eb)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   MenuItemFromPoint                    0x7dcc88db      0x000788db       2035 (0x7f3)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   MenuWindowProcA                      0x7dcac74c      0x0005c74c       2036 (0x7f4)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   MenuWindowProcW                      0x7dcac708      0x0005c708       2037 (0x7f5)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   MessageBeep                          0x7dc8eb25      0x0003eb25       2038 (0x7f6)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   MessageBoxA                          0x7dcbfeae      0x0006feae       2039 (0x7f7)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   MessageBoxExA                        0x7dcbfe66      0x0006fe66       2040 (0x7f8)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   MessageBoxExW                        0x7dcbfe8a      0x0006fe8a       2041 (0x7f9)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   MessageBoxIndirectA                  0x7dcbfd61      0x0006fd61       2042 (0x7fa)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   MessageBoxIndirectW                  0x7dcbfe2d      0x0006fe2d       2043 (0x7fb)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   MessageBoxTimeoutA                   0x7dcbfcb8      0x0006fcb8       2044 (0x7fc)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   MessageBoxTimeoutW                   0x7dcbfc5d      0x0006fc5d       2045 (0x7fd)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   MessageBoxW                          0x7dcbfecf      0x0006fecf       2046 (0x7fe)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ModifyMenuA                          0x7dcc69c8      0x000769c8       2047 (0x7ff)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ModifyMenuW                          0x7dcac0f6      0x0005c0f6       2048 (0x800)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   MonitorFromPoint                     0x7dc75261      0x00025261       2049 (0x801)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   MonitorFromRect                      0x7dc908b8      0x000408b8       2050 (0x802)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   MonitorFromWindow                    0x7dc727db      0x000227db       2051 (0x803)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   mouse_event                          0x7dcc040b      0x0007040b       2330 (0x91a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   MoveWindow                           0x7dc735fb      0x000235fb       2052 (0x804)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   MsgWaitForMultipleObjects            0x7dc7064f      0x0002064f       2053 (0x805)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   MsgWaitForMultipleObjectsEx          0x7dc702e0      0x000202e0       2054 (0x806)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   NotifyOverlayWindow                  0x7dca9af9      0x00059af9       2055 (0x807)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   NotifyWinEvent                       0x7dc722c3      0x000222c3       2056 (0x808)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   OemKeyScan                           0x7dcc1cd8      0x00071cd8       2057 (0x809)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   OemToCharA                           0x7dcc1b2f      0x00071b2f       2058 (0x80a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   OemToCharBuffA                       0x7dcc1b6e      0x00071b6e       2059 (0x80b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   OemToCharBuffW                       0x7dcc1c9a      0x00071c9a       2060 (0x80c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+    OemToCharW                                  0x7dcc1c52          0x00071c52          2061 (0x80d)        user32.dll              C:\Windows\System32\user32.dll                    Exported Function
+
+   OffsetRect                           0x7dc70832      0x00020832       2062 (0x80e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   OpenClipboard                        0x7dc79232      0x00029232       2063 (0x80f)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   OpenDesktopA                         0x7dc6fc72      0x0001fc72       2064 (0x810)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   OpenDesktopW                         0x7dca97b5      0x000597b5       2065 (0x811)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   OpenIcon                             0x7dca9b14      0x00059b14       2066 (0x812)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   OpenInputDesktop                     0x7dcc895b      0x0007895b       2067 (0x813)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   OpenThreadDesktop                    0x7dcc897b      0x0007897b       2068 (0x814)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   OpenWindowStationA                   0x7dc6ffb2      0x0001ffb2       2069 (0x815)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   OpenWindowStationW                   0x7dcab063      0x0005b063       2070 (0x816)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   PackDDElParam                        0x7dc7f5a0      0x0002f5a0       2071 (0x817)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   PaintDesktop                         0x7dcc7f07      0x00077f07       2072 (0x818)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   PaintMenuBar                         0x7dc76d89      0x00026d89       2073 (0x819)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   PaintMonitor                         0x7dcc899b      0x0007899b       2074 (0x81a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   PeekMessageA                         0x7dc8ed58      0x0003ed58       2075 (0x81b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   PeekMessageW                         0x7dc70112      0x00020112       2076 (0x81c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   PhysicalToLogicalPoint               0x7dc917b1      0x000417b1       2077 (0x81d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   PostMessageA                         0x7dc73cbf      0x00023cbf       2078 (0x81e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   PostMessageW                         0x7dc70f14      0x00020f14       2079 (0x81f)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   PostQuitMessage                      0x7dc73927      0x00023927       2080 (0x820)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   PostThreadMessageA                   0x7dc73d76      0x00023d76       2081 (0x821)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   PostThreadMessageW                   0x7dc68e6e      0x00018e6e       2082 (0x822)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   PrintWindow                          0x7dcc89bb      0x000789bb       2083 (0x823)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   PrivateExtractIconExA                0x7dcb8273      0x00068273       2084 (0x824)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   PrivateExtractIconExW                0x7dcb8180      0x00068180       2085 (0x825)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   PrivateExtractIconsA                 0x7dcb8126      0x00068126       2086 (0x826)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   PrivateExtractIconsW                 0x7dc7e118      0x0002e118       2087 (0x827)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   PrivateRegisterICSProc               0x7dcacf2e      0x0005cf2e       2088 (0x828)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   PtInRect                             0x7dc70dde      0x00020dde       2089 (0x829)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   QueryDisplayConfig                   0x7dcc7bc0      0x00077bc0       2090 (0x82a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   QuerySendMessage                     0x7dcc89fb      0x000789fb       2091 (0x82b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RealChildWindowFromPoint             0x7dcc8a1b      0x00078a1b       2092 (0x82c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RealGetWindowClass                   0x7dcc7156      0x00077156       2093 (0x82d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RealGetWindowClassA                  0x7dcc7156      0x00077156       2094 (0x82e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+    RealGetWindowClassW                         0x7dc6ce80          0x0001ce80          2095 (0x82f)        user32.dll              C:\Windows\System32\user32.dll                    Exported Function
+
+   ReasonCodeNeedsBugID                 0x7dcc25ad      0x000725ad       2096 (0x830)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ReasonCodeNeedsComment               0x7dcc2596      0x00072596       2097 (0x831)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RecordShutdownReason                 0x7dcb1278      0x00061278       2098 (0x832)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RedrawWindow                         0x7dc72b82      0x00022b82       2099 (0x833)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RegisterClassA                       0x7dc74b80      0x00024b80       2100 (0x834)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RegisterClassExA                     0x7dc6dd6d      0x0001dd6d       2101 (0x835)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RegisterClassExW                     0x7dc69ed3      0x00019ed3       2102 (0x836)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+    RegisterClassW                              0x7dc68bd6          0x00018bd6          2103 (0x837)        user32.dll              C:\Windows\System32\user32.dll                    Exported Function
+
+   RegisterClipboardFormatA             0x7dc705ff      0x000205ff       2104 (0x838)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RegisterClipboardFormatW             0x7dc6c55d      0x0001c55d       2105 (0x839)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RegisterDeviceNotificationA          0x7dc767dd      0x000267dd       2106 (0x83a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RegisterDeviceNotificationW          0x7dc76260      0x00026260       2107 (0x83b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RegisterErrorReportingDialog         0x7dcc8a5b      0x00078a5b       2108 (0x83c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RegisterFrostWindow                  0x7dca9ebb      0x00059ebb       2109 (0x83d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RegisterGhostWindow                  0x7dca9ea0      0x00059ea0       2110 (0x83e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RegisterHotKey                       0x7dc6d277      0x0001d277       2111 (0x83f)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RegisterLogonProcess                 0x7dcac4a1      0x0005c4a1       2112 (0x840)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RegisterMessagePumpHook              0x7dcc0167      0x00070167       2113 (0x841)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RegisterPowerSettingNotification     0x7dc7640f      0x0002640f       2114 (0x842)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RegisterRawInputDevices              0x7dcc8a7b      0x00078a7b       2115 (0x843)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RegisterServicesProcess              0x7dcc8a9b      0x00078a9b       2116 (0x844)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RegisterSessionPort                  0x7dcc8abb      0x00078abb       2117 (0x845)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RegisterShellHookWindow              0x7dc767c5      0x000267c5       2118 (0x846)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RegisterSystemThread                 0x7dca9c6f      0x00059c6f       2119 (0x847)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RegisterTasklist                     0x7dcc8adb      0x00078adb       2120 (0x848)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RegisterTouchWindow                  0x7dcc100c      0x0007100c       2121 (0x849)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RegisterUserApiHook                  0x7dcc00de      0x000700de       2122 (0x84a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RegisterWindowMessageA               0x7dc705ff      0x000205ff       2123 (0x84b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RegisterWindowMessageW               0x7dc6c55d      0x0001c55d       2124 (0x84c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ReleaseCapture                       0x7dc72ec4      0x00022ec4       2125 (0x84d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ReleaseDC                            0x7dc6730e      0x0001730e       2126 (0x84e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RemoveClipboardFormatListener        0x7dcc8b1b      0x00078b1b       2127 (0x84f)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RemoveMenu                           0x7dc80953      0x00030953       2128 (0x850)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RemovePropA                          0x7dc7828c      0x0002828c       2129 (0x851)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   RemovePropW                          0x7dc68d62      0x00018d62       2130 (0x852)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ReplyMessage                         0x7dc72018      0x00022018       2131 (0x853)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ResolveDesktopForWOW                 0x7dcc8b3b      0x00078b3b       2132 (0x854)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ReuseDDElParam                       0x7dc7f54d      0x0002f54d       2133 (0x855)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ScreenToClient                       0x7dc7361b      0x0002361b       2134 (0x856)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ScrollChildren                       0x7dcbcb7b      0x0006cb7b       2135 (0x857)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ScrollDC                             0x7dcaa30c      0x0005a30c       2136 (0x858)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ScrollWindow                         0x7dc7b48a      0x0002b48a       2137 (0x859)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ScrollWindowEx                       0x7dc90267      0x00040267       2138 (0x85a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SendDlgItemMessageA                  0x7dc7c991      0x0002c991       2139 (0x85b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SendDlgItemMessageW                  0x7dc82959      0x00032959       2140 (0x85c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SendIMEMessageExA                    0x7dcc749f      0x0007749f       2141 (0x85d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SendIMEMessageExW                    0x7dcc748e      0x0007748e       2142 (0x85e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SendInput                            0x7dc9195e      0x0004195e       2143 (0x85f)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SendMessageA                         0x7dc8eef4      0x0003eef4       2144 (0x860)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SendMessageCallbackA                 0x7dcc6e8c      0x00076e8c       2145 (0x861)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SendMessageCallbackW                 0x7dc8090f      0x0003090f       2146 (0x862)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SendMessageTimeoutA                  0x7dc8f422      0x0003f422       2147 (0x863)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SendMessageTimeoutW                  0x7dc6d0da      0x0001d0da       2148 (0x864)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SendMessageW                         0x7dc6cd35      0x0001cd35       2149 (0x865)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SendNotifyMessageA                   0x7dcc6eed      0x00076eed       2150 (0x866)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SendNotifyMessageW                   0x7dc90f60      0x00040f60       2151 (0x867)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetActiveWindow                      0x7dc72890      0x00022890       2152 (0x868)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetCapture                           0x7dc72ed1      0x00022ed1       2153 (0x869)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetCaretBlinkTime                    0x7dc77c20      0x00027c20       2154 (0x86a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetCaretPos                          0x7dc742ef      0x000242ef       2155 (0x86b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetClassLongA                        0x7dc79408      0x00029408       2156 (0x86c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetClassLongW                        0x7dc75b43      0x00025b43       2157 (0x86d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetClassWord                         0x7dcc8b9b      0x00078b9b       2158 (0x86e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetClipboardData                     0x7dca8de7      0x00058de7       2159 (0x86f)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetClipboardViewer                   0x7dc7b7e6      0x0002b7e6       2160 (0x870)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetCursor                            0x7dc74076      0x00024076       2161 (0x871)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetCursorContents                    0x7dcc8bbb      0x00078bbb       2162 (0x872)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetCursorPos                         0x7dca9c8d      0x00059c8d       2163 (0x873)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetDebugErrorLevel                   0x7dca9e4e      0x00059e4e       2164 (0x874)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetDeskWallpaper                     0x7dca8f79      0x00058f79       2165 (0x875)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetDisplayConfig                     0x7dcc7b97      0x00077b97       2166 (0x876)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetDlgItemInt                        0x7dc7c434      0x0002c434       2167 (0x877)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetDlgItemTextA                      0x7dc7b806      0x0002b806       2168 (0x878)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetDlgItemTextW                      0x7dc828ce      0x000328ce       2169 (0x879)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetDoubleClickTime                   0x7dca9ca8      0x00059ca8       2170 (0x87a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetFocus                             0x7dc71b99      0x00021b99       2171 (0x87b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetForegroundWindow                  0x7dc71d34      0x00021d34       2172 (0x87c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetGestureConfig                     0x7dcc8bfb      0x00078bfb       2173 (0x87d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetInternalWindowPos                 0x7dcc8c3b      0x00078c3b       2174 (0x87e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetKeyboardState                     0x7dc924db      0x000424db       2175 (0x87f)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetLastErrorEx                       0x7dcc1e22      0x00071e22       2176 (0x880)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetLayeredWindowAttributes           0x7dc730f2      0x000230f2       2177 (0x881)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetMagnificationDesktopColorEffect   0x7dcbc0cf      0x0006c0cf       2178 (0x882)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetMagnificationDesktopMagnification 0x7dcbc184      0x0006c184       2179 (0x883)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetMagnificationLensCtxInformation   0x7dcc889b      0x0007889b       2180 (0x884)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetMenu                              0x7dc72da2      0x00022da2       2181 (0x885)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+    SetMenuContextHelpId                        0x7dcc8c5b          0x00078c5b          2182 (0x886)        user32.dll              C:\Windows\System32\user32.dll                    Exported Function
+
+   SetMenuDefaultItem                   0x7dc7791f      0x0002791f       2183 (0x887)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetMenuInfo                          0x7dcbd3b8      0x0006d3b8       2184 (0x888)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetMenuItemBitmaps                   0x7dc778dc      0x000278dc       2185 (0x889)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetMenuItemInfoA                     0x7dc8e24f      0x0003e24f       2186 (0x88a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetMenuItemInfoW                     0x7dc8fef8      0x0003fef8       2187 (0x88b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetMessageExtraInfo                  0x7dcac7b3      0x0005c7b3       2188 (0x88c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetMessageQueue                      0x7dc7be3e      0x0002be3e       2189 (0x88d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetMirrorRendering                   0x7dcc8c9b      0x00078c9b       2190 (0x88e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetParent                            0x7dc73f14      0x00023f14       2191 (0x88f)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetPhysicalCursorPos                 0x7dca9f13      0x00059f13       2192 (0x890)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetProcessDefaultLayout              0x7dca9e6e      0x00059e6e       2194 (0x892)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetProcessDPIAware                   0x7dc6daf5      0x0001daf5       2193 (0x891)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetProcessWindowStation              0x7dc6fe0e      0x0001fe0e       2195 (0x893)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetProgmanWindow                     0x7dca9bb6      0x00059bb6       2196 (0x894)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetPropA                             0x7dc78234      0x00028234       2197 (0x895)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetPropW                             0x7dc67a10      0x00017a10       2198 (0x896)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetRect                              0x7dc70971      0x00020971       2199 (0x897)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetRectEmpty                         0x7dc7085b      0x0002085b       2200 (0x898)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetScrollInfo                        0x7dc745e7      0x000245e7       2201 (0x899)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetScrollPos                         0x7dc788cd      0x000288cd       2202 (0x89a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetScrollRange                       0x7dc90207      0x00040207       2203 (0x89b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetShellWindow                       0x7dca9b47      0x00059b47       2204 (0x89c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetShellWindowEx                     0x7dcc8cdb      0x00078cdb       2205 (0x89d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetSysColors                         0x7dcbfef0      0x0006fef0       2206 (0x89e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetSysColorsTemp                     0x7dcc1d3b      0x00071d3b       2207 (0x89f)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetSystemCursor                      0x7dcc0395      0x00070395       2208 (0x8a0)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetSystemMenu                        0x7dc7a497      0x0002a497       2209 (0x8a1)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetTaskmanWindow                     0x7dca9c24      0x00059c24       2210 (0x8a2)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetThreadDesktop                     0x7dc6fdee      0x0001fdee       2211 (0x8a3)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetTimer                             0x7dc67e72      0x00017e72       2212 (0x8a4)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetUserObjectInformationA            0x7dcc8cbb      0x00078cbb       2213 (0x8a5)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetUserObjectInformationW            0x7dcc8cbb      0x00078cbb       2214 (0x8a6)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetUserObjectSecurity                0x7dca947b      0x0005947b       2215 (0x8a7)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetWindowCompositionAttribute        0x7dc70949      0x00020949       2217 (0x8a9)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetWindowContextHelpId               0x7dc8eaab      0x0003eaab       2218 (0x8aa)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetWindowDisplayAffinity             0x7dcc8d5b      0x00078d5b       2219 (0x8ab)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetWindowLongA                       0x7dc8ef4a      0x0003ef4a       2220 (0x8ac)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetWindowLongW                       0x7dc68b7c      0x00018b7c       2221 (0x8ad)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetWindowPlacement                   0x7dc75359      0x00025359       2222 (0x8ae)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetWindowPos                         0x7dc6cdb4      0x0001cdb4       2223 (0x8af)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetWindowRgn                         0x7dc7255d      0x0002255d       2224 (0x8b0)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetWindowRgnEx                       0x7dcc02b1      0x000702b1       2225 (0x8b1)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetWindowsHookA                      0x7dca8c17      0x00058c17       2230 (0x8b6)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetWindowsHookExA                    0x7dc78364      0x00028364       2231 (0x8b7)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetWindowsHookExW                    0x7dc806b3      0x000306b3       2232 (0x8b8)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetWindowsHookW                      0x7dca8c32      0x00058c32       2233 (0x8b9)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetWindowStationUser                 0x7dcc0357      0x00070357       2226 (0x8b2)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetWindowTextA                       0x7dc77b22      0x00027b22       2227 (0x8b3)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetWindowTextW                       0x7dc71b4c      0x00021b4c       2228 (0x8b4)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetWindowWord                        0x7dc79004      0x00029004       2229 (0x8b5)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SetWinEventHook                      0x7dc6f0e6      0x0001f0e6       2216 (0x8a8)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SfmDxBindSwapChain                   0x7dc75dd6      0x00025dd6       2234 (0x8ba)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SfmDxGetSwapChainStats               0x7dc72859      0x00022859       2235 (0x8bb)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+    SfmDxOpenSwapChain                          0x7dcc8ddb          0x00078ddb          2236 (0x8bc)        user32.dll              C:\Windows\System32\user32.dll                    Exported Function
+
+   SfmDxQuerySwapChainBindingStatus     0x7dcc8dfb      0x00078dfb       2237 (0x8bd)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SfmDxReleaseSwapChain                0x7dc75db6      0x00025db6       2238 (0x8be)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SfmDxReportPendingBindingsToDwm      0x7dcc8e1b      0x00078e1b       2239 (0x8bf)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SfmDxSetSwapChainBindingStatus       0x7dcc8e39      0x00078e39       2240 (0x8c0)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SfmDxSetSwapChainStats               0x7dcc8e59      0x00078e59       2241 (0x8c1)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ShowCaret                            0x7dc74014      0x00024014       2242 (0x8c2)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ShowCursor                           0x7dc71fc7      0x00021fc7       2243 (0x8c3)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ShowOwnedPopups                      0x7dc7b201      0x0002b201       2244 (0x8c4)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ShowScrollBar                        0x7dc7467a      0x0002467a       2245 (0x8c5)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ShowStartGlass                       0x7dca9cd8      0x00059cd8       2246 (0x8c6)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ShowSystemCursor                     0x7dcc8e99      0x00078e99       2247 (0x8c7)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ShowWindow                           0x7dc70dbe      0x00020dbe       2248 (0x8c8)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ShowWindowAsync                      0x7dcc7f27      0x00077f27       2249 (0x8c9)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ShutdownBlockReasonCreate            0x7dcca886      0x0007a886       2250 (0x8ca)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ShutdownBlockReasonDestroy           0x7dcca8c6      0x0007a8c6       2251 (0x8cb)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ShutdownBlockReasonQuery             0x7dcca8a6      0x0007a8a6       2252 (0x8cc)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SoftModalMessageBox                  0x7dcbf179      0x0006f179       2253 (0x8cd)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SoundSentry                          0x7dc808e6      0x000308e6       2254 (0x8ce)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SubtractRect                         0x7dc7d69c      0x0002d69c       2255 (0x8cf)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SwapMouseButton                      0x7dca9cf0      0x00059cf0       2256 (0x8d0)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SwitchDesktop                        0x7dca97e4      0x000597e4       2257 (0x8d1)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SwitchDesktopWithFade                0x7dca97fc      0x000597fc       2258 (0x8d2)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SwitchToThisWindow                   0x7dca908c      0x0005908c       2259 (0x8d3)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SystemParametersInfoA                0x7dc8f9b0      0x0003f9b0       2260 (0x8d4)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   SystemParametersInfoW                0x7dc70f9f      0x00020f9f       2261 (0x8d5)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   TabbedTextOutA                       0x7dcb1980      0x00061980       2262 (0x8d6)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   TabbedTextOutW                       0x7dcb1951      0x00061951       2263 (0x8d7)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   TileChildWindows                     0x7dca9d08      0x00059d08       2264 (0x8d8)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   TileWindows                          0x7dcbd35f      0x0006d35f       2265 (0x8d9)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ToAscii                              0x7dca8f95      0x00058f95       2266 (0x8da)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ToAsciiEx                            0x7dca8ff2      0x00058ff2       2267 (0x8db)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ToUnicode                            0x7dcc02f0      0x000702f0       2268 (0x8dc)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   ToUnicodeEx                          0x7dcc0323      0x00070323       2269 (0x8dd)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   TrackMouseEvent                      0x7dc730b1      0x000230b1       2270 (0x8de)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   TrackPopupMenu                       0x7dc7782a      0x0002782a       2271 (0x8df)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   TrackPopupMenuEx                     0x7dc7784e      0x0002784e       2272 (0x8e0)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   TranslateAccelerator                 0x7dc78656      0x00028656       2273 (0x8e1)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   TranslateAcceleratorA                0x7dc78656      0x00028656       2274 (0x8e2)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   TranslateAcceleratorW                0x7dc70e3b      0x00020e3b       2275 (0x8e3)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   TranslateMDISysAccel                 0x7dc785ff      0x000285ff       2276 (0x8e4)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   TranslateMessage                     0x7dc67d79      0x00017d79       2277 (0x8e5)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   TranslateMessageEx                   0x7dc67da9      0x00017da9       2278 (0x8e6)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   UnhookWindowsHook                    0x7dca9d29      0x00059d29       2280 (0x8e8)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   UnhookWindowsHookEx                  0x7dc90efc      0x00040efc       2281 (0x8e9)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   UnhookWinEvent                       0x7dc73907      0x00023907       2279 (0x8e7)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   UnionRect                            0x7dc723d8      0x000223d8       2282 (0x8ea)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   UnloadKeyboardLayout                 0x7dca9e23      0x00059e23       2283 (0x8eb)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   UnlockWindowStation                  0x7dcc8f19      0x00078f19       2284 (0x8ec)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   UnpackDDElParam                      0x7dcb219f      0x0006219f       2285 (0x8ed)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   UnregisterClassA                     0x7dc74125      0x00024125       2286 (0x8ee)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   UnregisterClassW                     0x7dc70756      0x00020756       2287 (0x8ef)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   UnregisterDeviceNotification         0x7dc75f9d      0x00025f9d       2288 (0x8f0)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   UnregisterHotKey                     0x7dc922c4      0x000422c4       2289 (0x8f1)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   UnregisterMessagePumpHook            0x7dcc0211      0x00070211       2290 (0x8f2)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   UnregisterPowerSettingNotification   0x7dc76045      0x00026045       2291 (0x8f3)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   UnregisterSessionPort                0x7dcc8f39      0x00078f39       2292 (0x8f4)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   UnregisterTouchWindow                0x7dcc1027      0x00071027       2293 (0x8f5)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   UnregisterUserApiHook                0x7dcc8f57      0x00078f57       2294 (0x8f6)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   UpdateLayeredWindow                  0x7dc830a6      0x000330a6       2295 (0x8f7)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   UpdateLayeredWindowIndirect          0x7dc7260a      0x0002260a       2296 (0x8f8)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   UpdatePerUserSystemParameters        0x7dcc17cd      0x000717cd       2297 (0x8f9)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   UpdateWindow                         0x7dc72d12      0x00022d12       2298 (0x8fa)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   UpdateWindowTransform                0x7dcc8fb5      0x00078fb5       2299 (0x8fb)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   User32InitializeImmEntryTable        0x7dc6b37f      0x0001b37f       2300 (0x8fc)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   UserClientDllInitialize              0x7dc6ae99      0x0001ae99       2301 (0x8fd)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   UserHandleGrantAccess                0x7dcc8fd5      0x00078fd5       2302 (0x8fe)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   UserLpkPSMTextOut                    0x7dcb1ae6      0x00061ae6       2303 (0x8ff)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   UserLpkTabbedTextOut                 0x7dcb1794      0x00061794       2304 (0x900)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   UserRealizePalette                   0x7dc72b6a      0x00022b6a       2305 (0x901)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   UserRegisterWowHandlers              0x7dcaa35c      0x0005a35c       2306 (0x902)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   ValidateRect                         0x7dc808c6      0x000308c6       2309 (0x905)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   ValidateRgn                          0x7dc78cc0      0x00028cc0       2310 (0x906)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   VkKeyScanA                           0x7dc7bfa1      0x0002bfa1       2311 (0x907)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   VkKeyScanExA                         0x7dc8e0bc      0x0003e0bc       2312 (0x908)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   VkKeyScanExW                         0x7dc8daf7      0x0003daf7       2313 (0x909)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   VkKeyScanW                           0x7dc90cf0      0x00040cf0       2314 (0x90a)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   VRipOutput                           0x7dcca752      0x0007a752       2307 (0x903)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   VTagOutput                           0x7dcca75a      0x0007a75a       2308 (0x904)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   WaitForInputIdle                     0x7dca90a7      0x000590a7       2319 (0x90f)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   WaitMessage                          0x7dc74378      0x00024378       2320 (0x910)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   WCSToMBEx                            0x7dc6c904      0x0001c904       2315 (0x90b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   WindowFromDC                         0x7dc72b52      0x00022b52       2323 (0x913)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   WindowFromPhysicalPoint              0x7dcc9055      0x00079055       2324 (0x914)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   WindowFromPoint                      0x7dc72ddb      0x00022ddb       2325 (0x915)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   WinHelpA                             0x7dc87443      0x00037443       2321 (0x911)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   WinHelpW                             0x7dcb8bbb      0x00068bbb       2322 (0x912)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   WINNLSEnableIME                      0x7dcc746c      0x0007746c       2316 (0x90c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   WINNLSGetEnableStatus                0x7dcc747d      0x0007747d       2317 (0x90d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   WINNLSGetIMEHotkey                   0x7dcc7462      0x00077462       2318 (0x90e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   wsprintfA                            0x7dc7af26      0x0002af26       2331 (0x91b)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   wsprintfW                            0x7dc76502      0x00026502       2332 (0x91c)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+
+   wvsprintfA                           0x7dc7ac73      0x0002ac73       2333 (0x91d)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+   wvsprintfW                           0x7dc75e0f      0x00025e0f       2334 (0x91e)     user32.dll          C:\Windows\System32\user32.dll           Exported Function
+

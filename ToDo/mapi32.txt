@@ -1,0 +1,343 @@
+ Function Name                          Address         Relative Address Ordinal          Filename            Full Path                                Type
+   __CPPValidateParameters@8            0x03aa7ba0      0x00007ba0       188 (0xbc)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   __ValidateParameters@8               0x03aa7b21      0x00007b21       187 (0xbb)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   BMAPIAddress                         0x03aa8912      0x00008912       225 (0xe1)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   BMAPIDetails                         0x03aa8a2c      0x00008a2c       227 (0xe3)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   BMAPIFindNext                        0x03aa8884      0x00008884       224 (0xe0)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   BMAPIGetAddress                      0x03aa89a9      0x000089a9       226 (0xe2)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   BMAPIGetReadMail                     0x03aa87fc      0x000087fc       223 (0xdf)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   BMAPIReadMail                        0x03aa876b      0x0000876b       222 (0xde)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   BMAPIResolveName                     0x03aa8ab4      0x00008ab4       228 (0xe4)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   BMAPISaveMail                        0x03aa86da      0x000086da       221 (0xdd)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   BMAPISendMail                        0x03aa864c      0x0000864c       220 (0xdc)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   BuildDisplayTable@40                 0x03aa4e92      0x00004e92       46 (0x2e)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   CbOfEncoded@4                        0x03aa84a1      0x000084a1       207 (0xcf)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   CchOfEncoding@4                      0x03aa8428      0x00008428       206 (0xce)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   ChangeIdleRoutine@28                 0x03aa52c2      0x000052c2       55 (0x37)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   CloseIMsgSession@4                   0x03aa80a8      0x000080a8       197 (0xc5)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   cmc_act_on                           0x03aa8b3f      0x00008b3f       229 (0xe5)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   cmc_free                             0x03aa8bca      0x00008bca       230 (0xe6)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   cmc_list                             0x03aa8c46      0x00008c46       231 (0xe7)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   cmc_logoff                           0x03aa8cd7      0x00008cd7       232 (0xe8)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   cmc_logon                            0x03aa8d5c      0x00008d5c       233 (0xe9)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   cmc_look_up                          0x03aa8df0      0x00008df0       234 (0xea)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   cmc_query_configuration              0x03aa8e7e      0x00008e7e       235 (0xeb)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   cmc_read                             0x03aa8f03      0x00008f03       236 (0xec)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   cmc_send                             0x03aa8f8e      0x00008f8e       237 (0xed)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   cmc_send_documents                   0x03aa9016      0x00009016       238 (0xee)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   CreateIProp@24                       0x03aa53b6      0x000053b6       60 (0x3c)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   CreateTable@36                       0x03aa5441      0x00005441       61 (0x3d)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   DeinitMapiUtil@0                     0x03aa4a34      0x00004a34       34 (0x22)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   DeregisterIdleRoutine@4              0x03aa5254      0x00005254       54 (0x36)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   DllCanUnloadNow                      0x03aa4846      0x00004846       28 (0x1c)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   DllGetClassObject                    0x03aa47b9      0x000047b9       27 (0x1b)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   EnableIdleRoutine@8                  0x03aa51e3      0x000051e3       53 (0x35)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   EncodeID@12                          0x03aa8334      0x00008334       204 (0xcc)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FBadColumnSet@4                      0x03aa799f      0x0000799f       182 (0xb6)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FBadEntryList@4                      0x03aa7d1a      0x00007d1a       190 (0xbe)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FBadProp@4                           0x03aa7923      0x00007923       181 (0xb5)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FBadPropTag@4                        0x03aa782b      0x0000782b       179 (0xb3)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FBadRestriction@4                    0x03aa7d96      0x00007d96       191 (0xbf)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FBadRglpNameID@8                     0x03aa77ac      0x000077ac       178 (0xb2)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FBadRglpszA@8                        0x03aa7632      0x00007632       175 (0xaf)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FBadRglpszW@8                        0x03aa76b1      0x000076b1       176 (0xb0)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FBadRow@4                            0x03aa78a7      0x000078a7       180 (0xb4)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FBadRowSet@4                         0x03aa7730      0x00007730       177 (0xb1)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FBadSortOrderSet@4                   0x03aa7c9e      0x00007c9e       189 (0xbd)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FBinFromHex@8                        0x03aa4da2      0x00004da2       44 (0x2c)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FDecodeID@12                         0x03aa83a8      0x000083a8       205 (0xcd)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FEqualNames@8                        0x03aa5869      0x00005869       72 (0x48)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FGetComponentPath                    0x03aa2943      0x00002943       254 (0xfe)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FGetComponentPath@20                 0x03aa2943      0x00002943       255 (0xff)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FixMAPI                              0x03aa41db      0x000041db       252 (0xfc)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FixMAPI@0                            0x03aa41db      0x000041db       253 (0xfd)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FPropCompareProp@12                  0x03aa5c7a      0x00005c7a       79 (0x4f)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FPropContainsProp@12                 0x03aa5bfa      0x00005bfa       78 (0x4e)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FPropExists@8                        0x03aa666e      0x0000666e       137 (0x89)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FreePadrlist@4                       0x03aa676a      0x0000676a       139 (0x8b)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FreeProws@4                          0x03aa67d8      0x000067d8       140 (0x8c)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FtAdcFt@20                           0x03aa5fa3      0x00005fa3       122 (0x7a)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FtAddFt@16                           0x03aa5f10      0x00005f10       121 (0x79)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FtDivFtBogus@20                      0x03aa61ed      0x000061ed       127 (0x7f)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FtgRegisterIdleRoutine@20            0x03aa515e      0x0000515e       52 (0x34)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FtMulDw@12                           0x03aa60d0      0x000060d0       124 (0x7c)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FtMulDwDw@8                          0x03aa5e83      0x00005e83       125 (0x7d)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FtNegFt@8                            0x03aa6160      0x00006160       126 (0x7e)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   FtSubFt@16                           0x03aa603d      0x0000603d       123 (0x7b)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   GetAttribIMsgOnIStg@12               0x03aa8235      0x00008235       200 (0xc8)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   GetOutlookVersion                    0x03aa3440      0x00003440       250 (0xfa)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   GetOutlookVersion@0                  0x03aa3440      0x00003440       251 (0xfb)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   GetTnefStreamCodepage                0x03aa6d28      0x00006d28       154 (0x9a)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   GetTnefStreamCodepage@12             0x03aa6d28      0x00006d28       153 (0x99)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   HexFromBin@12                        0x03aa4e1e      0x00004e1e       45 (0x2d)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   HrAddColumns@16                      0x03aa5d76      0x00005d76       81 (0x51)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   HrAddColumnsEx@20                    0x03aa5dfb      0x00005dfb       82 (0x52)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   HrAllocAdviseSink@12                 0x03aa4b19      0x00004b19       36 (0x24)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   HrComposeEID@28                      0x03aa694c      0x0000694c       143 (0x8f)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   HrComposeMsgID@24                    0x03aa6a68      0x00006a68       145 (0x91)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   HrDecomposeEID@28                    0x03aa69da      0x000069da       144 (0x90)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   HrDecomposeMsgID@24                  0x03aa6af3      0x00006af3       146 (0x92)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   HrDispatchNotifications@4            0x03aa4ca3      0x00004ca3       239 (0xef)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   HrEntryIDFromSz@12                   0x03aa68c9      0x000068c9       142 (0x8e)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   HrGetOmiProvidersFlags               0x03aa42b3      0x000042b3       246 (0xf6)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   HrGetOmiProvidersFlags@8             0x03aa42b3      0x000042b3       247 (0xf7)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   HrGetOneProp@12                      0x03aa656c      0x0000656c       135 (0x87)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   HrIStorageFromStream@16              0x03aa7f18      0x00007f18       194 (0xc2)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   HrQueryAllRows@24                    0x03aa59ec      0x000059ec       75 (0x4b)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   HrSetOmiProvidersFlagsInvalid        0x03aa4332      0x00004332       248 (0xf8)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   HrSetOmiProvidersFlagsInvalid@4      0x03aa4332      0x00004332       249 (0xf9)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   HrSetOneProp@8                       0x03aa65ef      0x000065ef       136 (0x88)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   HrSzFromEntryID@12                   0x03aa6846      0x00006846       141 (0x8d)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   HrThisThreadAdviseSink@8             0x03aa4c24      0x00004c24       42 (0x2a)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   HrValidateIPMSubtree@20              0x03aa7f9d      0x00007f9d       195 (0xc3)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   HrValidateParameters@8               0x03aa7c1f      0x00007c1f       241 (0xf1)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   InstallFilterHook@4                  0x03aa50f0      0x000050f0       51 (0x33)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   IsBadBoundedStringPtr@8              0x03aa5970      0x00005970       74 (0x4a)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   LAUNCHWIZARD                         0x03aa4731      0x00004731       25 (0x19)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   LaunchWizard@20                      0x03aa4731      0x00004731       26 (0x1a)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   LPropCompareProp@8                   0x03aa5cfa      0x00005cfa       80 (0x50)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   LpValFindProp@12                     0x03aa752d      0x0000752d       173 (0xad)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPIAddress                          0x03aa9232      0x00009232       217 (0xd9)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPIAdminProfiles                    0x03aa4538      0x00004538       18 (0x12)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPIAdminProfiles@8                  0x03aa4538      0x00004538       19 (0x13)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPIAllocateBuffer                   0x03aa4436      0x00004436       12 (0xc)         mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPIAllocateBuffer@8                 0x03aa4436      0x00004436       13 (0xd)         mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPIAllocateMore                     0x03aa44b5      0x000044b5       14 (0xe)         mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPIAllocateMore@12                  0x03aa44b5      0x000044b5       15 (0xf)         mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPIDeinitIdle@0                     0x03aa5087      0x00005087       50 (0x32)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPIDeleteMail                       0x03aa9ac1      0x00009ac1       215 (0xd7)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPIDetails                          0x03aa9bbf      0x00009bbf       218 (0xda)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPIFindNext                         0x03aa9a0d      0x00009a0d       214 (0xd6)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPIFreeBuffer                       0x03aa91c5      0x000091c5       16 (0x10)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPIFreeBuffer@4                     0x03aa91c5      0x000091c5       17 (0x11)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPIGetDefaultMalloc@0               0x03aa5342      0x00005342       59 (0x3b)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPIInitialize                       0x03aa45b7      0x000045b7       20 (0x14)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPIInitialize@4                     0x03aa45b7      0x000045b7       21 (0x15)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPIInitIdle@4                       0x03aa500b      0x0000500b       49 (0x31)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPILogoff                           0x03aa9654      0x00009654       210 (0xd2)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPILogon                            0x03aa957a      0x0000957a       209 (0xd1)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPILogonEx                          0x03aa43ae      0x000043ae       10 (0xa)         mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPILogonEx@20                       0x03aa43ae      0x000043ae       11 (0xb)         mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPIOpenFormMgr                      0x03aa48bd      0x000048bd       29 (0x1d)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPIOpenFormMgr@8                    0x03aa48bd      0x000048bd       30 (0x1e)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPIOpenLocalFormContainer           0x03aa493c      0x0000493c       31 (0x1f)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPIOpenLocalFormContainer@4         0x03aa493c      0x0000493c       32 (0x20)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPIReadMail                         0x03aa92fa      0x000092fa       213 (0xd5)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPIResolveName                      0x03aa93c3      0x000093c3       219 (0xdb)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPISaveMail                         0x03aa9933      0x00009933       212 (0xd4)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPISendDocuments                    0x03aa947c      0x0000947c       208 (0xd0)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPISendMail                         0x03aa9863      0x00009863       211 (0xd3)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPIUninitialize                     0x03aa4633      0x00004633       22 (0x16)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MAPIUninitialize@0                   0x03aa4633      0x00004633       23 (0x17)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MapStorageSCode@4                    0x03aa82b8      0x000082b8       201 (0xc9)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MNLS_CompareStringW@24               0x03aa5646      0x00005646       65 (0x41)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MNLS_IsBadStringPtrW@8               0x03aa57ea      0x000057ea       68 (0x44)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MNLS_lstrcmpW@8                      0x03aa554e      0x0000554e       63 (0x3f)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MNLS_lstrcpyW@8                      0x03aa55ca      0x000055ca       64 (0x40)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MNLS_lstrlenW@4                      0x03aa54d5      0x000054d5       62 (0x3e)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MNLS_MultiByteToWideChar@24          0x03aa56ce      0x000056ce       66 (0x42)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   MNLS_WideCharToMultiByte@32          0x03aa5759      0x00005759       67 (0x43)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   OpenIMsgOnIStg@44                    0x03aa8116      0x00008116       198 (0xc6)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   OpenIMsgSession@12                   0x03aa8025      0x00008025       196 (0xc4)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   OpenStreamOnFile                     0x03aa6b7e      0x00006b7e       148 (0x94)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   OpenStreamOnFile@24                  0x03aa6b7e      0x00006b7e       147 (0x93)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   OpenTnefStream                       0x03aa6c09      0x00006c09       150 (0x96)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   OpenTnefStream@28                    0x03aa6c09      0x00006c09       149 (0x95)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   OpenTnefStreamEx                     0x03aa6c97      0x00006c97       152 (0x98)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   OpenTnefStreamEx@32                  0x03aa6c97      0x00006c97       151 (0x97)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   PpropFindProp@12                     0x03aa66ea      0x000066ea       138 (0x8a)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   PropCopyMore@16                      0x03aa5afc      0x00005afc       76 (0x4c)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   PRProviderInit                       0x03aa469c      0x0000469c       24 (0x18)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   RTFSync                              0x03aa7a1b      0x00007a1b       184 (0xb8)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   RTFSync@12                           0x03aa7a1b      0x00007a1b       183 (0xb7)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   ScBinFromHexBounded@12               0x03aa4d1f      0x00004d1f       43 (0x2b)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   ScCopyNotifications@16               0x03aa7290      0x00007290       165 (0xa5)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   ScCopyProps@16                       0x03aa7420      0x00007420       171 (0xab)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   ScCountNotifications@12              0x03aa720d      0x0000720d       164 (0xa4)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   ScCountProps@12                      0x03aa739d      0x0000739d       170 (0xaa)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   ScCreateConversationIndex@16         0x03aa5a77      0x00005a77       244 (0xf4)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   ScDupPropset@16                      0x03aa75ad      0x000075ad       174 (0xae)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   ScGenerateMuid@4                     0x03aa4a9d      0x00004a9d       35 (0x23)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   ScInitMapiUtil@4                     0x03aa49b8      0x000049b8       33 (0x21)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   ScLocalPathFromUNC@12                0x03aa7e95      0x00007e95       193 (0xc1)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   ScMAPIXFromCMC                       0x03aa85c7      0x000085c7       202 (0xca)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   ScMAPIXFromSMAPI                     0x03aa851a      0x0000851a       203 (0xcb)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   ScRelocNotifications@20              0x03aa7315      0x00007315       166 (0xa6)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   ScRelocProps@20                      0x03aa74a5      0x000074a5       172 (0xac)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   ScUNCFromLocalPath@12                0x03aa7e12      0x00007e12       192 (0xc0)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   SetAttribIMsgOnIStg@16               0x03aa81b0      0x000081b0       199 (0xc7)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   SwapPlong@8                          0x03aa4f29      0x00004f29       47 (0x2f)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   SwapPword@8                          0x03aa4f9a      0x00004f9a       48 (0x30)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   SzFindCh@8                           0x03aa637f      0x0000637f       130 (0x82)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   SzFindLastCh@8                       0x03aa63fb      0x000063fb       131 (0x83)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   SzFindSz@8                           0x03aa6477      0x00006477       132 (0x84)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   UFromSz@4                            0x03aa64f3      0x000064f3       133 (0x85)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   UlAddRef@4                           0x03aa6287      0x00006287       128 (0x80)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   UlFromSzHex@4                        0x03aa6dab      0x00006dab       155 (0x9b)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   UlPropSize@4                         0x03aa5b81      0x00005b81       77 (0x4d)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   UlRelease@4                          0x03aa6303      0x00006303       129 (0x81)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   UNKOBJ_COFree@8                      0x03aa7114      0x00007114       162 (0xa2)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   UNKOBJ_Free@8                        0x03aa6f2c      0x00006f2c       158 (0x9e)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   UNKOBJ_FreeRows@8                    0x03aa6f9d      0x00006f9d       159 (0x9f)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   UNKOBJ_ScAllocate@12                 0x03aa6e24      0x00006e24       156 (0x9c)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   UNKOBJ_ScAllocateMore@16             0x03aa6ea7      0x00006ea7       157 (0x9d)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   UNKOBJ_ScCOAllocate@12               0x03aa700e      0x0000700e       160 (0xa0)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   UNKOBJ_ScCOReallocate@12             0x03aa7091      0x00007091       161 (0xa1)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   UNKOBJ_ScSzFromIdsAlloc@20           0x03aa7185      0x00007185       163 (0xa3)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   WrapCompressedRTFStream              0x03aa7a9e      0x00007a9e       186 (0xba)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   WrapCompressedRTFStream@12           0x03aa7a9e      0x00007a9e       185 (0xb9)       mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+
+   WrapProgress@20                      0x03aa4b9c      0x00004b9c       41 (0x29)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+   WrapStoreEntryID@24                  0x03aa58e5      0x000058e5       73 (0x49)        mapi32.dll          C:\Windows\System32\mapi32.dll           Exported Function
+

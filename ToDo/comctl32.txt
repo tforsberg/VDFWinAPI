@@ -1,0 +1,201 @@
+ Function Name                          Address         Relative Address Ordinal          Filename            Full Path                                Type
+   _TrackMouseEvent                     0x6f7a58cc      0x000358cc       90 (0x5a)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   AddMRUStringW                        0x6f7939da      0x000239da       401 (0x191)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   CreateMappedBitmap                   0x6f77ab6e      0x0000ab6e       8 (0x8)          comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   CreateMRUListW                       0x6f793739      0x00023739       400 (0x190)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   CreatePropertySheetPage              0x6f795086      0x00025086       12 (0xc)         comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   CreatePropertySheetPageA             0x6f795086      0x00025086       18 (0x12)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   CreatePropertySheetPageW             0x6f79506c      0x0002506c       19 (0x13)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   CreateStatusWindow                   0x6f79a15c      0x0002a15c       20 (0x14)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   CreateStatusWindowA                  0x6f79a15c      0x0002a15c       6 (0x6)          comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   CreateStatusWindowW                  0x6f79a11f      0x0002a11f       21 (0x15)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   CreateToolbar                        0x6f79a5c1      0x0002a5c1       7 (0x7)          comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   CreateToolbarEx                      0x6f79a4da      0x0002a4da       22 (0x16)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   CreateUpDownControl                  0x6f79d85d      0x0002d85d       16 (0x10)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   DefSubclassProc                      0x6f789347      0x00019347       413 (0x19d)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   DestroyPropertySheetPage             0x6f794b46      0x00024b46       23 (0x17)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   DllGetVersion                        0x6f783436      0x00013436       24 (0x18)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   DPA_Clone                            0x6f78915f      0x0001915f       331 (0x14b)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   DPA_Create                           0x6f774834      0x00004834       328 (0x148)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   DPA_CreateEx                         0x6f77484c      0x0000484c       340 (0x154)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   DPA_DeleteAllPtrs                    0x6f777224      0x00007224       337 (0x151)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   DPA_DeletePtr                        0x6f777258      0x00007258       336 (0x150)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   DPA_Destroy                          0x6f77700e      0x0000700e       329 (0x149)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   DPA_DestroyCallback                  0x6f77704e      0x0000704e       386 (0x182)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   DPA_EnumCallback                     0x6f777072      0x00007072       385 (0x181)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   DPA_GetPtr                           0x6f776f7c      0x00006f7c       332 (0x14c)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   DPA_GetPtrIndex                      0x6f79e6ad      0x0002e6ad       333 (0x14d)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   DPA_Grow                             0x6f7770ed      0x000070ed       330 (0x14a)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   DPA_InsertPtr                        0x6f776fa6      0x00006fa6       334 (0x14e)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   DPA_LoadStream                       0x6f79ea33      0x0002ea33       9 (0x9)          comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   DPA_Merge                            0x6f79eb80      0x0002eb80       11 (0xb)         comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   DPA_SaveStream                       0x6f79e6ec      0x0002e6ec       10 (0xa)         comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   DPA_Search                           0x6f78abae      0x0001abae       339 (0x153)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   DPA_SetPtr                           0x6f788cec      0x00018cec       335 (0x14f)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   DPA_Sort                             0x6f781f40      0x00011f40       338 (0x152)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   DrawInsert                           0x6f79f323      0x0002f323       15 (0xf)         comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   DrawStatusText                       0x6f79a3ea      0x0002a3ea       25 (0x19)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   DrawStatusTextA                      0x6f79a3ea      0x0002a3ea       5 (0x5)          comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   DrawStatusTextW                      0x6f79a3c7      0x0002a3c7       26 (0x1a)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   DSA_Create                           0x6f784eba      0x00014eba       320 (0x140)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   DSA_DeleteAllItems                   0x6f79e67b      0x0002e67b       327 (0x147)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   DSA_DeleteItem                       0x6f788ca2      0x00018ca2       326 (0x146)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   DSA_Destroy                          0x6f784f08      0x00014f08       321 (0x141)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   DSA_DestroyCallback                  0x6f788f45      0x00018f45       388 (0x184)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   DSA_EnumCallback                     0x6f788f69      0x00018f69       387 (0x183)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   DSA_GetItem                          0x6f79e642      0x0002e642       322 (0x142)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   DSA_GetItemPtr                       0x6f784d53      0x00014d53       323 (0x143)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   DSA_InsertItem                       0x6f784e2a      0x00014e2a       324 (0x144)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   DSA_SetItem                          0x6f79e9a9      0x0002e9a9       325 (0x145)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   EnumMRUListW                         0x6f793e12      0x00023e12       403 (0x193)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   FlatSB_EnableScrollBar               0x6f7a20c9      0x000320c9       27 (0x1b)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   FlatSB_GetScrollInfo                 0x6f7a1f0f      0x00031f0f       28 (0x1c)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   FlatSB_GetScrollPos                  0x6f7a1ccd      0x00031ccd       29 (0x1d)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   FlatSB_GetScrollProp                 0x6f7a1d29      0x00031d29       30 (0x1e)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   FlatSB_GetScrollRange                0x6f7a1e8d      0x00031e8d       31 (0x1f)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   FlatSB_SetScrollInfo                 0x6f7a22be      0x000322be       32 (0x20)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   FlatSB_SetScrollPos                  0x6f7a216d      0x0003216d       33 (0x21)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   FlatSB_SetScrollProp                 0x6f7a238d      0x0003238d       34 (0x22)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   FlatSB_SetScrollRange                0x6f7a21e2      0x000321e2       35 (0x23)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   FlatSB_ShowScrollBar                 0x6f7a1fdb      0x00031fdb       36 (0x24)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   FreeMRUList                          0x6f793754      0x00023754       152 (0x98)       comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   GetEffectiveClientRect               0x6f7a2aad      0x00032aad       4 (0x4)          comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   GetMUILanguage                       0x6f7a2bf8      0x00032bf8       37 (0x25)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_Add                        0x6f7d6e5c      0x00066e5c       38 (0x26)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_AddIcon                    0x6f7d7685      0x00067685       39 (0x27)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_AddMasked                  0x6f779155      0x00009155       40 (0x28)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_BeginDrag                  0x6f7d6ccb      0x00066ccb       41 (0x29)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_Copy                       0x6f7d6f76      0x00066f76       42 (0x2a)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_Create                     0x6f77966c      0x0000966c       43 (0x2b)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_Destroy                    0x6f777968      0x00007968       44 (0x2c)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_DragEnter                  0x6f7d5f25      0x00065f25       45 (0x2d)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_DragLeave                  0x6f7d5f7e      0x00065f7e       46 (0x2e)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_DragMove                   0x6f7d5f53      0x00065f53       47 (0x2f)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_DragShowNolock             0x6f7d5fa6      0x00065fa6       48 (0x30)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_Draw                       0x6f77e0d3      0x0000e0d3       49 (0x31)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_DrawEx                     0x6f78420b      0x0001420b       50 (0x32)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_DrawIndirect               0x6f77881a      0x0000881a       51 (0x33)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_Duplicate                  0x6f784597      0x00014597       52 (0x34)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_EndDrag                    0x6f7d5ee7      0x00065ee7       53 (0x35)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_GetBkColor                 0x6f77df8c      0x0000df8c       54 (0x36)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_GetDragImage               0x6f7d6c98      0x00066c98       55 (0x37)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_GetFlags                   0x6f7d710e      0x0006710e       56 (0x38)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_GetIcon                    0x6f7d6f2f      0x00066f2f       57 (0x39)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_GetIconSize                0x6f784091      0x00014091       58 (0x3a)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_GetImageCount              0x6f7840d9      0x000140d9       59 (0x3b)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_GetImageInfo               0x6f784135      0x00014135       60 (0x3c)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_GetImageRect               0x6f7d6dd1      0x00066dd1       61 (0x3d)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_LoadImage                  0x6f782d92      0x00012d92       62 (0x3e)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_LoadImageA                 0x6f782d92      0x00012d92       63 (0x3f)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_LoadImageW                 0x6f782de2      0x00012de2       64 (0x40)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_Merge                      0x6f7d7010      0x00067010       65 (0x41)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_Read                       0x6f7845dc      0x000145dc       66 (0x42)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_Remove                     0x6f7d6eea      0x00066eea       67 (0x43)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_Replace                    0x6f7841c0      0x000141c0       68 (0x44)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   ImageList_ReplaceIcon                0x6f7d6ea3      0x00066ea3       69 (0x45)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_SetBkColor                 0x6f77a824      0x0000a824       70 (0x46)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   ImageList_SetDragCursorImage         0x6f7d6c44      0x00066c44       75 (0x4b)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   ImageList_SetFilter                  0x6f7d5fce      0x00065fce       76 (0x4c)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_SetFlags                   0x6f7d707f      0x0006707f       77 (0x4d)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   ImageList_SetIconSize                0x6f7d6fc8      0x00066fc8       78 (0x4e)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   ImageList_SetImageCount              0x6f7d6e17      0x00066e17       79 (0x4f)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   ImageList_SetOverlayImage            0x6f77f46b      0x0000f46b       80 (0x50)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   ImageList_Write                      0x6f7d6d79      0x00066d79       81 (0x51)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   InitCommonControls                   0x6f771739      0x00001739       17 (0x11)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   InitCommonControlsEx                 0x6f776bf1      0x00006bf1       82 (0x52)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   InitializeFlatSB                     0x6f7a266f      0x0003266f       84 (0x54)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   InitMUILanguage                      0x6f7a2bcb      0x00032bcb       83 (0x53)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   LBItemFromPt                         0x6f79f210      0x0002f210       14 (0xe)         comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   MakeDragList                         0x6f79f752      0x0002f752       13 (0xd)         comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   MenuHelp                             0x6f7a27d5      0x000327d5       2 (0x2)          comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   PropertySheet                        0x6f799ff9      0x00029ff9       85 (0x55)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   PropertySheetA                       0x6f799ff9      0x00029ff9       86 (0x56)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   PropertySheetW                       0x6f799fe1      0x00029fe1       87 (0x57)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   RegisterClassNameW                   0x6f785417      0x00015417       88 (0x58)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   RemoveWindowSubclass                 0x6f788df6      0x00018df6       412 (0x19c)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   SetWindowSubclass                    0x6f788f9f      0x00018f9f       410 (0x19a)      comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   ShowHideMenuCtl                      0x6f7a29e2      0x000329e2       3 (0x3)          comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+
+   Str_SetPtrW                          0x6f788d2a      0x00018d2a       236 (0xec)       comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+   UninitializeFlatSB                   0x6f7a2542      0x00032542       89 (0x59)        comctl32.dll        C:\Windows\System32\comctl32.dll         Exported Function
+

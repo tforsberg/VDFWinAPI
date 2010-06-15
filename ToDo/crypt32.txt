@@ -1,0 +1,547 @@
+ Function Name                          Address         Relative Address Ordinal          Filename            Full Path                                Type
+   CertAddCertificateContextToStore     0x719e506a      0x0003506a       1028 (0x404)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertAddCertificateLinkToStore        0x71a02763      0x00052763       1029 (0x405)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   CertAddCRLContextToStore             0x719e506a      0x0003506a       1024 (0x400)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   CertAddCRLLinkToStore                0x71a02763      0x00052763       1025 (0x401)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   CertAddCTLContextToStore             0x719e506a      0x0003506a       1026 (0x402)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertAddCTLLinkToStore                0x71a02763      0x00052763       1027 (0x403)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   CertAddEncodedCertificateToStore     0x719c18c9      0x000118c9       1032 (0x408)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   CertAddEncodedCertificateToSystem... 0x71a03e39      0x00053e39       1033 (0x409)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   CertAddEncodedCertificateToSystem... 0x71a03e83      0x00053e83       1034 (0x40a)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertAddEncodedCRLToStore             0x719df41e      0x0002f41e       1030 (0x406)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   CertAddEncodedCTLToStore             0x719e99d1      0x000399d1       1031 (0x407)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   CertAddEnhancedKeyUsageIdentifier    0x71a04358      0x00054358       1035 (0x40b)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertAddRefServerOcspResponse         0x71a04959      0x00054959       1036 (0x40c)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   CertAddRefServerOcspResponseCont...  0x71a049ba      0x000549ba       1037 (0x40d)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   CertAddSerializedElementToStore      0x719c0b62      0x00010b62       1038 (0x40e)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   CertAddStoreToCollection             0x719c1b30      0x00011b30       1039 (0x40f)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertAlgIdToOID                       0x719daccc      0x0002accc       1040 (0x410)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   CertCloseServerOcspResponse          0x71a04978      0x00054978       1041 (0x411)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   CertCloseStore                       0x719bd8b5      0x0000d8b5       1042 (0x412)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   CertCompareCertificate               0x719d66d1      0x000266d1       1043 (0x413)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertCompareCertificateName           0x719cfeba      0x0001feba       1044 (0x414)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   CertCompareIntegerBlob               0x719d66fc      0x000266fc       1045 (0x415)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   CertComparePublicKeyInfo             0x719cfe23      0x0001fe23       1046 (0x416)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   CertControlStore                     0x719c1601      0x00011601       1047 (0x417)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertCreateCertificateChainEngine     0x719d4193      0x00024193       1051 (0x41b)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   CertCreateCertificateContext         0x719c192d      0x0001192d       1052 (0x41c)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertCreateContext                    0x719da6e1      0x0002a6e1       1053 (0x41d)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertCreateCRLContext                 0x71a02ccd      0x00052ccd       1048 (0x418)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertCreateCTLContext                 0x71a02cf4      0x00052cf4       1049 (0x419)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertCreateCTLEntryFromCertificateC...0x71a01e44      0x00051e44       1050 (0x41a)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertCreateSelfSignCertificate        0x71a0589b      0x0005589b       1054 (0x41e)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertDeleteCertificateFromStore       0x719e55d7      0x000355d7       1057 (0x421)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertDeleteCRLFromStore               0x719e55d7      0x000355d7       1055 (0x41f)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertDeleteCTLFromStore               0x719e55d7      0x000355d7       1056 (0x420)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertDuplicateCertificateChain        0x719e2b02      0x00032b02       1060 (0x424)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertDuplicateCertificateContext      0x719c6e35      0x00016e35       1061 (0x425)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertDuplicateCRLContext              0x719c6e35      0x00016e35       1058 (0x422)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertDuplicateCTLContext              0x719c6e35      0x00016e35       1059 (0x423)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertDuplicateStore                   0x719c1b11      0x00011b11       1062 (0x426)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertEnumCertificateContextProperties 0x719e9e18      0x00039e18       1067 (0x42b)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertEnumCertificatesInStore          0x719be0aa      0x0000e0aa       1068 (0x42c)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertEnumCRLContextProperties         0x719e9e18      0x00039e18       1063 (0x427)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertEnumCRLsInStore                  0x719df3e8      0x0002f3e8       1064 (0x428)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertEnumCTLContextProperties         0x719e9e18      0x00039e18       1065 (0x429)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertEnumCTLsInStore                  0x719c74e3      0x000174e3       1066 (0x42a)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertEnumPhysicalStore                0x71a07b48      0x00057b48       1069 (0x42d)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertEnumSubjectInSortedCTL           0x71a01728      0x00051728       1070 (0x42e)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertEnumSystemStore                  0x71a07724      0x00057724       1071 (0x42f)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertEnumSystemStoreLocation          0x719b79b1      0x000079b1       1072 (0x430)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertFindAttribute                    0x719d6ebf      0x00026ebf       1073 (0x431)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertFindCertificateInCRL             0x719df337      0x0002f337       1076 (0x434)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertFindCertificateInStore           0x719c2146      0x00012146       1077 (0x435)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertFindChainInStore                 0x71a08f3f      0x00058f3f       1078 (0x436)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertFindCRLInStore                   0x719dedcc      0x0002edcc       1074 (0x432)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertFindCTLInStore                   0x71a027b5      0x000527b5       1075 (0x433)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertFindExtension                    0x719c1ea8      0x00011ea8       1079 (0x437)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertFindRDNAttr                      0x71a054af      0x000554af       1080 (0x438)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertFindSubjectInCTL                 0x719ea379      0x0003a379       1081 (0x439)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertFindSubjectInSortedCTL           0x719dc769      0x0002c769       1082 (0x43a)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertFreeCertificateChain             0x719c3499      0x00013499       1085 (0x43d)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertFreeCertificateChainEngine       0x71a4d5e8      0x0009d5e8       1086 (0x43e)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertFreeCertificateChainList         0x71a08ff5      0x00058ff5       1087 (0x43f)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertFreeCertificateContext           0x719bd52e      0x0000d52e       1088 (0x440)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertFreeCRLContext                   0x719bd52e      0x0000d52e       1083 (0x43b)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertFreeCTLContext                   0x719bd52e      0x0000d52e       1084 (0x43c)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertFreeServerOcspResponseContext    0x71a049d9      0x000549d9       1089 (0x441)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertGetCertificateChain              0x719c9297      0x00019297       1093 (0x445)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertGetCertificateContextProperty    0x719c0735      0x00010735       1094 (0x446)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertGetCRLContextProperty            0x719c0735      0x00010735       1090 (0x442)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertGetCRLFromStore                  0x71a02c1b      0x00052c1b       1091 (0x443)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertGetCTLContextProperty            0x719c0735      0x00010735       1092 (0x444)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertGetEnhancedKeyUsage              0x719cfab8      0x0001fab8       1095 (0x447)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertGetIntendedKeyUsage              0x71a0551f      0x0005551f       1096 (0x448)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertGetIssuerCertificateFromStore    0x71a03812      0x00053812       1097 (0x449)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertGetNameStringA                   0x71a098d6      0x000598d6       1098 (0x44a)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertGetNameStringW                   0x719d26f5      0x000226f5       1099 (0x44b)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertGetPublicKeyLength               0x71a0a6aa      0x0005a6aa       1100 (0x44c)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertGetServerOcspResponseContext     0x71a04c49      0x00054c49       1101 (0x44d)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertGetStoreProperty                 0x71a01b2a      0x00051b2a       1102 (0x44e)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertGetSubjectCertificateFromStore   0x719d6fad      0x00026fad       1103 (0x44f)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertGetValidUsages                   0x719d2cec      0x00022cec       1104 (0x450)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertIsRDNAttrsInCertificateName      0x71a050e3      0x000550e3       1105 (0x451)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertIsValidCRLForCertificate         0x719df366      0x0002f366       1106 (0x452)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertNameToStrA                       0x71a09793      0x00059793       1107 (0x453)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertNameToStrW                       0x719d308e      0x0002308e       1108 (0x454)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertOIDToAlgId                       0x719d6e8b      0x00026e8b       1109 (0x455)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertOpenServerOcspResponse           0x71a04ff5      0x00054ff5       1110 (0x456)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertOpenStore                        0x719bdad1      0x0000dad1       1111 (0x457)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertOpenSystemStoreA                 0x71a03db3      0x00053db3       1112 (0x458)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertOpenSystemStoreW                 0x71a03df5      0x00053df5       1113 (0x459)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertRDNValueToStrA                   0x71a09619      0x00059619       1114 (0x45a)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertRDNValueToStrW                   0x71a0903a      0x0005903a       1115 (0x45b)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertRegisterPhysicalStore            0x71a071f0      0x000571f0       1116 (0x45c)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertRegisterSystemStore              0x71a07152      0x00057152       1117 (0x45d)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertRemoveEnhancedKeyUsageIdenti...  0x71a0449e      0x0005449e       1118 (0x45e)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertRemoveStoreFromCollection        0x719e0e39      0x00030e39       1119 (0x45f)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertResyncCertificateChainEngine     0x71a4d614      0x0009d614       1120 (0x460)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertRetrieveLogoOrBiometricInfo      0x71a0aa9e      0x0005aa9e       1121 (0x461)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertSaveStore                        0x71a02b14      0x00052b14       1122 (0x462)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertSelectCertificateChains          0x71a08fe5      0x00058fe5       1123 (0x463)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertSerializeCertificateStoreElement 0x719e4910      0x00034910       1126 (0x466)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertSerializeCRLStoreElement         0x719e4910      0x00034910       1124 (0x464)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertSerializeCTLStoreElement         0x719e4910      0x00034910       1125 (0x465)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertSetCertificateContextPropertiesFr0x719ea49f      0x0003a49f       1129 (0x469)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertSetCertificateContextProperty    0x719c56bd      0x000156bd       1130 (0x46a)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertSetCRLContextProperty            0x719c56bd      0x000156bd       1127 (0x467)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertSetCTLContextProperty            0x719c56bd      0x000156bd       1128 (0x468)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertSetEnhancedKeyUsage              0x71a042f8      0x000542f8       1131 (0x46b)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertSetStoreProperty                 0x71a01af3      0x00051af3       1132 (0x46c)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertStrToNameA                       0x71a097ee      0x000597ee       1133 (0x46d)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertStrToNameW                       0x719e62e5      0x000362e5       1134 (0x46e)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertUnregisterPhysicalStore          0x71a07501      0x00057501       1135 (0x46f)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertUnregisterSystemStore            0x71a073e1      0x000573e1       1136 (0x470)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertVerifyCertificateChainPolicy     0x719cb476      0x0001b476       1140 (0x474)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertVerifyCRLRevocation              0x71a0544f      0x0005544f       1137 (0x471)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertVerifyCRLTimeValidity            0x71a0539d      0x0005539d       1138 (0x472)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertVerifyCTLUsage                   0x71a0b07f      0x0005b07f       1139 (0x473)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertVerifyRevocation                 0x719ddf9e      0x0002df9e       1141 (0x475)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertVerifySubjectCertificateContext  0x71a038c4      0x000538c4       1142 (0x476)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertVerifyTimeValidity               0x719c56ea      0x000156ea       1143 (0x477)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CertVerifyValidityNesting            0x71a0540c      0x0005540c       1144 (0x478)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CreateFileU                          0x719d63af      0x000263af       1145 (0x479)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptAcquireCertificatePrivateKey    0x71a039a1      0x000539a1       1146 (0x47a)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptAcquireContextU                 0x719ffa91      0x0004fa91       1012 (0x3f4)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptBinaryToStringA                 0x719e9685      0x00039685       1147 (0x47b)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptBinaryToStringW                 0x719e930a      0x0003930a       1148 (0x47c)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptCloseAsyncHandle                0x71a25d33      0x00075d33       1149 (0x47d)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptCreateAsyncHandle               0x71a0b876      0x0005b876       1150 (0x47e)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptCreateKeyIdentifierFromCSP      0x71a0a0a4      0x0005a0a4       1151 (0x47f)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptDecodeMessage                   0x71a0d4ec      0x0005d4ec       1152 (0x480)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptDecodeObject                    0x719c17a1      0x000117a1       1153 (0x481)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptDecodeObjectEx                  0x719bf120      0x0000f120       1154 (0x482)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptDecryptAndVerifyMessageSigna... 0x71a0d3f3      0x0005d3f3       1155 (0x483)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptDecryptMessage                  0x71a0d3c0      0x0005d3c0       1156 (0x484)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptEncodeObject                    0x719cfbde      0x0001fbde       1157 (0x485)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptEncodeObjectEx                  0x719cdd5a      0x0001dd5a       1158 (0x486)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptEncryptMessage                  0x71a0c32f      0x0005c32f       1159 (0x487)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptEnumKeyIdentifierProperties     0x71a035fa      0x000535fa       1160 (0x488)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptEnumOIDFunction                 0x719bb88f      0x0000b88f       1161 (0x489)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptEnumOIDInfo                     0x71a16515      0x00066515       1162 (0x48a)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptEnumProvidersU                  0x719ffaa1      0x0004faa1       1013 (0x3f5)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptExportPKCS8                     0x71a407c6      0x000907c6       1163 (0x48b)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptExportPublicKeyInfo             0x719e5f07      0x00035f07       1164 (0x48c)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptExportPublicKeyInfoEx           0x719e5f2e      0x00035f2e       1165 (0x48d)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptExportPublicKeyInfoFromBCrypt...0x71a0a06f      0x0005a06f       1166 (0x48e)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptFindCertificateKeyProvInfo      0x71a05792      0x00055792       1167 (0x48f)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptFindLocalizedName               0x71a15a5c      0x00065a5c       1168 (0x490)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptFindOIDInfo                     0x719c40d5      0x000140d5       1169 (0x491)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptFormatObject                    0x71a16883      0x00066883       1170 (0x492)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptFreeOIDFunctionAddress          0x719ba0a6      0x0000a0a6       1171 (0x493)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptGetAsyncParam                   0x71a0b8a6      0x0005b8a6       1172 (0x494)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptGetDefaultOIDDllList            0x719de71a      0x0002e71a       1173 (0x495)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptGetDefaultOIDFunctionAddress    0x719de87e      0x0002e87e       1174 (0x496)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptGetKeyIdentifierProperty        0x71a033e7      0x000533e7       1175 (0x497)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptGetMessageCertificates          0x71a0b93c      0x0005b93c       1176 (0x498)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptGetMessageSignerCount           0x71a0b8d2      0x0005b8d2       1177 (0x499)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptGetOIDFunctionAddress           0x719ba010      0x0000a010       1178 (0x49a)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptGetOIDFunctionValue             0x71a150af      0x000650af       1179 (0x49b)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptHashCertificate                 0x719c6dde      0x00016dde       1181 (0x49d)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptHashCertificate2                0x719df6c1      0x0002f6c1       1180 (0x49c)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptHashMessage                     0x71a0b96c      0x0005b96c       1182 (0x49e)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptHashPublicKeyInfo               0x719d81f1      0x000281f1       1183 (0x49f)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptHashToBeSigned                  0x719c91e4      0x000191e4       1184 (0x4a0)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptImportPKCS8                     0x71a402f5      0x000902f5       1185 (0x4a1)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptImportPublicKeyInfo             0x719c7400      0x00017400       1186 (0x4a2)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptImportPublicKeyInfoEx           0x719c7424      0x00017424       1188 (0x4a4)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptImportPublicKeyInfoEx2          0x71a2216d      0x0007216d       1187 (0x4a3)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptInitOIDFunctionSet              0x719b72ee      0x000072ee       1189 (0x4a5)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptInstallDefaultContext           0x71a22c85      0x00072c85       1190 (0x4a6)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptInstallOIDFunctionAddress       0x719b73d9      0x000073d9       1191 (0x4a7)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptLoadSip                         0x71a3f3e3      0x0008f3e3       1192 (0x4a8)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptMemAlloc                        0x719d6c89      0x00026c89       1193 (0x4a9)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptMemFree                         0x719b45ab      0x000045ab       1194 (0x4aa)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptMemRealloc                      0x719daa95      0x0002aa95       1195 (0x4ab)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptMsgCalculateEncodedLength       0x71a31430      0x00081430       1196 (0x4ac)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptMsgClose                        0x719cffe9      0x0001ffe9       1197 (0x4ad)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptMsgControl                      0x719d7b58      0x00027b58       1198 (0x4ae)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptMsgCountersign                  0x71a39061      0x00089061       1199 (0x4af)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptMsgCountersignEncoded           0x71a38e21      0x00088e21       1200 (0x4b0)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptMsgDuplicate                    0x719db20e      0x0002b20e       1201 (0x4b1)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptMsgEncodeAndSignCTL             0x71a39215      0x00089215       1202 (0x4b2)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptMsgGetAndVerifySigner           0x719e154c      0x0003154c       1203 (0x4b3)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptMsgGetParam                     0x719ce5e5      0x0001e5e5       1204 (0x4b4)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptMsgOpenToDecode                 0x719cf1da      0x0001f1da       1205 (0x4b5)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptMsgOpenToEncode                 0x71a38d62      0x00088d62       1206 (0x4b6)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptMsgSignCTL                      0x71a3917f      0x0008917f       1207 (0x4b7)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptMsgUpdate                       0x719cf2f8      0x0001f2f8       1208 (0x4b8)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptMsgVerifyCountersignatureEnco...0x71a36d5e      0x00086d5e       1209 (0x4b9)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptMsgVerifyCountersignatureEnco...0x719dcb33      0x0002cb33       1210 (0x4ba)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptProtectData                     0x719e2d21      0x00032d21       1211 (0x4bb)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptProtectMemory                   0x719e8d6e      0x00038d6e       1212 (0x4bc)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptQueryObject                     0x719ccf49      0x0001cf49       1213 (0x4bd)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptRegisterDefaultOIDFunction      0x71a1536b      0x0006536b       1214 (0x4be)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptRegisterOIDFunction             0x71a15150      0x00065150       1215 (0x4bf)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptRegisterOIDInfo                 0x71a16396      0x00066396       1216 (0x4c0)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptRetrieveTimeStamp               0x71a5b64b      0x000ab64b       1217 (0x4c1)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptSetAsyncParam                   0x71a0b894      0x0005b894       1228 (0x4cc)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptSetKeyIdentifierProperty        0x719e4740      0x00034740       1229 (0x4cd)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptSetOIDFunctionValue             0x71a1500a      0x0006500a       1230 (0x4ce)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptSetProviderU                    0x719ffad1      0x0004fad1       1014 (0x3f6)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptSignAndEncodeCertificate        0x71a052a9      0x000552a9       1231 (0x4cf)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptSignAndEncryptMessage           0x71a0cee0      0x0005cee0       1232 (0x4d0)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptSignCertificate                 0x719e3e97      0x00033e97       1233 (0x4d1)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptSignHashU                       0x719ffab1      0x0004fab1       1015 (0x3f7)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptSignMessage                     0x71a0ce51      0x0005ce51       1234 (0x4d2)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptSignMessageWithKey              0x71a0c415      0x0005c415       1235 (0x4d3)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptSIPAddProvider                  0x71a3f51b      0x0008f51b       1218 (0x4c2)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptSIPCreateIndirectData           0x719dad0b      0x0002ad0b       1219 (0x4c3)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptSIPGetSignedDataMsg             0x719bb6e8      0x0000b6e8       1220 (0x4c4)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptSIPLoad                         0x719bb63e      0x0000b63e       1221 (0x4c5)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptSIPPutSignedDataMsg             0x71a3f6e8      0x0008f6e8       1222 (0x4c6)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptSIPRemoveProvider               0x71a3f3f3      0x0008f3f3       1223 (0x4c7)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptSIPRemoveSignedDataMsg          0x71a3f781      0x0008f781       1224 (0x4c8)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptSIPRetrieveSubjectGuid          0x719bb3a9      0x0000b3a9       1225 (0x4c9)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptSIPRetrieveSubjectGuidForCatal..0x719dad9a      0x0002ad9a       1226 (0x4ca)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptSIPVerifyIndirectData           0x719da1b1      0x0002a1b1       1227 (0x4cb)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptStringToBinaryA                 0x719d1360      0x00021360       1236 (0x4d4)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptStringToBinaryW                 0x719d182d      0x0002182d       1237 (0x4d5)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptUninstallDefaultContext         0x71a22e01      0x00072e01       1238 (0x4d6)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptUnprotectData                   0x719e777f      0x0003777f       1239 (0x4d7)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptUnprotectMemory                 0x719e8d95      0x00038d95       1240 (0x4d8)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptUnregisterDefaultOIDFunction    0x71a155b8      0x000655b8       1241 (0x4d9)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptUnregisterOIDFunction           0x71a151f0      0x000651f0       1242 (0x4da)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptUnregisterOIDInfo               0x71a164d8      0x000664d8       1243 (0x4db)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptUpdateProtectedState            0x71a5d20a      0x000ad20a       1244 (0x4dc)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptVerifyCertificateSignature      0x71a05865      0x00055865       1245 (0x4dd)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptVerifyCertificateSignatureEx    0x719c7155      0x00017155       1246 (0x4de)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptVerifyDetachedMessageHash       0x71a0c3e6      0x0005c3e6       1247 (0x4df)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptVerifyDetachedMessageSignature  0x71a0d38a      0x0005d38a       1248 (0x4e0)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptVerifyMessageHash               0x71a0c3b9      0x0005c3b9       1249 (0x4e1)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptVerifyMessageSignature          0x71a0d356      0x0005d356       1250 (0x4e2)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptVerifyMessageSignatureWithKey   0x71a0c5db      0x0005c5db       1251 (0x4e3)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptVerifySignatureU                0x719ffac1      0x0004fac1       1016 (0x3f8)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   CryptVerifyTimeStampSignature        0x71a5b8c5      0x000ab8c5       1252 (0x4e4)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CertDiagControl                    0x719bac23      0x0000ac23       1253 (0x4e5)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CertProtectFunction                0x719e1e3c      0x00031e3c       1254 (0x4e6)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CertSrvProtectFunction             0x719ea17b      0x0003a17b       1255 (0x4e7)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CertSyncStore                      0x719d0693      0x00020693       1256 (0x4e8)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CertUpdateStore                    0x719df478      0x0002f478       1257 (0x4e9)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptAddRefLruEntry                0x719c7563      0x00017563       1258 (0x4ea)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptAddSmartCardCertToStore       0x71a25ec9      0x00075ec9       1259 (0x4eb)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptAllocTls                      0x719b46f1      0x000046f1       1260 (0x4ec)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptCreateLruCache                0x719b4912      0x00004912       1261 (0x4ed)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptCreateLruEntry                0x719c330f      0x0001330f       1262 (0x4ee)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptDetachTls                     0x719b4607      0x00004607       1263 (0x4ef)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptDisableLruOfEntries           0x71a4d72a      0x0009d72a       1264 (0x4f0)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptEnableLruOfEntries            0x71a4d823      0x0009d823       1265 (0x4f1)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptEnumMatchingLruEntries        0x719c973e      0x0001973e       1266 (0x4f2)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptFindLruEntry                  0x719c31d8      0x000131d8       1267 (0x4f3)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptFindLruEntryData              0x719d33cd      0x000233cd       1268 (0x4f4)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptFindSmartCardCertInStore      0x71a25d45      0x00075d45       1269 (0x4f5)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptFlushLruCache                 0x719b9fa6      0x00009fa6       1270 (0x4f6)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptFreeLruCache                  0x719bd619      0x0000d619       1271 (0x4f7)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptFreeTls                       0x719e820d      0x0003820d       1272 (0x4f8)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptGetAsn1Decoder                0x719bf1d1      0x0000f1d1       1273 (0x4f9)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptGetAsn1Encoder                0x719c3b64      0x00013b64       1274 (0x4fa)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptGetDefaultCryptProv           0x719c3841      0x00013841       1275 (0x4fb)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptGetDefaultCryptProvForEncrypt 0x71a22b15      0x00072b15       1276 (0x4fc)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptGetFileVersion                0x71a5b8f2      0x000ab8f2       1277 (0x4fd)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptGetLruEntryData               0x719c3447      0x00013447       1278 (0x4fe)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptGetLruEntryIdentifier         0x71a4d716      0x0009d716       1279 (0x4ff)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptGetOssGlobal                  0x71a25f7c      0x00075f7c       1280 (0x500)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptGetTls                        0x719ba1f6      0x0000a1f6       1281 (0x501)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptInsertLruEntry                0x719c328a      0x0001328a       1282 (0x502)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptInstallAsn1Module             0x719b49d8      0x000049d8       1283 (0x503)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptInstallOssGlobal              0x71a25f6a      0x00075f6a       1284 (0x504)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   I_CryptReadTrustedPublisherDWORD...  0x719baca6      0x0000aca6       1285 (0x505)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptRegisterSmartCardStore        0x71a25d21      0x00075d21       1286 (0x506)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   I_CryptReleaseLruEntry               0x719c31c2      0x000131c2       1287 (0x507)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   I_CryptRemoveLruEntry                0x719cbf1a      0x0001bf1a       1288 (0x508)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptSetTls                        0x719c2e32      0x00012e32       1289 (0x509)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   I_CryptTouchLruEntry                 0x719ddecf      0x0002decf       1290 (0x50a)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   I_CryptUninstallAsn1Module           0x719e81f5      0x000381f5       1291 (0x50b)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   I_CryptUninstallOssGlobal            0x71a25f7c      0x00075f7c       1292 (0x50c)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   I_CryptUnregisterSmartCardStore      0x71a25d33      0x00075d33       1293 (0x50d)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   I_CryptWalkAllLruCacheEntries        0x71a4d740      0x0009d740       1294 (0x50e)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   PFXExportCertStore                   0x71a41092      0x00091092       1296 (0x510)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   PFXExportCertStore2                  0x71a40970      0x00090970       1295 (0x50f)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   PFXExportCertStoreEx                 0x71a40fe5      0x00090fe5       1297 (0x511)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   PFXImportCertStore                   0x71a40d60      0x00090d60       1298 (0x512)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   PFXIsPFXBlob                         0x71a40ab2      0x00090ab2       1299 (0x513)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   PFXVerifyPassword                    0x71a4114c      0x0009114c       1300 (0x514)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   RegCreateHKCUKeyExU                  0x719bef26      0x0000ef26       1301 (0x515)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   RegCreateKeyExU                      0x719ffa31      0x0004fa31       1017 (0x3f9)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   RegDeleteValueU                      0x719ffa61      0x0004fa61       1018 (0x3fa)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   RegEnumValueU                        0x719ffa41      0x0004fa41       1019 (0x3fb)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   RegOpenHKCUKeyExU                    0x719ba115      0x0000a115       1302 (0x516)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   RegOpenKeyExU                        0x719ffb2c      0x0004fb2c       1020 (0x3fc)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   RegQueryInfoKeyU                     0x719ffa71      0x0004fa71       1021 (0x3fd)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
+   RegQueryValueExU                     0x719ffa81      0x0004fa81       1022 (0x3fe)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+   RegSetValueExU                       0x719ffa51      0x0004fa51       1023 (0x3ff)     crypt32.dll         C:\Windows\System32\crypt32.dll          Exported Function
+
