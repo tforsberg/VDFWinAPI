@@ -31,29 +31,55 @@
 //
 //==============================================================================
 
-Use UI
+// http://support.dataaccess.com/Forums/showthread.php?44409-Can-I-check-at-runtime-whether-the-debugger-is-available-or-not&p=216854&highlight=isdebuggerpresent#post216854
+// External_Function IsDeuggerPresent "IsDeuggerPresent" Kernel32.dll Returns Integer
+// Send Info_Box (IsDebuggerPresent())
 
+Use VdfBase.pkg
+Use GlobalFunctionsProcedures.pkg
+
+Use WinAPI_Kernel.h
 Use cWinAPI_Kernel32_GlobalMemoryStatus.pkg
+
 
 Class cWinAPI_Kernel32 is a cObject
     
-  Procedure Construct_Object
-    Forward Send Construct_Object
-  End_Procedure
+    Procedure Construct_Object
+        Forward Send Construct_Object
+    End_Procedure
+    
+    Procedure End_Construct_Object
+        Forward Send End_Construct_Object
+    End_Procedure
+    
+    {MethodType = Property}
+    Function ptGlobalMemoryStatus Returns tWINAPI_MEMORYSTATUS
+        Handle hMem
+        tWINAPI_MEMORYSTATUS MyMemory
+        Get Create (RefClass(cWinAPI_Kernel32_GlobalMemoryStatus)) to hMem
+        Get ptGlobalMemoryStatus of hMem to MyMemory    
+        Send Destroy of hMem
+        Function_Return MyMemory
+    End_Function
 
-  Procedure End_Construct_Object
-    Forward Send End_Construct_Object
-  End_Procedure
+    Function piTickCount Returns DWord
+        Function_Return (WINAPI_GetTickCount())
+    End_Function
 
-  Function GlobalMemoryStatus Returns tWINAPI_MEMORYSTATUS
-    Handle hMem
-    tWINAPI_MEMORYSTATUS MyMemory
-    Get Create (RefClass(cWinAPI_Kernel32_GlobalMemoryStatus)) to hMem
-    Get ptGlobalMemoryStatus of hMem to MyMemory    
-    Send Destroy of hMem
-    Function_Return MyMemory
-  End_Function
-  
+    Function psComputername Returns String
+        Pointer lpComputerName lpNameSize
+        String sComputerName sNameSize
+        Integer iRetval
+        
+        Move (Repeat (Character (0), MAX_COMPUTERNAME_LENGTH + 1)) to sComputerName
+        GetAddress of sComputerName to lpComputerName
+        Move (DwordToBytes (MAX_COMPUTERNAME_LENGTH + 1)) to sNameSize
+        GetAddress of sNameSize to lpNameSize
+        Move (WINAPI_GetComputerNameA(lpComputerName, lpNameSize)) to iRetval
+        
+        Function_Return (CString (sComputerName))
+    End_Function // ComputerName
+
 End_Class
 
 // End of File: cWinAPI_Kernel32.pkg

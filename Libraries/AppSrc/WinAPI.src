@@ -102,6 +102,17 @@ Object oMain is a Panel
                     Send Activate_oKernel32_VW of hoClient
                   End_Procedure
                 End_Object
+
+                Object ooShell32VWMenuItem is a cCJMenuItem
+                    Set psCaption to "oShell32_VW"
+                    Set psTooltip to "oShell32_VW"
+                
+                    Procedure OnExecute Variant vCommandBarControl
+                        Handle hoClient
+                        Get Client_Id to hoClient
+                        Send Activate_oShell32_VW of hoClient
+                    End_Procedure
+                End_Object
             End_Object
             
             Object oReportMenu is a cCJMenuItem
@@ -284,7 +295,8 @@ Object oMain is a Panel
 
     Object oClientArea is a ClientArea
         Use StdAbout.pkg
-      Use oKernel32.vw
+        Use oKernel32.vw
+        Use oShell32.vw
 
         Procedure Activate_About
             Send DoAbout "" "" "" "" ""
@@ -295,3 +307,5 @@ Object oMain is a Panel
 End_Object
 
 Start_UI
+
+// End of File: WinAPI.src

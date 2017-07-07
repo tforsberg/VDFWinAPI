@@ -1,6 +1,7 @@
 Use Windows.pkg
 Use DFClient.pkg
 
+Use cWinAPI_Kernel32_GlobalMemoryStatusEx.pkg
 
 Use cWinAPI_Kernel32.pkg
 
@@ -9,7 +10,7 @@ Object oKernel32_VW is a View
 
   Set Border_Style to Border_Thick
   Set Size to 223 300
-  Set Location to 9 11
+  Set Location to 19 38
   Set Label to "Kernel32.dll"
   
   Object oKernel32 is a cWinAPI_Kernel32
@@ -103,27 +104,33 @@ Object oKernel32_VW is a View
       Object oButton2 is a Button
         Set Location to 4 232
         Set Label to "Test"
-        Set Enabled_State to False
+//        Set Enabled_State to False
       
         // fires when the button is clicked
         Procedure OnClick
-          Integer iVoid
+          Integer iVoid iREtVal
           DWord dwMemoryLoad dwTotalPhys dwAvailPhys dwTotalPageFile       
           DWord dwAvailPageFile dwTotalVirtual dwAvailVirtual      
-          tWINAPI_MEMORYSTATUS MyMemory
+          
+          tWinAPI_MemoryStatusEx MyMemory
           
           //ZeroType WINAPI_MEMORYSTATUS to sMemoryStatus      
           
+            Move (SizeOfType (tWinAPI_MemoryStatusEx)) to MyMemory.dwLength
+            Move (WINAPI_GlobalMemoryStatusEx (AddressOf (MyMemory))) to iRetval
+            If (iRetval = 0) Begin
+                Move (ShowLastError ()) to iRetval
+            End
                  
-          Move (WINAPI_GlobalMemoryStatus (AddressOf (MyMemory))) to iVoid    
+//          Move (WINAPI_GlobalMemoryStatusEx (AddressOf (MyMemory))) to iVoid    
           
           Showln MyMemory.dwMemoryLoad          // fires when the button is clicked
-          Showln MyMemory.dwTotalPhys      
-          Showln MyMemory.dwAvailPhys              
-          Showln MyMemory.dwTotalPageFile          
-          Showln MyMemory.dwAvailPageFile      
-          Showln MyMemory.dwTotalVirtual     
-          Showln MyMemory.dwAvailVirtual
+          Showln MyMemory.ullTotalPhys      
+          Showln MyMemory.ullAvailPhys              
+          Showln MyMemory.ullTotalPageFile          
+          Showln MyMemory.ullAvailPageFile      
+          Showln MyMemory.ullTotalVirtual     
+          Showln MyMemory.ullAvailVirtual
           
             
         End_Procedure
@@ -217,7 +224,27 @@ Object oKernel32_VW is a View
     End_Object
 
     Object oTabPage5 is a TabPage
-      Set Label to 'oTabPage5'
+      Set Label to "ComputerName"
+
+        Object oTextBoxCompName is a TextBox
+            Set Size to 10 35
+            Set Location to 79 114
+            Set Label to 'ComputerName'
+            Set FontSize to 14 0
+        End_Object
+
+        Object oButton4 is a Button
+            Set Location to 8 220
+            Set Label to 'TEST'
+        
+            // fires when the button is clicked
+            Procedure OnClick
+                String sVal
+                Get psComputername of oKernel32 to sVal              
+                Set Label of oTextBoxCompName to sVal
+            End_Procedure
+        
+        End_Object
     End_Object
 
     Object oTabPage6 is a TabPage

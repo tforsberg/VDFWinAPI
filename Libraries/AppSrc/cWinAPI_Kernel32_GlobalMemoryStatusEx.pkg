@@ -35,11 +35,11 @@ Use UI
 Use tWinAPI_MemoryStatusEx.h
 Use WinAPI_Kernel.h
 
-Class cWinAPI_Kernel32_GlobalMemoryStatus is a cObject
+Class cWinAPI_Kernel32_GlobalMemoryStatusEx is a cObject
 
   Procedure Refresh
-    Property tWINAPI_MEMORYSTATUS ptGlobalMemoryStatus
-    tWINAPI_MEMORYSTATUS MemoryStatus
+    Property tWinAPI_MemoryStatusEx ptGlobalMemoryStatus
+    tWinAPI_MemoryStatusEx MemoryStatus
     Integer iVoid
 
     Move (WINAPI_GlobalMemoryStatus (AddressOf (MemoryStatus))) to iVoid
