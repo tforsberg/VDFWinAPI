@@ -1,7 +1,7 @@
 //==============================================================================
-// Project      : VDF WinAPI - VDF Classes for the Windows API
+// Project      : WinAPI - DataFlex Classes for the Windows API
 // File         : cWinAPI_Kernel32.pkg
-// Description  : VDF Wrapper Class for Kernel32.dll
+// Description  : DataFlex Wrapper Class for Kernel32.dll
 //
 // Revision     : 1.0 
 //               
@@ -15,15 +15,15 @@
 //                todd@vdfd.com
 //                tforsberg@gmail.com
 //
-//                This file is part of VDF WinAPI Library.
+//                This file is part of DataFlex WinAPI Library.
 //
-//                VDF WinAPI Library is free software: you can redistribute it and/or 
+//                DataFlex WinAPI Library is free software: you can redistribute it and/or 
 //                modify it under the terms of the GNU Lesser General Public License 
 //                as published by the Free Software Foundation, either version 
 //                2.1 of the License, or (at your option) any later version.
 //
-//                VDF WinAPI is distributed in the hope that it will be useful, but 
-//                WITHOUT ANY WARRANTY; without even the implied warranty of
+//                DataFlex WinAPI is distributed in the hope that it will be useful,
+//                but WITHOUT ANY WARRANTY; without even the implied warranty of
 //                MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 //                GNU Lesser General Public License for more details.
 //
@@ -40,6 +40,16 @@ Use GlobalFunctionsProcedures.pkg
 
 Use WinAPI_Kernel.h
 Use cWinAPI_Kernel32_GlobalMemoryStatus.pkg
+
+#IFNDEF GlobalAddAtom
+   External_Function GlobalAddAtom "GlobalAddAtomA" KERNEL32.DLL String sAtom Returns Integer
+#ENDIF
+#IFNDEF GlobalFindAtom
+   External_Function GlobalFindAtom "GlobalFindAtomA" KERNEL32.DLL String sAtom Returns Integer
+#ENDIF
+#IFNDEF GlobalDeleteAtom
+   External_Function GlobalDeleteAtom "GlobalDeleteAtom" KERNEL32.DLL Handle hAtom Returns Integer
+#ENDIF
 
 
 Class cWinAPI_Kernel32 is a cObject
@@ -72,13 +82,49 @@ Class cWinAPI_Kernel32 is a cObject
         Integer iRetval
         
         Move (Repeat (Character (0), MAX_COMPUTERNAME_LENGTH + 1)) to sComputerName
-        GetAddress of sComputerName to lpComputerName
+        Move (AddressOf(sComputerName)) to lpComputerName
         Move (DwordToBytes (MAX_COMPUTERNAME_LENGTH + 1)) to sNameSize
-        GetAddress of sNameSize to lpNameSize
+        Move (AddressOf(sNameSize)) to lpNameSize
         Move (WINAPI_GetComputerNameA(lpComputerName, lpNameSize)) to iRetval
         
-        Function_Return (CString (sComputerName))
-    End_Function // ComputerName
+        Function_Return (CString(sComputerName))
+    End_Function
+
+    Function szGlobalAddAtom Global String sAtom Returns Integer
+        Integer iAtom
+        Append sAtom (Character(0))
+        Move (GlobalAddAtom(sAtom)) to iAtom
+        Move (iAtom iand |CI$FFFF) to iAtom
+        Function_Return iAtom
+    End_Function
+    
+    Function szGlobalFindAtom Global String sAtom Returns Integer
+        Integer iAtom
+        Append sAtom (Character(0))
+        Move (GlobalFindAtom(sAtom)) to iAtom
+        Move (iAtom iand |CI$FFFF) to iAtom
+        Function_Return iAtom
+    End_Function
+    
+    Function CreateUniqueAtom String sAtom Returns Boolean
+       Integer hAtom
+       Move (ToANSI(sAtom)) to sAtom
+       Move (szGlobalFindAtom(sAtom)) to hAtom
+       If (hAtom) Function_Return False
+       Move (szGlobalAddAtom(sAtom)) to hAtom
+       Function_Return True
+    End_Function
+    
+    Function DeleteAtom Global String sAtom Returns Void_Type
+       Integer hAtom
+       Move (ToANSI(sAtom)) to sAtom
+       Move (szGlobalFindAtom(sAtom)) to hAtom
+       While (hAtom<>0)
+          Move (GlobalDeleteAtom(hAtom)) to hAtom
+          Move (szGlobalFindAtom(sAtom)) to hAtom
+       End
+    End_Function
+
 
 End_Class
 

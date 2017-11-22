@@ -14,6 +14,19 @@ External_Function WINAPI_GlobalMemoryStatusEx "GlobalMemoryStatusEx" Kernel32.Dl
 External_Function WINAPI_GetTickCount "GetTickCount"  Kernel32.dll ;
     Returns DWord
 
+External_Function WINAPI_GlobalAddAtom "GlobalAddAtomA" KERNEL32.DLL ;
+    String sAtom ;
+    Returns Integer
+
+External_Function WINAPI_GlobalFindAtom "GlobalFindAtomA" KERNEL32.DLL ;
+    String sAtom ;
+    Returns Integer
+
+External_Function WINAPI_GlobalDeleteAtom "GlobalDeleteAtom" KERNEL32.DLL ;
+    Handle hAtom ;
+    Returns Integer
+
+
 Define MAX_COMPUTERNAME_LENGTH for 15
 
 External_Function WINAPI_GetComputerNameA "GetComputerNameA" Kernel32.Dll ;
@@ -43,4 +56,5 @@ External_Function WinAPI_MultiByteToWideChar "MultiByteToWideChar" kernel32.dll 
     Pointer lpWideCharStr ;
     Integer cchWideChar ;
     Returns Integer
+
 

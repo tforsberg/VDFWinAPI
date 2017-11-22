@@ -31,9 +31,9 @@
 //
 //==============================================================================
 
-Use UI
-Use tWinAPI_MemoryStatus.h
+//Use UI
 Use WinAPI_Kernel.h
+Use tWinAPI_MemoryStatus.h
 
 Class cWinAPI_Kernel32_GlobalMemoryStatus is a cObject
 
