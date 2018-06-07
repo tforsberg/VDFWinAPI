@@ -32,7 +32,7 @@ Object oMain is a Panel
         Object oMenuBar is a cCJMenuBar
 
             Object oFileMenu is a cCJMenuItem
-                Set peControlType to xtpControlPopup          
+                Set peControlType to xtpControlPopup
                 Set psCaption   to "&File"
                 Set psDescription to "Find, Save, Delete, Clear information or quit this application."
                 Set psCategory to "Menus"
@@ -95,7 +95,7 @@ Object oMain is a Panel
                 Object ooKernel32VWMenuItem is a cCJMenuItem
                   Set psCaption to "oKernel32_VW"
                   Set psTooltip to "oKernel32_VW"
-                
+
                   Procedure OnExecute Variant vCommandBarControl
                     Handle hoClient
                     Get Client_Id to hoClient
@@ -106,7 +106,7 @@ Object oMain is a Panel
                 Object ooShell32VWMenuItem is a cCJMenuItem
                     Set psCaption to "oShell32_VW"
                     Set psTooltip to "oShell32_VW"
-                
+
                     Procedure OnExecute Variant vCommandBarControl
                         Handle hoClient
                         Get Client_Id to hoClient
@@ -114,18 +114,18 @@ Object oMain is a Panel
                     End_Procedure
                 End_Object
             End_Object
-            
+
             Object oReportMenu is a cCJMenuItem
-                Set peControlType to xtpControlPopup          
+                Set peControlType to xtpControlPopup
                 Set psCaption to "&Report"
                 Set psToolTip to "Report"
                 Set psDescription to "Available Reports"
             End_Object
 
             Object oNavigateMenu is a cCJMenuItem
-                Set peControlType to xtpControlPopup      
-                Set psCaption to "&Navigate"    
-                Set psTooltip to "Navigate"    
+                Set peControlType to xtpControlPopup
+                Set psCaption to "&Navigate"
+                Set psTooltip to "Navigate"
                 Set psDescription to "Move to different areas of the application"
 
                 Object oNextAreaMenu is a cCJNextAreaMenu
@@ -153,11 +153,11 @@ Object oMain is a Panel
                 Set peControlType to xtpControlPopup
                 Set psCaption to "&Window"
                 Set psToolTip to "Window"
-                Set psDescription to "Display Current Views and set other display options."    
+                Set psDescription to "Display Current Views and set other display options."
 
-                // These are the static windows items. More will be created in onInitPopup 
+                // These are the static windows items. More will be created in onInitPopup
                 Object oDisplayOptionsMenu is a cCJMenuItem
-                    Set peControlType to xtpControlPopup          
+                    Set peControlType to xtpControlPopup
                     Set psCaption to "&Display Options"
                     Set psToolTip to "Display Options"
                     Set psDescription to "Set display options"
@@ -198,12 +198,12 @@ Object oMain is a Panel
             End_Object
 
             Object oHelpMenu is a cCJMenuItem
-                Set peControlType to xtpControlPopup    
+                Set peControlType to xtpControlPopup
                 Set psCaption to "&Help"
                 Set psDescription to "Access Information for learning and using this DataFlex application."
                 Set psToolTip to "Help"
 
-                Object oHelpMenuItem is a cCJHelpMenuItem 
+                Object oHelpMenuItem is a cCJHelpMenuItem
                 End_Object
 
                 Object oAboutMenuItem is a cCJAboutMenuItem

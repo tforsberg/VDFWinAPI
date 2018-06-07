@@ -40,7 +40,7 @@ Class cWinAPI_Kernel32_GlobalMemoryStatus is a cObject
     Procedure Refresh
         tWINAPI_MEMORYSTATUS MemoryStatus
         Integer iVoid
-        
+
         Move (WINAPI_GlobalMemoryStatus (AddressOf (MemoryStatus))) to iVoid
         Set ptGlobalMemoryStatus to MemoryStatus
     End_Procedure
@@ -50,7 +50,7 @@ Class cWinAPI_Kernel32_GlobalMemoryStatus is a cObject
         Property tWINAPI_MEMORYSTATUS ptGlobalMemoryStatus
         Send Refresh
     End_Procedure
-    
+
 //    Procedure End_Construct_Object
 //        Forward Send End_Construct_Object
 //    End_Procedure

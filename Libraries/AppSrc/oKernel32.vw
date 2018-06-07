@@ -12,7 +12,7 @@ Object oKernel32_VW is a View
   Set Size to 223 300
   Set Location to 19 38
   Set Label to "Kernel32.dll"
-  
+
   Object oKernel32 is a cWinAPI_Kernel32
   End_Object
 
@@ -27,31 +27,31 @@ Object oKernel32_VW is a View
       Object oButton2 is a Button
         Set Location to 4 232
         Set Label to "Test"
-      
+
         // fires when the button is clicked
         Procedure OnClick
           Integer iVoid
           Handle hMem
-          DWord dwMemoryLoad dwTotalPhys dwAvailPhys dwTotalPageFile       
-          DWord dwAvailPageFile dwTotalVirtual dwAvailVirtual      
+          DWord dwMemoryLoad dwTotalPhys dwAvailPhys dwTotalPageFile
+          DWord dwAvailPageFile dwTotalVirtual dwAvailVirtual
           tWINAPI_MEMORYSTATUS MyMemory
           Get GlobalMemoryStatus of oKernel32 to MyMemory
-          
+
 //          Get Create (RefClass(cWinAPI_Kernel32_GlobalMemoryStatus)) to hMem
 //          Get ptGlobalMemoryStatus of hMem to MyMemory
-          
+
           Set Value of oFormMemoryLoad    to MyMemory.dwMemoryLoad          // fires when the button is clicked
-          Set Value of oFormTotalPhys     to MyMemory.dwTotalPhys      
-          Set Value of oFormAvailPhys     to MyMemory.dwAvailPhys              
-          Set Value of oFormTotalPageFile to MyMemory.dwTotalPageFile          
-          Set Value of oFormAvailPageFile to MyMemory.dwAvailPageFile      
-          Set Value of oFormTotalVirtual  to MyMemory.dwTotalVirtual     
+          Set Value of oFormTotalPhys     to MyMemory.dwTotalPhys
+          Set Value of oFormAvailPhys     to MyMemory.dwAvailPhys
+          Set Value of oFormTotalPageFile to MyMemory.dwTotalPageFile
+          Set Value of oFormAvailPageFile to MyMemory.dwAvailPageFile
+          Set Value of oFormTotalVirtual  to MyMemory.dwTotalVirtual
           Set Value of oFormAvailVirtual  to MyMemory.dwAvailVirtual
 
 //          Send Destroy of hMem
-          
+
         End_Procedure
-      
+
       End_Object
 
       Object oFormMemoryLoad is a Form
@@ -71,7 +71,7 @@ Object oKernel32_VW is a View
         Set Location to 50 65
         Set Label to "AvailPhys"
       End_Object
-      
+
       Object oFormTotalPageFile is a Form
         Set Size to 13 100
         Set Location to 67 65
@@ -105,36 +105,36 @@ Object oKernel32_VW is a View
         Set Location to 4 232
         Set Label to "Test"
 //        Set Enabled_State to False
-      
+
         // fires when the button is clicked
         Procedure OnClick
           Integer iVoid iREtVal
-          DWord dwMemoryLoad dwTotalPhys dwAvailPhys dwTotalPageFile       
-          DWord dwAvailPageFile dwTotalVirtual dwAvailVirtual      
-          
+          DWord dwMemoryLoad dwTotalPhys dwAvailPhys dwTotalPageFile
+          DWord dwAvailPageFile dwTotalVirtual dwAvailVirtual
+
           tWinAPI_MemoryStatusEx MyMemory
-          
-          //ZeroType WINAPI_MEMORYSTATUS to sMemoryStatus      
-          
+
+          //ZeroType WINAPI_MEMORYSTATUS to sMemoryStatus
+
             Move (SizeOfType (tWinAPI_MemoryStatusEx)) to MyMemory.dwLength
             Move (WINAPI_GlobalMemoryStatusEx (AddressOf (MyMemory))) to iRetval
             If (iRetval = 0) Begin
                 Move (ShowLastError ()) to iRetval
             End
-                 
-//          Move (WINAPI_GlobalMemoryStatusEx (AddressOf (MyMemory))) to iVoid    
-          
+
+//          Move (WINAPI_GlobalMemoryStatusEx (AddressOf (MyMemory))) to iVoid
+
           Showln MyMemory.dwMemoryLoad          // fires when the button is clicked
-          Showln MyMemory.ullTotalPhys      
-          Showln MyMemory.ullAvailPhys              
-          Showln MyMemory.ullTotalPageFile          
-          Showln MyMemory.ullAvailPageFile      
-          Showln MyMemory.ullTotalVirtual     
+          Showln MyMemory.ullTotalPhys
+          Showln MyMemory.ullAvailPhys
+          Showln MyMemory.ullTotalPageFile
+          Showln MyMemory.ullAvailPageFile
+          Showln MyMemory.ullTotalVirtual
           Showln MyMemory.ullAvailVirtual
-          
-            
+
+
         End_Procedure
-      
+
       End_Object
 
       Object oFormMemoryLoad is a Form
@@ -180,14 +180,14 @@ Object oKernel32_VW is a View
       Object oButton3 is a Button
         Set Location to 26 42
         Set Label to 'oButton3'
-      
+
         // fires when the button is clicked
         Function VDFRootDir Returns String
           Handle hoRegistry
           Boolean bKeyOpened
           String sRegKey sRootDir
           UInteger iAccessRights
-          
+
           Get Create U_cRegistry to hoRegistry
           If (hoRegistry > 0) Begin
             Get pfAccessRights of hoRegistry to iAccessRights
@@ -212,10 +212,10 @@ Object oKernel32_VW is a View
 
         Procedure OnClick
           //04/17/2010 GAF changed to use cRegistry Class
-          
+
           Showln (VDFRootDir(Self))
         End_Procedure
-      
+
       End_Object
     End_Object
 
@@ -236,14 +236,14 @@ Object oKernel32_VW is a View
         Object oButton4 is a Button
             Set Location to 8 220
             Set Label to 'TEST'
-        
+
             // fires when the button is clicked
             Procedure OnClick
                 String sVal
-                Get psComputername of oKernel32 to sVal              
+                Get psComputername of oKernel32 to sVal
                 Set Label of oTextBoxCompName to sVal
             End_Procedure
-        
+
         End_Object
     End_Object
 
@@ -253,12 +253,12 @@ Object oKernel32_VW is a View
       Object oButton1 is a Button
         Set Location to 53 84
         Set Label to 'oButton1'
-      
+
           // fires when the button is clicked
           Procedure OnClick
-              
+
           End_Procedure
-      
+
       End_Object
     End_Object
 
@@ -269,7 +269,7 @@ Object oKernel32_VW is a View
     Object oTabPage8 is a TabPage
       Set Label to 'oTabPage8'
     End_Object
-    
+
   End_Object
 
 Cd_End_Object
