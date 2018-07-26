@@ -110,7 +110,9 @@ Class cWinAPI_Kernel32 is a cObject
        Integer hAtom
        Move (ToANSI(sAtom)) to sAtom
        Move (szGlobalFindAtom(sAtom)) to hAtom
-       If (hAtom) Function_Return False
+       If (hAtom) Begin
+           Function_Return False
+       End
        Move (szGlobalAddAtom(sAtom)) to hAtom
        Function_Return True
     End_Function
